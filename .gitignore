@@ -1,0 +1,8 @@
+node_modules
+assets/css
+icons-demo.html
+icons.svg
+plugins.js
+*.scssc
+
+.cache

@@ -1,6 +1,144 @@
-title: Welcome to posttruth24!
+_model: home
 ---
-body:
+next_date: 2017-03-04
+---
+title: You are invited
+---
+banner_heading_1: You are invited.
+---
+banner_heading_2: Again!
+---
+banner_content_1: Open Data Day will take place on
+---
+banner_content_2: Saturday, 4 March 2017
+---
+intro_heading: What is Open Data Day?
+---
+intro_body:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages and a blog.
+Open Data day is an annual meetup by Open Data enthusiasts for everybody interested in the potential of data in the information age. If you are interested in using more data, making better use of data or finding more data to use, then join us on Open Data Day in Tartu.
+
+The event will be held in [Paabel (Ülikooli 17)](https://www.facebook.com/events/1856419724613761/) on Saturday, 4 March, from 11:00 to 16:00.
+---
+intro_body_2:
+
+---
+year_intro:
+
+Our focus this year is on Open Data in science and how to use data to establish facts in the age of post-truth problematics. We will have workshops on many different tracks, from linked data methods to using data in humanities.
+---
+register_text: Register your event here
+---
+events_registered: events registered
+---
+who_heading: What is going on this year?
+---
+who_body:
+
+The event is language neutral, which means that we use English wherever possible and the majority of topics will be presented in English. There are no language restrictions for participants for asking questions or making comments: we try to include everybody in the discussions and do ad hoc translation where needed.
+
+You are welcome to pop in to any of our workshops/presentations or just come to meet other people interested in data:
+
+- Estonian Open Data [issue tracker](https://github.com/okestonia/Estonian-Open-Data-Issue-Tracker/issues) and Open Data Index — *Hille Hinsberg, Board of Open Knowledge Estonia*  
+- Experience with using Open Data in Regio maps — *Risto Ülem*  
+- Resources for open research data (DataCite, OpenAire) — *Tiiu Tarkpea, Tartu University Library*  
+- Availability and use cases of environmental data — *Kristjan Piirimäe, Estonian Fund for Nature*  
+- TEXTA Law: legal text search tool based on public data — *Silver Traat*  
+
+
+- Datasets of folkloristics: Literary Museum and examples of use — *Mari Sarv, Society for Digital Humanities*  
+- Development of the [Open Data Portal of Estonia](https://opendata.riik.ee) and status of the Open Data infrastructure — *Märt Põder, Board of Open Knowledge Estonia*  
+- Hacking municipal decision flow data — *Gea Kangilaski, Open Tartu project*  
+- Linked Open Data: Principles, tools and examples — *Nicola Vitucci*  
+- Challenges of using public photographic material in Wikipedia — *Ivo Kruusamägi*  
+
+Workshops (there will be ad hoc workshops too and you can host your own, if you want):
+
+- State of Open Data materials available for users of data, data publishers, governments — *Käbi Suvi*
+- Challenges of uploading, licensing photos in Wikipedia — *Marta Peebo/Ivo Kruusamägi*
+- Wikidata: Introduction and editing — *Nicola Vitucci*
+- "Data expedition" into religiousness of Estonians — *Märt Põder*
+
+Some additional workshops and presentations are still discussed, so check either here or our [Facebook page](https://www.facebook.com/events/1856419724613761) for the latest program.
+
+If you have an idea for using open data, want to find an interesting project to contribute towards, learn about how to visualise or analyse data or simply want to see what's happening, then definitely come participate! Participation is a core value of Open Data Day, everyone is free to voice their opinions in a constructive manner. No matter your skill-set or interests, we are encouraging organisers to foster opportunities for you to learn and help the global open data community grow.
+---
+who_title_1: Citizens
+---
+who_description_1:
+
+We need you the most. If it wasn’t for you, this whole thing wouldn’t be happening. We need ideas, cheerleaders, and friends to spread the word.
+---
+who_title_2: Public Servants
+---
+who_description_2:
+
+Your input and context can help us to make government data better. Come converse and learn.
+---
+who_title_3: Designers
+---
+who_description_3:
+
+Help us make open data relatable, so more people will use it and understand it.
+---
+who_title_4: Developers
+---
+who_description_4:
+
+Use your skills to develop solutions that can help solve important societal issues.
+---
+who_title_5: Statisticians
+---
+who_description_5:
+
+Use your skills to help understand the data and get important insights from it.
+---
+resources_heading: Event Resources
+---
+resources_intro:
+
+Find all the details about the event here!
+---
+resources_button: Resources
+---
+resources_materials_heading: Contacts
+---
+resources_materials_text:
+
+Follow us on [Facebook](https://www.facebook.com/events/1856419724613761)! We also discuss on Skype in [this chat](https://join.skype.com/gBhU1FMq2Rdx), and you can find our Github repo [here](https://github.com/okestonia/opendataday/).
+---
+resources_ideas_heading: Program
+---
+resources_ideas_intro:
+The venue of the event is **[Ülikooli 17 (Paabel)](https://www.google.ee/maps/place/%C3%9Clikooli+17,+51005+Tartu/@58.3812397,26.718511,17z/data=!3m1!4b1!4m5!3m4!1s0x46eb36e6ce42ef31:0xce02b9debacebbb6!8m2!3d58.3812369!4d26.7206997)** and we will meet there **from 11:00 to 16:00**. The presentations will start at 11:30 and will end around 15:00.  
+
+The exact schedule is still under discussion and you are most welcome to suggest or host your own track or workshop during the event. Feel free to contact us or [file an issue](https://github.com/okestonia/opendataday/issues) on Github.
+---
+resources_ideas_theme_1:
+---
+resources_ideas_theme_1_text:
+
+---
+resources_ideas_theme_2:
+---
+resources_ideas_theme_2_text:
+
+---
+resources_ideas_theme_3:
+---
+resources_ideas_theme_3_text:
+
+---
+resources_ideas_theme_4: 
+---
+resources_ideas_theme_4_text:
+
+---
+support_scheme_heading: Partners
+---
+support_scheme_body:
+
+Organizer: [Open Knowledge Estonia](http://ee.okfn.org)  
+Promoter: [MTÜ Häkkerikoda (Hackerspace in Tartu)](https://hackest.org)  
+Venue: [UT Arvutiteaduse Instituut (Institute of Computer Science)](https://www.cs.ut.ee)   
+Coffee and snacks: [Wikimedia Estonia](https://ee.wikimedia.org)  

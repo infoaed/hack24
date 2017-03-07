@@ -1,0 +1,147 @@
+language: et
+---
+next_date: 2017-03-04
+---
+title: Avaandmete päev 2017 Tartus
+---
+banner_heading_1: Olete oodatud.
+---
+banner_heading_2: Jälle!
+---
+banner_content_1: Avaandmete Päev toimub
+---
+banner_content_2: laupäeval, 4. märtsil 2017
+---
+intro_heading: Mis on Avaandmete Päev?
+---
+intro_body:
+
+Avaandmete päev on igaaastane andmehuviliste üritus, kuhu on oodatud nii eksperdid kui uudistajad sõltumata oma taustast. Kui sind huvitab, kuidas kasutada andmeid või kasutada neid paremini või leida rohkem andmeid, mida oma tegevuses kasutada, siis tule ja liitu meiega avaandmete päeval Tartus! Ülemaailmselt tähistatakse avaandmete päeva seekord viiendat korda, Tartus toimub see teist korda.
+
+---
+intro_body_2:
+
+Tartu avaandmete päev toimub L 4.03 kl 11‒16 [Paabelis (Ülikooli 17)](https://www.facebook.com/events/1856419724613761/).
+
+---
+year_intro:
+
+Andmed on tänapäeval järjest olulisemad, räägitakse suurandmetest, isikuandmetest ja andmed olevat "uus nafta", mis on majanduse mootoriks. Tutvustame seerias töötubades ja ettekannetes andmete kasutamise võimalusi nii esimeste sammude tegijatele kui tõsisematele huvilistele, sj sõltumata erialast ja valdkonnast.
+
+---
+register_text: Registreeri sündmus siin.
+---
+events_registered: sündmused registreeritud
+---
+who_heading: Mis täpsemalt sel aastal toimub?
+---
+who_body:
+
+Ettekanded ja töötoad plaanime läbi viia keeleneutraalselt, st praktikas kasutame inglise keelt, kui vähegi võimalik, ja enamik ettekandeid/töötubasid on inglise keeles. Seejuures ei piira me osalejate soovi esitada küsimusi või arutada töötubades mistahes keeles, vajadusel püüame ad hoc tõlkida.
+
+Ettekannete nimekiri (täieneb veel jooksvalt):
+
+* Open Knowledge esitleb avaandmete soovinimekirja/turgu Githubis (ja Open Data Indexit) — Hille Hinsberg
+* Regio kogemus avaandmete kasutamisega oma kaartidel — Risto Ülem
+* TÜ raamatukogu tutvustab teaduse avaandmete varamuid (DataCite, OpenAire) — Tiiu Tarkpea
+* Eestimaa Looduse Fondi ülevaade keskkonnaandmetest ja nende saadavusest — Kristjan Piirimäe
+* TEXTA Law õigustekstide otsingusüsteem avalikult kättesaadavate andmete baasil — Silver Traat
+* Digitaalhumanitaaria Selts folkloristika, sj kirjandusmuuseumi andmekogudest ning kasutusnäidetest — Mari Sarv
+* Avaandmete portaalide/kataloogide tehnilisest taristust ja väljakutsetest — Märt Põder
+* Open Tartu kogemusest KOV otsuseprotsesside andmete kasutamisel digiosaluse rakendustes — Gea Kangilaski
+* Avatud linkandmed: põhimõtted, tööriistad ja näited — Nicola Vitucci
+* Avaliku fotomaterjali kasutamise väljakutsed Vikipeedia kogemuse põhjal — Ivo Kruusamägi
+
+Töötoad (võite algatada ka omaaenda töötoa, andke sellest soovist võimalusel varem teada):
+
+* Avaandmete juhendmaterjalid kasutajate, andmevaldajate ja riigiasutuste jaoks — Käbi Suvi
+* Fotode üleslaadimine Vikipeediasse ja litsentsiküsimuste lahendamine — Marta Peebo/Ivo Kruusamägi
+* Wikidata: sissejuhatus panustamiseks — Nicola Vitucci
+* Andmeekspeditsioon eestlaste (mitte-)religioossuse teemasse — Märt Põder
+
+Värske nimekirja ettekannetest ja töötubadest leiab avaandmete päeva kodulehelt või [Facebooki sündmuse](https://www.facebook.com/events/1856419724613761/) kirjeldusest.
+
+---
+who_title_1: Kodanikud
+---
+who_description_1:
+
+Sind vajame me kõige enam. Ilma sinua seda üritust ei toimuks. Me vajame ideid, eestvedajaid, sõpru, kes infot laiali saadavad.
+---
+who_title_2: Riigiametnikud
+---
+who_description_2:
+
+Teie panus aitab meil muuta valitsuse kogutud andmete hulka paremaks. Tulge osalege ja õppige.
+---
+who_title_3: Disainerid
+---
+who_description_3:
+
+Aidake meil muuta avaandmed omavahel siduvaks, et rohkem inimesi seda mõistaksid ja kasutaksid.
+---
+who_title_4: Tarkvaraarendajad
+---
+who_description_4:
+
+Kasutage oma oskusi, et arendada lahendusi, mis aitavad lahendada olulisi ühiskondlikke probleeme.
+---
+who_title_5: Statistikud
+---
+who_description_5:
+
+Kasutage enda oskusi, et aidata andmeid mõista ja neist oluliseim esile tuua.
+---
+resources_heading: Info sündmuse kohta
+---
+resources_intro:
+
+Miks on andmed olulised ja selline üritus vajalik?
+
+---
+resources_button: Lisainfo
+---
+resources_materials_heading: Kontaktid
+---
+resources_materials_text:
+
+Sündmus [Facebookis](https://www.facebook.com/events/1856419724613761)  
+Arutelu [Skype'is](https://join.skype.com/gBhU1FMq2Rdx)  
+Ürituse materjalid [GitHubis](https://github.com/okestonia/opendataday/)  
+---
+resources_ideas_heading: Taustast
+---
+resources_ideas_intro:
+
+Esimest korda toimus Eestis avaandmete päev [5.03.2016 Tartus](http://opendata.ee/et/blog/tartu-linna-andmekogude-avamine/). Sellele järgnenud aasta jooksul toimus andmeteadlaste ja andmehuviliste koondumine, mille tulemuseks oli [Open Knowledge Estonia asutamine](http://opendata.ee/et/blog/want-to-join-open-data-estonia-as-formal-organization/) 27.10.2016. Ühelt poolt oli põhjuseks andmete valdkonna muutumine järjest olulisemaks, teiselt poolt soov kiirendada Eesti arengut avalike andmekogude pakkumise vallas.
+
+Avaandmete päeval algatame ka [avaandmete turuplatsi](https://github.com/okestonia/Estonian-Open-Data-Issue-Tracker/issues), et koordineerida andmekogude avamist huvigruppide jaoks ja anda teabevaldajatele orientiire andmehulkade prioritiseerimiseks.
+
+---
+resources_ideas_theme_1:
+---
+resources_ideas_theme_1_text:
+
+---
+resources_ideas_theme_2:
+---
+resources_ideas_theme_2_text:
+
+---
+resources_ideas_theme_3:
+---
+resources_ideas_theme_3_text:
+
+---
+resources_ideas_theme_4: 
+---
+resources_ideas_theme_4_text:
+---
+support_scheme_heading: Kes on kes?
+---
+support_scheme_body:
+
+Algataja: [Open Knowledge Estonia](https://ee.okfn.org/et)  
+Kaaskorraldaja: [Wikimedia Eesti](https://ee.wikimedia.org)  
+Toetaja: [MTÜ Häkkerikoda](https://hackest.org)   
+Ruumide eest täname: [TÜ Arvutiteaduse Instituut](https://www.cs.ut.ee)  

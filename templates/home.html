@@ -1,0 +1,151 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+{% include 'includes/nav.html' %}
+<!-- TODO: Quick and dirty solution, implement properly :-) -->
+<style>
+    h2 {font-size:44px;}
+    #who>div ul + p {padding-top:1em;}
+</style>
+<section id="what">
+  <div>
+    <div class="about">
+      <header>
+        <h2>{{ this.intro_heading }}</h2>
+        {{ this.intro_body }}
+        {% if this.intro_body_2 and (this.intro_button is not defined) %}
+        {{ this.intro_body_2 }}
+        {% endif %}
+      </header>
+      {% if this.intro_button %}
+      <a>{{ this.intro_button }}</a>
+      {% endif %}
+    </div>
+    <div class="this-year">
+      <header>
+          <h2>ODD {{ this.next_date.strftime('%Y') }}<br/>Tartu</h2>
+        {{ this.year_intro }}
+      </header>
+      <ul>
+        <li>
+          <svg><use xlink:href="#icon-research" /></svg>
+          {{ this.year_label_1 }}
+        </li>
+        <li>
+          <svg><use xlink:href="#icon-money" /></svg>
+          {{ this.year_label_2 }}
+        </li>
+        <li>
+          <svg><use xlink:href="#icon-environment" /></svg>
+          {{ this.year_label_3 }}
+        </li>
+        <li>
+          <svg><use xlink:href="#icon-rights" /></svg>
+          {{ this.year_label_4 }}
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="who">
+  <div>
+    <header>
+      <h2>{{ this.who_heading }}</h2>
+      {{ this.who_body }}
+    </header>
+    <ul>
+      <li>
+        <span>
+          <svg><use xlink:href="#icon-user-outline" /></svg>
+        </span>
+        <h3>{{ this.who_title_1 }}</h3>
+        {{ this.who_description_1 }}
+      </li>
+      <li>
+        <span>
+          <svg><use xlink:href="#icon-card" /></svg>
+        </span>
+        <h3>{{ this.who_title_2 }}</h3>
+        {{ this.who_description_2 }}
+      </li>
+      <li>
+        <span>
+          <svg><use xlink:href="#icon-brush" /></svg>
+        </span>
+        <h3>{{ this.who_title_3 }}</h3>
+        {{ this.who_description_3 }}
+      </li>
+      <li>
+        <span>
+          <svg><use xlink:href="#icon-code-outline" /></svg>
+        </span>
+        <h3>{{ this.who_title_4 }}</h3>
+        {{ this.who_description_4 }}
+      </li>
+      <li>
+        <span>
+          <svg><use xlink:href="#icon-chart-bar" /></svg>
+        </span>
+        <h3>{{ this.who_title_5 }}</h3>
+        {{ this.who_description_5 }}
+      </li>
+    </ul>
+  </div>
+</section>
+
+<section id="resources">
+  <div>
+    <header>
+      <h2>{{ this.resources_heading }}</h2>
+      <svg class="research"><use xlink:href="#icon-research" /></svg>
+      <svg class="money"><use xlink:href="#icon-money" /></svg>
+      <svg class="environment"><use xlink:href="#icon-environment" /></svg>
+      <svg class="rights"><use xlink:href="#icon-rights" /></svg>
+      {{ this.resources_intro }}
+    </header>
+    <a href="#resources">{{ this.resources_button }}</a>
+    <article>
+      <h3>{{ this.resources_materials_heading }}</h3>
+      {{ this.resources_materials_text }}
+      <h3>{{ this.resources_ideas_heading }}</h3>
+      <div>
+        {{ this.resources_ideas_intro }}
+        <span class="theme">
+          <h4>{{ this.resources_ideas_theme_1 }}</h4>
+          {{ this.resources_ideas_theme_1_text }}
+        </span>
+        <span class="theme">
+          <h4>{{ this.resources_ideas_theme_2 }}</h4>
+          {{ this.resources_ideas_theme_2_text }}
+        </span>
+        <span class="theme">
+          <h4>{{ this.resources_ideas_theme_3 }}</h4>
+          {{ this.resources_ideas_theme_3_text }}
+        </span>
+        <span class="theme">
+          <h4>{{ this.resources_ideas_theme_4 }}</h4>
+          {{ this.resources_ideas_theme_4_text }}
+        </span>
+        <span class="theme">
+          <h4>{{ this.resources_ideas_theme_5 }}</h4>
+          {{ this.resources_ideas_theme_5_text }}
+        </span>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section id="support">
+  <div>
+    <header>
+      <h2>{{ this.support_scheme_heading }}</h2>
+      {{ this.support_scheme_body }}
+    </header>
+    {% if this.support_scheme_button %}
+    <a href="https://blog.okfn.org/2017/01/25/announcing-the-2017-international-open-data-day-mini-grants-scheme/" rel="external">{{ this.support_scheme_button }}</a>
+    {% endif %}
+  </div>
+</section>
+
+{% endblock %}

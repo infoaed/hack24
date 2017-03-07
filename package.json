@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "build": "grunt plugins && grunt icons && grunt sass && grunt cssmin"
+  },
+  "devDependencies": {
+    "animate.css": "^3.5.2",
+    "css-modal": "^1.5.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-svgstore": "^1.0.0",
+    "jquery-smooth-scroll": "^2.1.2",
+    "normalize.css": "^5.0.0",
+    "slicknav": "^1.0.8",
+    "waypoints": "^4.0.1"
+  },
+  "author": "Sam Smith"
+}
