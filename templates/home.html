@@ -23,7 +23,7 @@
     </div>
     <div class="this-year">
       <header>
-          <h2>ODD {{ this.next_date.strftime('%Y') }}<br/>Tartu</h2>
+          <h2>31.03‒1.04<br>Tartu, Estonia</h2>
         {{ this.year_intro }}
       </header>
       <ul>
@@ -142,9 +142,15 @@
       <h2>{{ this.support_scheme_heading }}</h2>
       {{ this.support_scheme_body }}
     </header>
-    {% if this.support_scheme_button %}
-    <a href="https://blog.okfn.org/2017/01/25/announcing-the-2017-international-open-data-day-mini-grants-scheme/" rel="external">{{ this.support_scheme_button }}</a>
-    {% endif %}
+  </div>
+</section>
+
+<section id="partners">
+  <div>
+    <header>
+      <h2>{{ this.partners_heading }}</h2>
+      {{ this.partners_body }}
+    </header>
   </div>
 </section>
 

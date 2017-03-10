@@ -1,7 +1,7 @@
 <nav class="main-nav">
   <div>
     <div>
-      <a class="logo" href="{{ '/'|url }}">{% include 'includes/logo.png' %}</a>
+      <a class="logo" href="{{ '/'|url }}"><span style="font-variant: titling-caps; text-transform: uppercase; font-weight: 900; font-size: 1.5em;">24h Post-Truth Hackathon in Tartu</span></a>
 
       <ul class="menu" id="nav">
         {% for label, path in bag('main-nav', this.alt).iteritems() %}
@@ -10,7 +10,7 @@
       {% endfor %}
       </ul>
 
-      <div class="language">
+      <div class="language" style="display: none;">
         <div>
           {% if this.language %}
           {% set current_language = this.language %}

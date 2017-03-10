@@ -1,8 +1,8 @@
 _model: home
 ---
-next_date: 2017-03-04
+next_date: 2017-03-31
 ---
-title: You are invited
+title: Hack Post-Truth in 24h
 ---
 banner_heading_1: You are invited.
 ---
@@ -12,56 +12,69 @@ banner_content_1: Open Data Day will take place on
 ---
 banner_content_2: Saturday, 4 March 2017
 ---
-intro_heading: What is Open Data Day?
+intro_heading: Why a post-truth hackathon?
 ---
 intro_body:
 
-Open Data day is an annual meetup by Open Data enthusiasts for everybody interested in the potential of data in the information age. If you are interested in using more data, making better use of data or finding more data to use, then join us on Open Data Day in Tartu.
+The topic of post-truth emerged as a challenge for information society during late 2016. However, problem with manipulating public opinion is not new, but it has taken unprecedented scale with new digital media sphere becoming widespread and versatile.
 
-The event will be held in [Paabel (Ülikooli 17)](https://www.facebook.com/events/1856419724613761/) on Saturday, 4 March, from 11:00 to 16:00.
 ---
 intro_body_2:
+
+During hackathon we tackle with problems of trust, focusing on journalistic content itself and infrastructure of providing it.
 
 ---
 year_intro:
 
-Our focus this year is on Open Data in science and how to use data to establish facts in the age of post-truth problematics. We will have workshops on many different tracks, from linked data methods to using data in humanities.
+The event will be held in Spark Demo Centre during 24h starting with a kick-off for the teams on Friday 31th March and ending with awarding the best solutions on the evening of April 1st.
+
 ---
 register_text: Register your event here
 ---
 events_registered: events registered
 ---
-who_heading: What is going on this year?
+who_heading: What are we going to do?
 ---
 who_body:
 
-The event is language neutral, which means that we use English wherever possible and the majority of topics will be presented in English. There are no language restrictions for participants for asking questions or making comments: we try to include everybody in the discussions and do ad hoc translation where needed.
+For limited time of 24h people with various academic and/or professional background leave behind their well-deserved positions and bring their experience into elaboration of post-truth phenomena in workgroups of equal members who all have a say in how to define and solve a particular problem during the hackathon. Information technology experts, journalists, social scientists and people from various fields of humanities have different perspectives to the problems and solutions and they all are needed to choose right methods and frameworks to work on tehnological proofs-of-concept, example cases of journalistic work, initiatives of research projects and other expected outcomes of 24h of hacking.
 
-You are welcome to pop in to any of our workshops/presentations or just come to meet other people interested in data:
+Centre for Information Society and our partners provide advice and mentoring throughout the whole process, there will be short presentations and motivational speeches about topics involved.
 
-- Estonian Open Data [issue tracker](https://github.com/okestonia/Estonian-Open-Data-Issue-Tracker/issues) and Open Data Index — *Hille Hinsberg, Board of Open Knowledge Estonia*  
-- Experience with using Open Data in Regio maps — *Risto Ülem*  
-- Resources for open research data (DataCite, OpenAire) — *Tiiu Tarkpea, Tartu University Library*  
-- Availability and use cases of environmental data — *Kristjan Piirimäe, Estonian Fund for Nature*  
-- TEXTA Law: legal text search tool based on public data — *Silver Traat*  
+The expected outcomes of 24h hacking fit into two main categories.
 
+The first is a datastory or any other similar journalistic piece exeplifying a solution to post-truth puzzle for certain topic, be it insight to matters of immigration, wage gap, amount of forests or antything else that still lacks clear evidence-based accounts in Estonia or globally.
 
-- Datasets of folkloristics: Literary Museum and examples of use — *Mari Sarv, Society for Digital Humanities*  
-- Development of the [Open Data Portal of Estonia](https://opendata.riik.ee) and status of the Open Data infrastructure — *Märt Põder, Board of Open Knowledge Estonia*  
-- Hacking municipal decision flow data — *Gea Kangilaski, Open Tartu project*  
-- Linked Open Data: Principles, tools and examples — *Nicola Vitucci*  
-- Challenges of using public photographic material in Wikipedia — *Ivo Kruusamägi*  
+The second one is an innovative solution for some part of publishing, distribution or feedback models of journalism and new media, for example solutions for fact-checking, creating aggregators and specialized publishing platforms, assessing spread or impact of news stories, detectig trolls and fake-news fit well into this category.
 
-Workshops (there will be ad hoc workshops too and you can host your own, if you want):
+Everything that lies inbetween these categories is welcome too, but you have to be careful not to take too big piece to solve during the hackathon. To give the rather abstract concept of post-truth more flesh, we have listed some of the concepts relevant for tackling post-truth issues.
 
-- State of Open Data materials available for users of data, data publishers, governments — *Käbi Suvi*
-- Challenges of uploading, licensing photos in Wikipedia — *Marta Peebo/Ivo Kruusamägi*
-- Wikidata: Introduction and editing — *Nicola Vitucci*
-- "Data expedition" into religiousness of Estonians — *Märt Põder*
+* Data analysis
 
-Some additional workshops and presentations are still discussed, so check either here or our [Facebook page](https://www.facebook.com/events/1856419724613761) for the latest program.
+Using actual data all the way down to the bottom of question or problem is probably best ways to establish truths in information society. It's not always self-evident how data supports certain claims and how facts are determined based on different interpretations or theoretical frameworks, but the best way to deal with it, is to publish it all in a transparent manner for critics to scrutinize. But simple and clear visualisation for the rest of us.
 
-If you have an idea for using open data, want to find an interesting project to contribute towards, learn about how to visualise or analyse data or simply want to see what's happening, then definitely come participate! Participation is a core value of Open Data Day, everyone is free to voice their opinions in a constructive manner. No matter your skill-set or interests, we are encouraging organisers to foster opportunities for you to learn and help the global open data community grow.
+* Evidence-based journalism
+
+Since there is hardly a technical limit to space, news in digital medium can have all the links to the sources the articles are based on. It can be official reports or statements, but also actual data itself. This is a standard for scientific articles, however also Wikipedia has used this model for more than a decade, but data journalism, visualizing the data and providing direct references to full sources is still a new thing for most of online media.
+
+* Argument-based debates
+
+There is an ongoing debate on comment sections of online newspapers. Some have introduced real name policies to counter trolling and hate speech, some allow using pseudonyms, but there is no clear solution for creating discussion spaces where arguments are countered with arguments and discussiong stays focused. Social media platforms have introduced us to notion filter bubbles and there is no open and non-discriminating platform for discussions.
+
+* New publishing models
+
+There is enormous ambout of blogs and social media platforms that allow publishing any kind of content from text to audiovisual material in different style and length. How these new publishing models relate to traditional media and how can citizen journalism complement other forms of publishing, what about so-called Google tax to help online media to maintain income and provide quality content — but maybe there are other ways to innovate business models in journalism?
+
+* Evaluating impact
+
+There is a notion of fake news, where news stories are based on half-truths and polished so they will get traction on social media and Internet. Likes, retweets and comments don't necessarily show the impact of a story, but more than often success of a story is measured by amout of clicks and visitors. How to find out the distribution patterns of fake news and credit the real investigative journalism that adds to public discussions is still an ongoing research.
+
+* Networks of trust
+
+During recent years Internet has seen emergence of armies of trolls, some of those human, some computer, some paid by government agencies, some private funded. Opinion building on Internet is transforming from grassroots activism to corporate service that can be bought by money. There are movements to create open and transparent publishing channels, but often privacy and freedom of expression have to be sacrificed in order to maintain trust. Does it have to be so?
+
+The event is language neutral, which means that we use English wherever possible and the majority of content will be presented in English, idea pitches as well as final presentations should also be in English. There are no language restrictions for participants though: we try to include everybody in the discussions, asking questions or presenting their cases and do ad hoc translation where needed.
+
 ---
 who_title_1: Citizens
 ---
@@ -73,7 +86,7 @@ who_title_2: Public Servants
 ---
 who_description_2:
 
-Your input and context can help us to make government data better. Come converse and learn.
+Your input and context can help us to make use of government data. Come converse and learn.
 ---
 who_title_3: Designers
 ---
@@ -93,26 +106,24 @@ who_description_5:
 
 Use your skills to help understand the data and get important insights from it.
 ---
-resources_heading: Event Resources
+resources_heading: Registration
 ---
 resources_intro:
 
-Find all the details about the event here!
+Find all the details and register to the event here!
 ---
-resources_button: Resources
+resources_button: Register
 ---
-resources_materials_heading: Contacts
+resources_materials_heading: Registration form
 ---
 resources_materials_text:
 
-Follow us on [Facebook](https://www.facebook.com/events/1856419724613761)! We also discuss on Skype in [this chat](https://join.skype.com/gBhU1FMq2Rdx), and you can find our Github repo [here](https://github.com/okestonia/opendataday/).
+The registration will open later today so check back soon!
 ---
-resources_ideas_heading: Program
+resources_ideas_heading: How to participate
 ---
 resources_ideas_intro:
-The venue of the event is **[Ülikooli 17 (Paabel)](https://www.google.ee/maps/place/%C3%9Clikooli+17,+51005+Tartu/@58.3812397,26.718511,17z/data=!3m1!4b1!4m5!3m4!1s0x46eb36e6ce42ef31:0xce02b9debacebbb6!8m2!3d58.3812369!4d26.7206997)** and we will meet there **from 11:00 to 16:00**. The presentations will start at 11:30 and will end around 15:00.  
-
-The exact schedule is still under discussion and you are most welcome to suggest or host your own track or workshop during the event. Feel free to contact us or [file an issue](https://github.com/okestonia/opendataday/issues) on Github.
+Here we will soon publish the more precise description how to make most of your hackathon experience. For now, have a look at Frequently Asked Questions below. If you have specific questions feel free to write to project manager of the hackathon Märt Põder (p6der@ut.ee) or call him +37255643754.
 ---
 resources_ideas_theme_1:
 ---
@@ -134,11 +145,56 @@ resources_ideas_theme_4:
 resources_ideas_theme_4_text:
 
 ---
-support_scheme_heading: Partners
+support_scheme_heading: Frequently Asked Questions
 ---
 support_scheme_body:
 
-Organizer: [Open Knowledge Estonia](http://ee.okfn.org)  
-Promoter: [MTÜ Häkkerikoda (Hackerspace in Tartu)](https://hackest.org)  
-Venue: [UT Arvutiteaduse Instituut (Institute of Computer Science)](https://www.cs.ut.ee)   
-Coffee and snacks: [Wikimedia Estonia](https://ee.wikimedia.org)  
+Frequently Asked Questions
+
+Q: Erm... What's a hackathon?
+
+A: Hackathon is what you as a participant make it for yourself. For some people it is a interdisciplinary workshop of intensive teamwork to tackle some important issue, develop a promising startup or similar project, for others it's a form of active vacation with intellectual challenges or new perspectives to things, and to find new friends or business contacts. But essentially it's a physical space for people to gather, form teams to cooperate and focus on working on a predetermined topic with minimal distractions. Plus unlimited coffee and other refreshments.
+
+Q: What can you actually do in 24h?
+
+A: It is true that you cannot build a full IT solution during 24h, but you might be able to show a proof-of-concept with mockups and some actual working code. However for data journalism 24h has proved as sufficient time to work through data, reports and other evidence and write specialized stories that use the means of information society to make a case against post-truth.
+
+Q: Do I need a team to join in?
+
+A: No, you don't. You can join any of the teams formed at the event or try to create your own. There are also participants who propose projects and you can present your own idea and see if people want to join you. In the end around 10 teams will be formed and if your idea and pitch is good enough, you might be able to form your own team. However, it is highly recommended to propose your project before the hackathon, so people can think about your idea and plan which team they want to join.
+
+Q: Do I have to stay up all night?
+
+A: No, you don't. It's a matter of how your team plans the to reach the goals and the roles and schedule is decided on team kickoff meeting on the first night of the event on 31th of March. So there might be some work that is needed to be done before other team members can do their part, so it might be needed to also use precious nightly hours for the work, but lot of work can be done also before the hackathon, so it's mostly about time planning.
+
+Q: What do you provide at the hackathon venue?
+
+A: We provide breakfast and lunch during Saturday 1st of April and drinks/snacks during kick-off on Friday and final ceremony on Saturday. Coffee and refreshments will be available during all 24h. You can also rest at the hackathon venue, if you bring your own sleeping bag. There might be very limited amount of places available at a hostel, however our budget allows to reserve these mostly for mentors and keynote presenters.
+
+Q: Do I need to be an expert in post-truth?
+
+A: There are no experts in post-truth, since it's an interdisciplinary problem and needs commitment from various disciplines and social groups. It's also a social problem that affects all of us, no matter of personal political preferences or ideologies, so if you find post-truth problematics challenging as a citizen and have an idea about how to solve some aspect of the problematics, you're invited.
+
+Q: Why do you need a hackathon to tackle post-truth?
+
+A: Post-truth is an interdisciplinary problem that has lot to do with information society and spread of Internet and other digital technologies. You can hardly expect to solve the issues of post-truth without means of information technology, so we use the problem-solving format originally used among hackers and lately also business startups and bring together people from social sciences and humanities with people from informatics and data analysis. We expect this to be a mixture that is a catalyst for solving post-truth problematics.
+
+Q: Exactly how innovative IT solutions be for this hackathon?
+
+A: Actual innovation seldom lies in creating something completely new that has never existed before. More than often innovation is calibrating already existing solutions for actual use, thorougly investingating and understanding the target groups involved. We have already so many web platforms and apps that offer some relevant solutions, but the post-truth phenomenon underlines that somehow they are still not satisfying. So adapting an already existing open source solution for particular use case with slight changes to the original might be actual innovation that changes new media landscape.
+
+Q: Exactly how much new content should the datastories or research initiatives bring in for this hackathon?
+
+A: As with IT solutions, the devil is in details. There are important and widely discussed topics of immigration, gender equality, environmental issues etc which have data available, but somehow the message hasn't got through. Problems of post-truth in information society have been researched for some decades, but there are no final resolutions what's it about. So finding a new perspective to dealing with these issues, slight change in how to pose the problem, communicate and visualize the core content might bring the debate to the next level. That is what you should aim at the hackaton where highly motivated and interdisciplinary crowd has gathered to bring their experience to find new ways to deal with problems that still lack functional solutions.
+
+Q: What language should the journalistic articles be written during the hackathon?
+
+A: We suggest writing in English or Estonian, however for judges to be able eveluate the stories, you need to present your case in English during pitches and final presentation. Using Russian might be an option for written text, but then the judges may need to rely on opinions of those of them, who are more experienced in that language. If the story is based mostly on data analysis and visualisation, this might not be a problem though. So it's up to you, however using a language common to most of judges is certainly a safer bet.
+
+Q: Could you please once more explain what's so special about this hackathon?
+
+A: We slightly deviate from common hackathons in Estonia, since we try to more tightly bring in the dimension of academic research and solving societal issues. Our partners have long experience in promoting entrepreneurship and business startups and we rely on their expertise in these areas, however we also evaluate the projects from viewpoint of academia and social entrepreneurship and provide support for that during the hackathon. Actually, there is no contradiction in that, because in any case you need money and resources for the projects, just that the models of funding the projects, choosing target groups and criteria for success differ in some respects.
+
+Q: Post-truth hackathon on April Fools' Day, are you serious?
+
+A: Yes, we mean serious business.
