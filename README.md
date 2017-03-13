@@ -1,6 +1,6 @@
-# 24h Post-Truth Hackathon 31.03‒1.04 in Tartu, Estonia
-
 ![24H POST-TRUTH HACKATHON](https://github.com/infoaed/hack24/raw/master/assets/images/logo-white-bg.png)
+
+# 24h Post-Truth Hackathon 31.03‒1.04 in Tartu, Estonia
 
 The topic of post-truth emerged as a challenge for information society during late 2016. However, problem with manipulating public opinion is not new, but it has taken unprecedented scale with new digital media sphere becoming widespread and versatile.
 
