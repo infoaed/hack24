@@ -80,25 +80,25 @@ who_title_1: Citizens
 ---
 who_description_1:
 
-We need you the most. If it wasn’t for you, this whole thing wouldn’t be happening. We need ideas, cheerleaders, and friends to spread the word.
+Whether you are journalist, IT professional, researcher or student, post-truth is a problem of information society that affects all of us.
 ---
-who_title_2: Public Servants
+who_title_2: Researchers
 ---
 who_description_2:
 
-Your input and context can help us to make use of government data. Come converse and learn.
+We need researchers from humanities and social sciences as well as mathematics and informatics to find the right solutions.
 ---
 who_title_3: Designers
 ---
 who_description_3:
 
-Help us make open data relatable, so more people will use it and understand it.
+Help us make data, facts and other evidence relatable for general public, so more people will understand it.
 ---
 who_title_4: Developers
 ---
 who_description_4:
 
-Use your skills to develop solutions that can help solve important societal issues.
+Use your skills to develop solutions that can help solve post-truth issues related to digital media sphere.
 ---
 who_title_5: Statisticians
 ---
@@ -149,15 +149,9 @@ support_scheme_heading: Frequently Asked Questions
 ---
 support_scheme_body:
 
-Frequently Asked Questions
-
 Q: Erm... What's a hackathon?
 
 A: Hackathon is what you as a participant make it for yourself. For some people it is a interdisciplinary workshop of intensive teamwork to tackle some important issue, develop a promising startup or similar project, for others it's a form of active vacation with intellectual challenges or new perspectives to things, and to find new friends or business contacts. But essentially it's a physical space for people to gather, form teams to cooperate and focus on working on a predetermined topic with minimal distractions. Plus unlimited coffee and other refreshments.
-
-Q: What can you actually do in 24h?
-
-A: It is true that you cannot build a full IT solution during 24h, but you might be able to show a proof-of-concept with mockups and some actual working code. However for data journalism 24h has proved as sufficient time to work through data, reports and other evidence and write specialized stories that use the means of information society to make a case against post-truth.
 
 Q: Do I need a team to join in?
 
@@ -174,6 +168,10 @@ A: We provide breakfast and lunch during Saturday 1st of April and drinks/snacks
 Q: Do I need to be an expert in post-truth?
 
 A: There are no experts in post-truth, since it's an interdisciplinary problem and needs commitment from various disciplines and social groups. It's also a social problem that affects all of us, no matter of personal political preferences or ideologies, so if you find post-truth problematics challenging as a citizen and have an idea about how to solve some aspect of the problematics, you're invited.
+
+Q: What can you actually do in 24h?
+
+A: It is true that you cannot build a full IT solution during 24h, but you might be able to show a proof-of-concept with mockups and some actual working code. However for data journalism 24h has proved as sufficient time to work through data, reports and other evidence and write specialized stories that use the means of information society to make a case against post-truth.
 
 Q: Why do you need a hackathon to tackle post-truth?
 

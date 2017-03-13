@@ -14,3 +14,6 @@ target = ghpages+https://infoaed/hack24
 name = English
 primary = yes
 locale = en
+
+[packages]
+lektor-disqus-comments = 0.2
