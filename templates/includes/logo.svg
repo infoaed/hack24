@@ -10,24 +10,24 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="94.36396mm"
-   height="36.755138mm"
-   viewBox="0 0 334.36049 130.23474"
+   height="36.598637mm"
+   viewBox="0 0 334.36049 129.6802"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo-text.svg">
+   sodipodi:docname="logo.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#000000"
+     pagecolor="#232323"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="79.464825"
-     inkscape:cy="55.471871"
+     inkscape:zoom="1.979899"
+     inkscape:cx="256.69351"
+     inkscape:cy="128.65996"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,26 +56,35 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-214.15236,-197.95381)">
+     transform="translate(-214.15236,-197.25996)">
     <rect
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4206-9-1"
        width="141.42136"
        height="44.569263"
        x="214.15236"
-       y="237.82719" />
+       y="237.82719"
+       inkscape:export-filename="/home/tramm/Kood/hack24/assets/images/logo-black-bg.png"
+       inkscape:export-xdpi="134.59"
+       inkscape:export-ydpi="134.59" />
     <rect
        style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4206-9"
        width="191.92899"
        height="44.569263"
        x="356.58386"
-       y="282.37091" />
+       y="282.37091"
+       inkscape:export-filename="/home/tramm/Kood/hack24/assets/images/logo-black-bg.png"
+       inkscape:export-xdpi="134.59"
+       inkscape:export-ydpi="134.59" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4136"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-152.85714,-34.285714)"><flowRegion
+       transform="translate(-152.85714,-34.285714)"
+       inkscape:export-filename="/home/tramm/Kood/hack24/assets/images/logo-black-bg.png"
+       inkscape:export-xdpi="134.59"
+       inkscape:export-ydpi="134.59"><flowRegion
          id="flowRegion4138"><rect
            id="rect4140"
            width="321.42862"
@@ -94,7 +103,10 @@
        transform="translate(177.70313,10.633062)"
        xml:space="preserve"
        id="flowRoot4136-3"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/tramm/Kood/hack24/assets/images/logo-black-bg.png"
+       inkscape:export-xdpi="134.59"
+       inkscape:export-ydpi="134.59"><flowRegion
          id="flowRegion4138-6"><rect
            id="rect4140-7"
            width="332.85718"
@@ -108,7 +120,10 @@
          id="flowPara4148-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:100%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#ffffff" /></flowRoot>    <g
        id="g4202"
-       transform="translate(2,4.0406102)">
+       transform="translate(2,2.7548958)"
+       inkscape:export-filename="/home/tramm/Kood/hack24/assets/images/logo-black-bg.png"
+       inkscape:export-xdpi="134.59"
+       inkscape:export-ydpi="134.59">
       <rect
          y="194.50507"
          x="353.21429"
