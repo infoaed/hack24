@@ -340,7 +340,7 @@
       }
     }
 
-    &#more {
+    &#how {
       background-color: $green;
       @include rev-text;
 
@@ -532,7 +532,7 @@
       }
     }
 
-    &#support {
+    &#faq {
       background-color: $purple;
       @include rev-text;
 
@@ -567,8 +567,79 @@
         }
       }
     }
+
+    &#partners {
+      background-color: $yellow;
+      @include rev-text;
+
+      @media (min-width:$max-screen) {
+        position: relative;
+        padding-bottom: 50px;
+      }
+
+      & > div {
+        padding: $gutter 0;
+
+        header {
+          padding-left: $gutter;
+          padding-right: $gutter;
+          padding-bottom: $base-spacing;
+
+          @media (min-width:$max-screen) {
+            margin-left: -$gutter;
+            margin-right: -$gutter;
+          }
+        }
+
+        ul {
+          @include clearafter;
+          padding: 0;
+          margin: 0;
+          text-align: center;
+
+          @media (min-width:$max-screen) {
+            margin-left: -$gutter;
+            margin-right: -$gutter;
+          }
+
+          li {
+            display: block;
+            padding: $base-spacing $gutter 0 $gutter;
+            box-sizing: border-box;
+            font-size: 0.9em;
+
+            @media (min-width: $large-screen) {
+              float: left;
+              width: 33%;
+            }
+
+            span {
+              display: inline-block;
+              background-color: #fff;
+              padding: 1.2em;
+              border-radius: 50%;
+
+              svg {
+                fill:$blue;
+                display: block;
+                width: 100px;
+                height: 100px;
+              }
+            }
+          }
+        }
+      }
+
+      @media (min-width:$max-screen) {
+        position: relative;
+        padding-top: 0;
+
+      }
+    }
+
   }
 }
+
 
 .modal--fade,
 .modal--show {

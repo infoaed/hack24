@@ -1,14 +1,10 @@
 [project]
 name = 24h Post-Truth Hackathon 31.03-1.04 in Tartu
 
-[servers.ci]
-enabled = yes
-target = ghpages+https://infoaed/hack24
-
 [servers.manual]
 enabled = yes
 default = yes
-target = ghpages+https://infoaed/hack24
+target = ghpages://hack24/infoaed.github.io?cname=hack24.ut.ee
 
 [alternatives.en]
 name = English

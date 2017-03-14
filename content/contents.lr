@@ -2,15 +2,7 @@ _model: home
 ---
 next_date: 2017-03-31
 ---
-title: Hack Post-Truth in 24h
----
-banner_heading_1: You are invited.
----
-banner_heading_2: Again!
----
-banner_content_1: Open Data Day will take place on
----
-banner_content_2: Saturday, 4 March 2017
+title: Data as Remedy for Post-Truth
 ---
 intro_heading: Why a post-truth hackathon?
 ---
@@ -183,11 +175,15 @@ A: Hackathon is what you as a participant make it for yourself. For some people 
 
 Q: What do I need to know about registering to the hackathon?
 
-A: We can have about 80 people at the venue, maybe 100 if we really need to, so register early to get into the hackathon. Notice that we also have to choose people by their skillsets in order to have the teams diverse and balanced enough to be successful in addressing post-truth issues. So if you think youre colleagues may run storm for our event, be sure to register before them and provide enough information about your profile to get your place. We contact everybody personally to confirm the application or inform if there is no vacancies left. We will also post updates about registration statistics on our social network accounts with some regularity.
+A: We can have about 80 people at the venue, maybe 100 if we really need to, so register early to get into the hackathon. Notice that we also have to choose people by their skillsets in order to have the teams diverse and balanced enough to be successful in addressing post-truth issues. So if you think your colleagues may run storm for our event, be sure to register early enough and provide enough information about your profile to get your place. We contact everybody personally to confirm the application or inform if there is no vacancies left. We will also post updates about registration statistics on our social network accounts with some regularity.
 
 Q: Do I need a team to join in?
 
 A: No, you don't. You can join any of the teams formed at the event or try to create your own. There are also participants who propose projects and you can present your own idea and see if people want to join you. In the end around 10 teams will be formed and if your idea and pitch is good enough, you might be able to form your own team. However, it is highly recommended to propose your project before the hackathon, so people can think about your idea and plan which team they want to join.
+
+Q: So I need to present my idea for a project and "pitch" it?
+
+A: Usually about one third of participants present or "pitch" their idea in hackathon, so you don't have to, but we very much encourage you to do it, since this helps to discuss the ideas and start the discussion about the projects already before the hackathon. Each participant will be given 90 seconds to pitch the idea at the kickoff on the evening of March 31st, so you have better chances of convincing people to join your team, if you describe your project in advance. We choose about 10 projects to be officially developed during the hackathon. You can also browse profiles of people registered and personally contact them using hackathon dashboard to form a team before the kickoff.
 
 Q: Do I have to stay up all night?
 
@@ -232,3 +228,26 @@ A: We slightly deviate from common hackathons in Estonia, since we try to more t
 Q: Post-truth hackathon on April Fools' Day, are you serious?
 
 A: Yes, we mean serious business.
+
+---
+partners_heading: Organized by
+---
+partners_body:
+
+* UTCIS
+* Ideelabor
+
+---
+partners_partners_heading: In partnership with
+---
+partners_partners_body:
+
+* Open Knowledge Estonia
+* Tartu Science Park
+
+---
+partners_sponsors_heading: With supprt from
+---
+partners_sponsors_body:
+
+* SPARK Business & Community Centre
