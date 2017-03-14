@@ -29,6 +29,11 @@ year_intro:
 The event will be held in Spark Demo Centre during 24h starting with a kick-off for the teams on Friday 31th March and ending with awarding the best solutions on the evening of April 1st.
 
 ---
+action_text:
+
+Registration is open now! Since we have limited places to offer, don't think too long and while going through introductionary materials on this page, don't forget follow our social media accounts.
+
+---
 register_text: Register your event here
 ---
 events_registered: events registered
@@ -39,41 +44,24 @@ who_body:
 
 For limited time of 24h people with various academic and/or professional background leave behind their well-deserved positions and bring their experience into elaboration of post-truth phenomena in workgroups of equal members who all have a say in how to define and solve a particular problem during the hackathon. Information technology experts, journalists, social scientists and people from various fields of humanities have different perspectives to the problems and solutions and they all are needed to choose right methods and frameworks to work on tehnological proofs-of-concept, example cases of journalistic work, initiatives of research projects and other expected outcomes of 24h of hacking.
 
-Centre for Information Society and our partners provide advice and mentoring throughout the whole process, there will be short presentations and motivational speeches about topics involved.
-
 The expected outcomes of 24h hacking fit into two main categories.
 
+---
+who_cat_1_title: Datastory
+---
+who_cat_1_description:
+
 The first is a datastory or any other similar journalistic piece exeplifying a solution to post-truth puzzle for certain topic, be it insight to matters of immigration, wage gap, amount of forests or antything else that still lacks clear evidence-based accounts in Estonia or globally.
+---
+who_cat_2_title: Infrastructure
+---
+who_cat_2_description:
 
 The second one is an innovative solution for some part of publishing, distribution or feedback models of journalism and new media, for example solutions for fact-checking, creating aggregators and specialized publishing platforms, assessing spread or impact of news stories, detectig trolls and fake-news fit well into this category.
+---
+who_body_2:
 
-Everything that lies inbetween these categories is welcome too, but you have to be careful not to take too big piece to solve during the hackathon. To give the rather abstract concept of post-truth more flesh, we have listed some of the concepts relevant for tackling post-truth issues.
-
-* Data analysis
-
-Using actual data all the way down to the bottom of question or problem is probably best ways to establish truths in information society. It's not always self-evident how data supports certain claims and how facts are determined based on different interpretations or theoretical frameworks, but the best way to deal with it, is to publish it all in a transparent manner for critics to scrutinize. But simple and clear visualisation for the rest of us.
-
-* Evidence-based journalism
-
-Since there is hardly a technical limit to space, news in digital medium can have all the links to the sources the articles are based on. It can be official reports or statements, but also actual data itself. This is a standard for scientific articles, however also Wikipedia has used this model for more than a decade, but data journalism, visualizing the data and providing direct references to full sources is still a new thing for most of online media.
-
-* Argument-based debates
-
-There is an ongoing debate on comment sections of online newspapers. Some have introduced real name policies to counter trolling and hate speech, some allow using pseudonyms, but there is no clear solution for creating discussion spaces where arguments are countered with arguments and discussiong stays focused. Social media platforms have introduced us to notion filter bubbles and there is no open and non-discriminating platform for discussions.
-
-* New publishing models
-
-There is enormous ambout of blogs and social media platforms that allow publishing any kind of content from text to audiovisual material in different style and length. How these new publishing models relate to traditional media and how can citizen journalism complement other forms of publishing, what about so-called Google tax to help online media to maintain income and provide quality content — but maybe there are other ways to innovate business models in journalism?
-
-* Evaluating impact
-
-There is a notion of fake news, where news stories are based on half-truths and polished so they will get traction on social media and Internet. Likes, retweets and comments don't necessarily show the impact of a story, but more than often success of a story is measured by amout of clicks and visitors. How to find out the distribution patterns of fake news and credit the real investigative journalism that adds to public discussions is still an ongoing research.
-
-* Networks of trust
-
-During recent years Internet has seen emergence of armies of trolls, some of those human, some computer, some paid by government agencies, some private funded. Opinion building on Internet is transforming from grassroots activism to corporate service that can be bought by money. There are movements to create open and transparent publishing channels, but often privacy and freedom of expression have to be sacrificed in order to maintain trust. Does it have to be so?
-
-The event is language neutral, which means that we use English wherever possible and the majority of content will be presented in English, idea pitches as well as final presentations should also be in English. There are no language restrictions for participants though: we try to include everybody in the discussions, asking questions or presenting their cases and do ad hoc translation where needed.
+Everything that lies inbetween these categories is welcome too, but you have to be careful not to take too big piece to solve during the hackathon.
 
 ---
 who_title_1: Citizens
@@ -106,6 +94,46 @@ who_description_5:
 
 Use your skills to help understand the data and get important insights from it.
 ---
+who_body_3:
+
+Centre for Information Society and our partners provide advice and mentoring throughout the whole process, there will be short presentations and motivational speeches about topics involved.
+
+The event is language neutral, which means that we use English wherever possible and the majority of content will be presented in English, idea pitches as well as final presentations should also be in English. There are no language restrictions for participants though: we try to include everybody in the discussions, asking questions or presenting their cases and do ad hoc translation where needed.
+---
+more_heading: How do we do it?
+---
+more_body:
+
+To give the rather abstract concept of post-truth more flesh, we have listed some of the concepts relevant for tackling post-truth issues.
+
+* Data analysis
+
+  Using actual data all the way down to the bottom of question or problem is probably best ways to establish truths in information society. It's not always self-evident how data supports certain claims and how facts are determined based on different interpretations or theoretical frameworks, but the best way to deal with it, is to publish it all in a transparent manner for critics to scrutinize. But simple and clear visualisation for the rest of us.
+
+* Evidence-based journalism
+
+  Since there is hardly a technical limit to space, news in digital medium can have all the links to the sources the articles are based on. It can be official reports or statements, but also actual data itself. This is a standard for scientific articles, however also Wikipedia has used this model for more than a decade, but data journalism, visualizing the data and providing direct references to full sources is still a new thing for most of online media.
+
+* Argument-based debates
+
+  There is an ongoing debate on comment sections of online newspapers. Some have introduced real name policies to counter trolling and hate speech, some allow using pseudonyms, but there is no clear solution for creating discussion spaces where arguments are countered with arguments and discussiong stays focused. Social media platforms have introduced us to notion filter bubbles and there is no open and non-discriminating platform for discussions.
+
+* New publishing models
+
+  There is enormous ambout of blogs and social media platforms that allow publishing any kind of content from text to audiovisual material in different style and length. How these new publishing models relate to traditional media and how can citizen journalism complement other forms of publishing, what about so-called Google tax to help online media to maintain income and provide quality content — but maybe there are other ways to innovate business models in journalism?
+
+* Evaluating impact
+
+  There is a notion of fake news, where news stories are based on half-truths and polished so they will get traction on social media and Internet. Likes, retweets and comments don't necessarily show the impact of a story, but more than often success of a story is measured by amout of clicks and visitors. How to find out the distribution patterns of fake news and credit the real investigative journalism that adds to public discussions is still an ongoing research.
+
+* Networks of trust
+
+  During recent years Internet has seen emergence of armies of trolls, some of those human, some computer, some paid by government agencies, some private funded. Opinion building on Internet is transforming from grassroots activism to corporate service that can be bought by money. There are movements to create open and transparent publishing channels, but often privacy and freedom of expression have to be sacrificed in order to maintain trust. Does it have to be so?
+---
+more_body_2:
+
+We use data from official sources as well partner with Open Knowledge Estonia to make more data resources openly available.
+---
 resources_heading: Registration
 ---
 resources_intro:
@@ -118,7 +146,7 @@ resources_materials_heading: Registration form
 ---
 resources_materials_text:
 
-The registration will open later today so check back soon!
+Register for the event to join the hackathon and get access to hackathon dashboard.
 ---
 resources_ideas_heading: How to participate
 ---
@@ -153,6 +181,10 @@ Q: Erm... What's a hackathon?
 
 A: Hackathon is what you as a participant make it for yourself. For some people it is a interdisciplinary workshop of intensive teamwork to tackle some important issue, develop a promising startup or similar project, for others it's a form of active vacation with intellectual challenges or new perspectives to things, and to find new friends or business contacts. But essentially it's a physical space for people to gather, form teams to cooperate and focus on working on a predetermined topic with minimal distractions. Plus unlimited coffee and other refreshments.
 
+Q: What do I need to know about registering to the hackathon?
+
+A: We can have about 80 people at the venue, maybe 100 if we really need to, so register early to get into the hackathon. Notice that we also have to choose people by their skillsets in order to have the teams diverse and balanced enough to be successful in addressing post-truth issues. So if you think youre colleagues may run storm for our event, be sure to register before them and provide enough information about your profile to get your place. We contact everybody personally to confirm the application or inform if there is no vacancies left. We will also post updates about registration statistics on our social network accounts with some regularity.
+
 Q: Do I need a team to join in?
 
 A: No, you don't. You can join any of the teams formed at the event or try to create your own. There are also participants who propose projects and you can present your own idea and see if people want to join you. In the end around 10 teams will be formed and if your idea and pitch is good enough, you might be able to form your own team. However, it is highly recommended to propose your project before the hackathon, so people can think about your idea and plan which team they want to join.
@@ -177,7 +209,7 @@ Q: Why do you need a hackathon to tackle post-truth?
 
 A: Post-truth is an interdisciplinary problem that has lot to do with information society and spread of Internet and other digital technologies. You can hardly expect to solve the issues of post-truth without means of information technology, so we use the problem-solving format originally used among hackers and lately also business startups and bring together people from social sciences and humanities with people from informatics and data analysis. We expect this to be a mixture that is a catalyst for solving post-truth problematics.
 
-Q: Exactly how innovative IT solutions be for this hackathon?
+Q: Exactly how innovative IT solutions have to be for this hackathon?
 
 A: Actual innovation seldom lies in creating something completely new that has never existed before. More than often innovation is calibrating already existing solutions for actual use, thorougly investingating and understanding the target groups involved. We have already so many web platforms and apps that offer some relevant solutions, but the post-truth phenomenon underlines that somehow they are still not satisfying. So adapting an already existing open source solution for particular use case with slight changes to the original might be actual innovation that changes new media landscape.
 
@@ -188,6 +220,10 @@ A: As with IT solutions, the devil is in details. There are important and widely
 Q: What language should the journalistic articles be written during the hackathon?
 
 A: We suggest writing in English or Estonian, however for judges to be able eveluate the stories, you need to present your case in English during pitches and final presentation. Using Russian might be an option for written text, but then the judges may need to rely on opinions of those of them, who are more experienced in that language. If the story is based mostly on data analysis and visualisation, this might not be a problem though. So it's up to you, however using a language common to most of judges is certainly a safer bet.
+
+Q: What anbout intellectual property rights for the projects?
+
+A: We don't demand any involvement, however we strongly encourage that you refer to Tartu University and the organisations involved in making the hackathon happen if your project will start to live its own life after the hackathon. Notice that by default the intellectual property rights of a hackathon project belong to all the participants of the team, so you have to sort it out yourself after the hackathon and come to an agreement, if there is a need to.
 
 Q: Could you please once more explain what's so special about this hackathon?
 

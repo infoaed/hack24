@@ -264,47 +264,6 @@
       }
     }
 
-    &#map {
-      position: relative;
-      height: 620px;
-      max-height: 100vh;
-
-      #map-container {
-        max-width: none;
-      }
-
-      header {
-        position: absolute;
-        width: 100%;
-        top: $gutter;
-        pointer-events: none;
-        font-size: 0.8em;
-        text-align: center;
-
-        & > div {
-          @include container;
-
-          & > div {
-            float: right;
-            pointer-events: all;
-            background-color: rgba(#fff,0.8);
-            padding: $gutter*0.3;
-
-            .count {
-              display: block;
-              font-weight: 700;
-              padding-top: $base-spacing/3;
-            }
-
-            a {
-              @include button;
-              display: block;
-            }
-          }
-        }
-      }
-    }
-
     &#who {
       background-color: $blue;
       @include rev-text;
@@ -320,7 +279,7 @@
           height: 0;
           border-style: solid;
           border-width: 0 0 80px 100vw;
-          border-color: transparent transparent #fff transparent;
+          border-color: transparent transparent $green transparent;
           bottom: 0;
           left: 0;
           z-index: 1;
@@ -381,8 +340,99 @@
       }
     }
 
-    &#resources {
+    &#more {
+      background-color: $green;
+      @include rev-text;
+
+      @media (min-width:$max-screen) {
+        position: relative;
+        padding-bottom: 50px;
+
+        &:after {
+          content: '';
+          position: absolute;
+          width: 0;
+          height: 0;
+          border-style: solid;
+          border-width: 0 0 80px 100vw;
+          border-color: transparent transparent #fff transparent;
+          bottom: 0;
+          left: 0;
+          z-index: 1;
+        }
+      }
+
+      & > div {
+        padding: $gutter 0;
+
+        header {
+          padding-left: $gutter;
+          padding-right: $gutter;
+          padding-bottom: $base-spacing;
+
+          @media (min-width:$max-screen) {
+            margin-left: -$gutter;
+            margin-right: -$gutter;
+          }
+        }
+
+        ul {
+          @include clearafter;
+          padding: 0;
+          margin: 0;
+          text-align: center;
+
+          @media (min-width:$max-screen) {
+            margin-left: -$gutter;
+            margin-right: -$gutter;
+          }
+
+          li {
+            display: block;
+            padding: $base-spacing $gutter 0 $gutter;
+            box-sizing: border-box;
+            font-size: 0.9em;
+
+            @media (min-width: $large-screen) {
+              float: left;
+              width: 33%;
+            }
+
+            span {
+              display: inline-block;
+              background-color: #fff;
+              padding: 1.2em;
+              border-radius: 50%;
+
+              svg {
+                fill:$blue;
+                display: block;
+                width: 100px;
+                height: 100px;
+              }
+            }
+          }
+        }
+      }
+
+      @media (min-width:$max-screen) {
+        position: relative;
+        padding-top: 0;
+
+      }
+    }
+
+    &#register {
       text-align: center;
+      
+      .regform {
+        margin-bottom: 0.2em;
+      }
+      
+      .regbutton {
+          @include button;
+          margin-bottom: $gutter;
+      }
 
       & > div {
         & > header {
@@ -391,25 +441,6 @@
 
           h2 {
             color: $blue;
-          }
-
-          svg {
-            width: 120px;
-            height: 120px;
-            margin: $gutter $gutter/2 $gutter/2 $gutter/2;
-
-            &.research {
-              fill: $yellow;
-            }
-            &.money {
-              fill: $red;
-            }
-            &.environment {
-              fill: $green;
-            }
-            &.rights {
-              fill: $purple;
-            }
           }
 
           p {
@@ -443,37 +474,60 @@
           text-align: left;
           padding: $gutter;
 
+
           & > div {
-            @include columns;
+            padding: $gutter 0;
 
-            .theme {
-              break-inside: avoid;
-              display: block;
+            header {
+              padding-left: $gutter;
+              padding-right: $gutter;
+              padding-bottom: $base-spacing;
 
-              &:nth-of-type(1) h4 {
-                color: $yellow;
-              }
-              &:nth-of-type(2) h4 {
-                color: $red;
-              }
-              &:nth-of-type(3) h4 {
-                color: $green;
-              }
-              &:nth-of-type(4) h4 {
-                color: $purple;
+              @media (min-width:$max-screen) {
+                margin-left: -$gutter;
+                margin-right: -$gutter;
               }
             }
 
-            h4 {
-              margin-top: 0;
-            }
+            ul {
+              @include clearafter;
+              padding: 0;
+              margin: 0;
+              text-align: center;
 
-            h4,
-            h5 {
-              break-after: avoid;
-              break-inside: avoid;
+              @media (min-width:$max-screen) {
+                margin-left: -$gutter;
+                margin-right: -$gutter;
+              }
+
+              li {
+                display: block;
+                padding: $base-spacing $gutter 0 $gutter;
+                box-sizing: border-box;
+                font-size: 0.9em;
+
+                @media (min-width: $large-screen) {
+                  float: left;
+                  width: 20%;
+                }
+
+                span {
+                  display: inline-block;
+                  background-color: #fff;
+                  padding: 1.2em;
+                  border-radius: 50%;
+
+                  svg {
+                    fill:$blue;
+                    display: block;
+                    width: 100px;
+                    height: 100px;
+                  }
+                }
+              }
             }
           }
+
         }
       }
     }

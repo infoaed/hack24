@@ -7,6 +7,7 @@
     h2 {font-size:44px;}
     #who>div ul + p {padding-top:1em;}
 </style>
+
 <section id="what">
   <div>
     <div class="about">
@@ -24,26 +25,11 @@
     <div class="this-year">
       <header>
           <h2>31.03‒1.04<br>Tartu, Estonia</h2>
-        {{ this.year_intro }}
+          {{ this.year_intro }}
+          <div>
+          {{ this.action_text }}
+          </div>
       </header>
-      <ul>
-        <li>
-          <svg><use xlink:href="#icon-research" /></svg>
-          {{ this.year_label_1 }}
-        </li>
-        <li>
-          <svg><use xlink:href="#icon-money" /></svg>
-          {{ this.year_label_2 }}
-        </li>
-        <li>
-          <svg><use xlink:href="#icon-environment" /></svg>
-          {{ this.year_label_3 }}
-        </li>
-        <li>
-          <svg><use xlink:href="#icon-rights" /></svg>
-          {{ this.year_label_4 }}
-        </li>
-      </ul>
     </div>
   </div>
 </section>
@@ -55,6 +41,19 @@
       {{ this.who_body }}
     </header>
     <ul>
+      <li style="width: 50%;">
+        <h3>{{ this.who_cat_1_title }}</h3>
+        {{ this.who_cat_1_description }}
+      </li>
+      <li style="width: 50%;">
+        <h3>{{ this.who_cat_2_title }}</h3>
+        {{ this.who_cat_2_description }}
+      </li>
+    </ul>
+    <div>
+      {{ this.who_body_2 }}
+    </div>
+    <ul>
       <li>
         <span>
           <svg><use xlink:href="#icon-user-outline" /></svg>
@@ -64,7 +63,7 @@
       </li>
       <li>
         <span>
-          <svg><use xlink:href="#icon-card" /></svg>
+          <svg><use xlink:href="#icon-bulb" /></svg>
         </span>
         <h3>{{ this.who_title_2 }}</h3>
         {{ this.who_description_2 }}
@@ -94,44 +93,25 @@
   </div>
 </section>
 
-<section id="resources">
+<section id="more">
+  <div>
+    <header>
+      <h2>{{ this.more_heading }}</h2>
+      {{ this.more_body }}
+      {{ this.more_body_2 }}
+    </header>
+  </div>
+</section>
+
+<section id="register">
   <div>
     <header>
       <h2>{{ this.resources_heading }}</h2>
-      <svg class="research"><use xlink:href="#icon-research" /></svg>
-      <svg class="money"><use xlink:href="#icon-money" /></svg>
-      <svg class="environment"><use xlink:href="#icon-environment" /></svg>
-      <svg class="rights"><use xlink:href="#icon-rights" /></svg>
-      {{ this.resources_intro }}
-    </header>
-    <a href="#resources">{{ this.resources_button }}</a>
-    <article>
-      <h3>{{ this.resources_materials_heading }}</h3>
       {{ this.resources_materials_text }}
-      <h3>{{ this.resources_ideas_heading }}</h3>
-      <div>
-        {{ this.resources_ideas_intro }}
-        <span class="theme">
-          <h4>{{ this.resources_ideas_theme_1 }}</h4>
-          {{ this.resources_ideas_theme_1_text }}
-        </span>
-        <span class="theme">
-          <h4>{{ this.resources_ideas_theme_2 }}</h4>
-          {{ this.resources_ideas_theme_2_text }}
-        </span>
-        <span class="theme">
-          <h4>{{ this.resources_ideas_theme_3 }}</h4>
-          {{ this.resources_ideas_theme_3_text }}
-        </span>
-        <span class="theme">
-          <h4>{{ this.resources_ideas_theme_4 }}</h4>
-          {{ this.resources_ideas_theme_4_text }}
-        </span>
-        <span class="theme">
-          <h4>{{ this.resources_ideas_theme_5 }}</h4>
-          {{ this.resources_ideas_theme_5_text }}
-        </span>
-      </div>
+    </header>
+    <a href="#register">{{ this.resources_button }}</a>
+    <article>
+      {% include 'includes/register.html' %}
     </article>
   </div>
 </section>
