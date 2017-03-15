@@ -18,7 +18,7 @@ During hackathon we tackle with problems of trust, focusing on journalistic cont
 ---
 year_intro:
 
-The event will be held in Spark Demo Centre during 24h starting with a kick-off for the teams on Friday 31th March and ending with awarding the best solutions on the evening of April 1st.
+The event will be held in Spark Centre during 24h starting with a kick-off for the teams on Friday 31th March and ending with awarding the best solutions on the evening of April 1st.
 
 ---
 action_text:
@@ -26,15 +26,11 @@ action_text:
 Registration is open now! Since we have limited places to offer, don't think too long and while going through introductionary materials on this page, don't forget follow our social media accounts.
 
 ---
-register_text: Register your event here
----
-events_registered: events registered
----
 who_heading: What are we going to do?
 ---
 who_body:
 
-For limited time of 24h people with various academic and/or professional background leave behind their well-deserved positions and bring their experience into elaboration of post-truth phenomena in workgroups of equal members who all have a say in how to define and solve a particular problem during the hackathon. Information technology experts, journalists, social scientists and people from various fields of humanities have different perspectives to the problems and solutions and they all are needed to choose right methods and frameworks to work on tehnological proofs-of-concept, example cases of journalistic work, initiatives of research projects and other expected outcomes of 24h of hacking.
+For limited time of 24h people with various academic and/or professional background leave behind their well-deserved positions and bring their experience into elaboration of post-truth phenomena in workgroups of equal members who all have a say in how to define and solve a particular problem.
 
 The expected outcomes of 24h hacking fit into two main categories.
 
@@ -53,7 +49,7 @@ The second one is an innovative solution for some part of publishing, distributi
 ---
 who_body_2:
 
-Everything that lies inbetween these categories is welcome too, but you have to be careful not to take too big piece to solve during the hackathon.
+Everything that lies inbetween these categories is welcome too, but you have to be careful not to take too big piece to solve during the hackathon. Information technology experts, journalists, social scientists and people from various fields of humanities have different perspectives to the problems and solutions and they all are needed to choose right methods and frameworks to work on tehnological proofs-of-concept, example cases of journalistic work, initiatives of research projects and other expected outcomes of 24h of hacking.
 
 ---
 who_title_1: Citizens
@@ -140,31 +136,6 @@ resources_materials_text:
 
 Register for the event to join the hackathon and get access to hackathon dashboard.
 ---
-resources_ideas_heading: How to participate
----
-resources_ideas_intro:
-Here we will soon publish the more precise description how to make most of your hackathon experience. For now, have a look at Frequently Asked Questions below. If you have specific questions feel free to write to project manager of the hackathon Märt Põder (p6der@ut.ee) or call him +37255643754.
----
-resources_ideas_theme_1:
----
-resources_ideas_theme_1_text:
-
----
-resources_ideas_theme_2:
----
-resources_ideas_theme_2_text:
-
----
-resources_ideas_theme_3:
----
-resources_ideas_theme_3_text:
-
----
-resources_ideas_theme_4: 
----
-resources_ideas_theme_4_text:
-
----
 support_scheme_heading: Frequently Asked Questions
 ---
 support_scheme_body:
@@ -234,20 +205,28 @@ partners_heading: Organized by
 ---
 partners_body:
 
-* UTCIS
-* Ideelabor
+* ![Centre for Information Society](/images/utcis_et.jpg)
+[Centre for Information Society](http://utcis.ut.ee/)
+* ![Idea Lab](/images/idealab_en.png)
+[Idea Lab](http://www.ideelabor.ut.ee/en)
 
 ---
 partners_partners_heading: In partnership with
 ---
 partners_partners_body:
 
-* Open Knowledge Estonia
-* Tartu Science Park
-
+* ![Tartu Science Park](/images/sciencepark_en.png)
+[Tartu Science Park](http://www.teaduspark.ee/en)
+* ![Open Knowledge Estonia](/images/openknowledge_en.png)
+[Open Knowledge Estonia](http://ee.okfn.org/en)
+* ![Creative Estonia](/images/creativeest_et.png)
+[Creative Estonia](http://www.looveesti.ee/en/)
+* ![Semiosalong](/images/semiosalong.png)
+[Semiosalong](http://semiosalong.blogspot.com.ee/)
 ---
 partners_sponsors_heading: With supprt from
 ---
 partners_sponsors_body:
 
-* SPARK Business & Community Centre
+* ![SPARK Business & Community Centre](/images/spark.png)
+[SPARK Business & Community Centre](https://www.contriber.com/spark/)

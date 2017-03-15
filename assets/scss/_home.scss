@@ -569,7 +569,7 @@
     }
 
     &#partners {
-      background-color: $yellow;
+      background-color: $grey;
       @include rev-text;
 
       @media (min-width:$max-screen) {
@@ -603,7 +603,10 @@
           }
 
           li {
-            display: block;
+            float: left;
+            width: 33%;
+            height: 10em;
+            display: grid;
             padding: $base-spacing $gutter 0 $gutter;
             box-sizing: border-box;
             font-size: 0.9em;
@@ -611,6 +614,12 @@
             @media (min-width: $large-screen) {
               float: left;
               width: 33%;
+            }
+            
+            img {
+              height: 5em;
+              vertical-align: middle;
+              margin: auto;
             }
 
             span {
