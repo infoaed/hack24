@@ -555,7 +555,7 @@ html {
  * Apply the desired modal behavior to your container selector
  */
 .home .banner {
-  background-color: #FFB900;
+  background-color: #e6a700;
   height: 100vh;
   width: 100%;
   display: table;
@@ -822,18 +822,18 @@ html {
               display: block;
               width: 100px;
               height: 100px; }
-  .home > section#more {
+  .home > section#how {
     background-color: #48C0AC;
     color: #fff;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale; }
-    .home > section#more a {
+    .home > section#how a {
       color: inherit; }
     @media (min-width: 1260px) {
-      .home > section#more {
+      .home > section#how {
         position: relative;
         padding-bottom: 50px; }
-        .home > section#more:after {
+        .home > section#how:after {
           content: '';
           position: absolute;
           width: 0;
@@ -844,49 +844,49 @@ html {
           bottom: 0;
           left: 0;
           z-index: 1; } }
-    .home > section#more > div {
+    .home > section#how > div {
       padding: 30px 0; }
-      .home > section#more > div header {
+      .home > section#how > div header {
         padding-left: 30px;
         padding-right: 30px;
         padding-bottom: 0.3em; }
         @media (min-width: 1260px) {
-          .home > section#more > div header {
+          .home > section#how > div header {
             margin-left: -30px;
             margin-right: -30px; } }
-      .home > section#more > div ul {
+      .home > section#how > div ul {
         padding: 0;
         margin: 0;
         text-align: center; }
-        .home > section#more > div ul::after {
+        .home > section#how > div ul::after {
           clear: both;
           content: "";
           display: table; }
         @media (min-width: 1260px) {
-          .home > section#more > div ul {
+          .home > section#how > div ul {
             margin-left: -30px;
             margin-right: -30px; } }
-        .home > section#more > div ul li {
+        .home > section#how > div ul li {
           display: block;
           padding: 0.3em 30px 0 30px;
           box-sizing: border-box;
           font-size: 0.9em; }
           @media (min-width: 900px) {
-            .home > section#more > div ul li {
+            .home > section#how > div ul li {
               float: left;
               width: 33%; } }
-          .home > section#more > div ul li span {
+          .home > section#how > div ul li span {
             display: inline-block;
             background-color: #fff;
             padding: 1.2em;
             border-radius: 50%; }
-            .home > section#more > div ul li span svg {
+            .home > section#how > div ul li span svg {
               fill: #0086FF;
               display: block;
               width: 100px;
               height: 100px; }
     @media (min-width: 1260px) {
-      .home > section#more {
+      .home > section#how {
         position: relative;
         padding-top: 0; } }
   .home > section#register {
@@ -970,18 +970,18 @@ html {
                 display: block;
                 width: 100px;
                 height: 100px; }
-  .home > section#support {
+  .home > section#faq {
     background-color: #b04ce5;
     color: #fff;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale; }
-    .home > section#support a {
+    .home > section#faq a {
       color: inherit; }
-    .home > section#support > div {
+    .home > section#faq > div {
       padding-bottom: 30px; }
-      .home > section#support > div > header {
+      .home > section#faq > div > header {
         padding: 30px 30px 0 30px; }
-        .home > section#support > div > header + a {
+        .home > section#faq > div > header + a {
           background-color: #fff;
           color: #b04ce5;
           font-weight: bold;
@@ -991,10 +991,10 @@ html {
           text-align: center;
           margin: 30px; }
     @media (min-width: 1260px) {
-      .home > section#support {
+      .home > section#faq {
         position: relative;
         padding-top: 75px; }
-        .home > section#support:before {
+        .home > section#faq:before {
           content: '';
           position: absolute;
           width: 0;
@@ -1005,6 +1005,69 @@ html {
           top: 0;
           left: 0;
           z-index: 1; } }
+  .home > section#partners {
+    background-color: #707070;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale; }
+    .home > section#partners a {
+      color: inherit; }
+    @media (min-width: 1260px) {
+      .home > section#partners {
+        position: relative;
+        padding-bottom: 50px; } }
+    .home > section#partners > div {
+      padding: 30px 0; }
+      .home > section#partners > div header {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 0.3em; }
+        @media (min-width: 1260px) {
+          .home > section#partners > div header {
+            margin-left: -30px;
+            margin-right: -30px; } }
+      .home > section#partners > div ul {
+        padding: 0;
+        margin: 0;
+        text-align: center; }
+        .home > section#partners > div ul::after {
+          clear: both;
+          content: "";
+          display: table; }
+        @media (min-width: 1260px) {
+          .home > section#partners > div ul {
+            margin-left: -30px;
+            margin-right: -30px; } }
+        .home > section#partners > div ul li {
+          float: left;
+          width: 33%;
+          height: 10em;
+          display: grid;
+          padding: 0.3em 30px 0 30px;
+          box-sizing: border-box;
+          font-size: 0.9em; }
+          @media (min-width: 900px) {
+            .home > section#partners > div ul li {
+              float: left;
+              width: 33%; } }
+          .home > section#partners > div ul li img {
+            height: 5em;
+            vertical-align: middle;
+            margin: auto; }
+          .home > section#partners > div ul li span {
+            display: inline-block;
+            background-color: #fff;
+            padding: 1.2em;
+            border-radius: 50%; }
+            .home > section#partners > div ul li span svg {
+              fill: #0086FF;
+              display: block;
+              width: 100px;
+              height: 100px; }
+    @media (min-width: 1260px) {
+      .home > section#partners {
+        position: relative;
+        padding-top: 0; } }
 
 .modal--fade,
 .modal--show {
