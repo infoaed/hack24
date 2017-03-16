@@ -35,33 +35,33 @@ who_heading: What are we going to do?
 ---
 who_body:
 
-For limited time of 24h people with various academic and/or professional background leave behind their well-deserved positions and bring their experience into elaboration of post-truth phenomena in workgroups of equal members who all have a say in how to define and solve a particular problem.
+For the 24 hours of the hackathon, people from diverse academic and/or professional backgrounds relinquish their hard-earned titles and positions in the outside world and channel their knowledge and experience in an endeavour to gain a deeper understanding of post-truth phenomena, working in groups of equal members who all have a say in how to define and solve a particular problem.
 
-The expected outcomes of 24h hacking fit into two main categories.
-
+During the hackathon we focusing on two main tracks and expected outcomes of 24h hacking fit into two categories.
 ---
 who_cat_1_title: Datastory
 ---
 who_cat_1_description:
 
-The first is a datastory or any other similar journalistic piece exeplifying a solution to post-truth puzzle for certain topic, be it insight to matters of immigration, wage gap, amount of forests or antything else that still lacks clear evidence-based accounts in Estonia or globally.
+The first category comprises datastories or any other similar journalistic pieces exemplifying solutions to post-truth puzzles in specific domains, offering insights to matters of immigration, wage gap, forest management or anything else suffering from the lack of clear evidence-based accounts in Estonia or globally.
 ---
 who_cat_2_title: Infrastructure
 ---
 who_cat_2_description:
 
-The second one is an innovative solution for some part of publishing, distribution or feedback models of journalism and new media, for example solutions for fact-checking, creating aggregators and specialized publishing platforms, assessing spread or impact of news stories, detectig trolls and fake-news fit well into this category.
+The second category is for innovative solutions which can improve various aspects of publication, distribution and feedback models for journalism and new media, including, for instance, fact-checking, creating aggregators and specialised publishing platforms, assessing the audience reach or impact of news stories, detection of trolls and fake-news.
 ---
 who_body_2:
 
-Everything that lies inbetween these categories is welcome too, but you have to be careful not to take too big piece to solve during the hackathon. Information technology experts, journalists, social scientists and people from various fields of humanities have different perspectives to the problems and solutions and they all are needed to choose right methods and frameworks to work on tehnological proofs-of-concept, example cases of journalistic work, initiatives of research projects and other expected outcomes of 24h of hacking.
+Good ideas falling somewhere between these those two categories are all also equally welcomed. However, you should also take some care to avoid problems which might prove too complex for finding a solution within the rather limited time constraints of the hackathon.
 
+Information technology experts, journalists, social scientists and people from various fields of humanities all bring in their unique perspectives which help to reveal different aspects of the problems and accordingly create multifaceted solutions. They are all needed to choose the proper methods and frameworks to work towards tehnological proofs-of-concept, model cases of journalistic work, research projects initiatives and other expected outcomes of the 24h hacking.
 ---
 who_title_1: Citizens
 ---
 who_description_1:
 
-Whether you are journalist, IT professional, researcher or student, post-truth is a problem of information society that affects all of us.
+Whether you are a journalist, IT professional, researcher or student, by living in a post-truth-imbued information society, we can all be affected by its adverse effects.
 ---
 who_title_2: Researchers
 ---
@@ -73,19 +73,19 @@ who_title_3: Designers
 ---
 who_description_3:
 
-Help us make data, facts and other evidence relatable for general public, so more people will understand it.
+Help us with presenting data, facts and other evidence in a manner which the general public can relate to and understand, so wider audiences can be reached.
 ---
 who_title_4: Developers
 ---
 who_description_4:
 
-Use your skills to develop solutions that can help solve post-truth issues related to digital media sphere.
+Use your skills to develop solutions to deal with the post-truth phenomena manifest in the domain digital media.
 ---
 who_title_5: Statisticians
 ---
 who_description_5:
 
-Use your skills to help understand the data and get important insights from it.
+Use your skills at interpreting the data and derive important insights from such interpretations.
 ---
 who_body_3:
 
@@ -97,35 +97,35 @@ more_heading: How do we do it?
 ---
 more_body:
 
-To give the rather abstract concept of post-truth more flesh, we have listed some of the concepts relevant for tackling post-truth issues.
+To put some flesh on the bare bones of the rather abstract concept of post-truth, we have outlined a set of basic tools that can be effectively used to tackle post-truth phenomena.
 
 * Data analysis
-
-  Using actual data all the way down to the bottom of question or problem is probably best ways to establish truths in information society. It's not always self-evident how data supports certain claims and how facts are determined based on different interpretations or theoretical frameworks, but the best way to deal with it, is to publish it all in a transparent manner for critics to scrutinize. But simple and clear visualisation for the rest of us.
+  
+  Using pure data all the way to penetrate the very core of a particular question or problem is probably the most dependable way to get as close to the truth as possible in the information society. It is not always self-evident how certain claims are supported by data and how facts are shaped by different interpretations or theoretical frameworks, hence, the best policy is transparency, i.e.,  everything should be published and made available for scrutiny by the critics. A simple and clear visualisation of data will be sufficient for the rest of us.
 
 * Evidence-based journalism
-
-  Since there is hardly a technical limit to space, news in digital medium can have all the links to the sources the articles are based on. It can be official reports or statements, but also actual data itself. This is a standard for scientific articles, however also Wikipedia has used this model for more than a decade, but data journalism, visualizing the data and providing direct references to full sources is still a new thing for most of online media.
+  
+  Since there are virtually no technical limits to space in the digital medium, a digital news story can be published with the full set of links to each and every source used in the article. In addition to official reports or statements, source links can directly lead to the actual data itself. This is a standard requirement for academic articles. However, Wikipedia has also used same policy for more than a decade by now. Full-blown data journalism, rife with data visualisations and supplied with a complete set of direct references to full sources still remains mostly a novelty in online media.
 
 * Argument-based debates
 
-  There is an ongoing debate on comment sections of online newspapers. Some have introduced real name policies to counter trolling and hate speech, some allow using pseudonyms, but there is no clear solution for creating discussion spaces where arguments are countered with arguments and discussiong stays focused. Social media platforms have introduced us to notion filter bubbles and there is no open and non-discriminating platform for discussions.
+  The public comment sections of online newspapers remain a hotbed of controversy and heated debate. Some have introduced real name policies to counter trolling and hate speech, some allow using pseudonyms, but clearly, no specific set of measures can guarantee a discussion space where arguments are countered with arguments and discussion stays focused and civil. The users of social media platforms frequently enclose themselves within the filter bubbles of their own making and there exist no open and non-discriminating platforms for discussions.
 
 * New publishing models
 
-  There is enormous ambout of blogs and social media platforms that allow publishing any kind of content from text to audiovisual material in different style and length. How these new publishing models relate to traditional media and how can citizen journalism complement other forms of publishing, what about so-called Google tax to help online media to maintain income and provide quality content — but maybe there are other ways to innovate business models in journalism?
+  Currently there exists a plethora of internet blogs and social media platforms which can host most diverse types of content ranging from simple text to increasingly elaborate audiovisual materials, all in different style and length. How these new publishing models relate to traditional media and how can citizen journalism complement other forms of publishing? Should we impose a 'Google tax' in order to be able to ensure a guaranteed income for the online media, thus also ensuring a higher quality of their content—but maybe there are other ways to innovate business models in journalism?
 
 * Evaluating impact
 
-  There is a notion of fake news, where news stories are based on half-truths and polished so they will get traction on social media and Internet. Likes, retweets and comments don't necessarily show the impact of a story, but more than often success of a story is measured by amout of clicks and visitors. How to find out the distribution patterns of fake news and credit the real investigative journalism that adds to public discussions is still an ongoing research.
+  'Fake news' is a phenomenon where the news story is based on what at best is a half-truth and is sufficiently embellished to get traction on social media and Internet. Likes, retweets and comments are not necessarily reflective of the impact of the story, the success of a story is more often measured by the amount of clicks and visitors. The distribution patterns of fake news and the ways how to give effective duly credit to the real investigative journalism that contributes to public discussion still remain subjects of an ongoing research.
 
 * Networks of trust
 
-  During recent years Internet has seen emergence of armies of trolls, some of those human, some computer, some paid by government agencies, some private funded. Opinion building on Internet is transforming from grassroots activism to corporate service that can be bought by money. There are movements to create open and transparent publishing channels, but often privacy and freedom of expression have to be sacrificed in order to maintain trust. Does it have to be so?
+  During the recent years, the Internet has witnessed the emergence of entire armies of trolls, some human, some computer, some paid by government agencies, some privately funded. Opinion building on the Internet is transforming from grassroots activism to corporate service that can be bought by money. There exist movements with the goal to create open and transparent publishing channels, but trust can often be maintained only at the cost of privacy and freedom of expression. Does it have to be so?  
 ---
 more_body_2:
 
-We use data from official sources as well partner with Open Knowledge Estonia to make more data resources openly available.
+We use data from official sources and also enjoy a partnership with Open Knowledge Estonia to increase the data resources openly available.
 ---
 resources_heading: Registration
 ---
@@ -139,7 +139,7 @@ resources_materials_heading: Registration form
 ---
 resources_materials_text:
 
-Register for the event to join the hackathon and get access to hackathon dashboard.
+Register for the event to participate in the hackathon and gain access to the hackathon dashboard.
 ---
 support_scheme_heading: Frequently Asked Questions
 ---
@@ -147,73 +147,72 @@ support_scheme_body:
 
 Q: Erm... What's a hackathon?
 
-A: Hackathon is what you as a participant make it for yourself. For some people it is a interdisciplinary workshop of intensive teamwork to tackle some important issue, develop a promising startup or similar project, for others it's a form of active vacation with intellectual challenges or new perspectives to things, and to find new friends or business contacts. But essentially it's a physical space for people to gather, form teams to cooperate and focus on working on a predetermined topic with minimal distractions. Plus unlimited coffee and other refreshments.
+A: Hackathon is what you as a participant make it for yourself. For some, it is an interdisciplinary workshop of intensive teamwork to tackle an important issue, to lay down the vision for a promising startup or a similar project, for others, it is a form of active vacation offering interesting intellectual challenges or new perspectives, and opportunities to find new friends or make business contacts. But essentially it is a physical space where people gather, form teams to cooperate and focus on working on a predetermined topic with minimal distractions. Plus, they are provided with unlimited coffee and other refreshments.
 
 Q: What do I need to know about registering to the hackathon?
 
-A: We can have about 80 people at the venue, maybe 100 if we really need to, so register early to get into the hackathon. Notice that we also have to choose people by their skillsets in order to have the teams diverse and balanced enough to be successful in addressing post-truth issues. So if you think your colleagues may run storm for our event, be sure to register early enough and provide enough information about your profile to get your place. We contact everybody personally to confirm the application or inform if there is no vacancies left. We will also post updates about registration statistics on our social network accounts with some regularity.
+A: We can have about 80 people at the venue, or perhaps 100 at most if we are to push some limits, so an early registration is recommended to ensure your place in the hackathon. Please also pay attention to the fact that a crucial consideration when selecting the participants for the hackathon is their particular skillsets, as the teams also need to be both diverse and balanced at the same time, so they can really have their best shot at finding a comprehensive and successful solution to their post-truth problem. Should you fear that any of your colleagues is hatching a plan to steal the place meant for you, be sure to register early enough and provide sufficient information about your profile to get your place. We contact everybody personally to tell them that their application has been accepted, or rejected due to no more vacancies being available. We will also update registration statistics on our social network accounts with some regularity.
 
 Q: Do I need a team to join in?
 
 A: No, you don't. You can join any of the teams formed at the event or try to create your own. There are also participants who propose projects and you can present your own idea and see if people want to join you. In the end around 10 teams will be formed and if your idea and pitch is good enough, you might be able to form your own team. However, it is highly recommended to propose your project before the hackathon, so people can think about your idea and plan which team they want to join.
 
-Q: So I need to present my idea for a project and "pitch" it?
+Q: So do I need to present my idea for a project and "pitch" it?
 
-A: Usually about one third of participants present or "pitch" their idea in hackathon, so you don't have to, but we very much encourage you to do it, since this helps to discuss the ideas and start the discussion about the projects already before the hackathon. Each participant will be given 90 seconds to pitch the idea at the kickoff on the evening of March 31st, so you have better chances of convincing people to join your team, if you describe your project in advance. We choose about 10 projects to be officially developed during the hackathon. You can also browse profiles of people registered and personally contact them using hackathon dashboard to form a team before the kickoff.
+A: Usually about one third of participants present or "pitch" their idea in the hackathon, so you are not required to, but we very much encourage you to do it, since this helps to discuss the ideas and start the discussion about the projects already before the hackathon. Each participant will be given 90 seconds to pitch the idea at the kickoff in the evening of March 31, so you will have better chances at convincing people to join your team if you describe your project in advance. We select about 10 projects to be officially developed during the hackathon. You can also browse profiles of people registered and personally contact them using the hackathon dashboard to form a team before the kickoff.
 
 Q: Do I have to stay up all night?
 
-A: No, you don't. It's a matter of how your team plans the to reach the goals and the roles and schedule is decided on team kickoff meeting on the first night of the event on 31th of March. So there might be some work that is needed to be done before other team members can do their part, so it might be needed to also use precious nightly hours for the work, but lot of work can be done also before the hackathon, so it's mostly about time planning.
+A: No, you don't. It depends how your team plans the to reach the goals and the role assignments and the schedule are decided at the team kickoff meeting in the first night of the event on March 31. So there might be some work that needs to be done before the other team members can do their part, i.e., during the night hours, but lot of work can be done also before the hackathon, so it's mostly about time planning.
 
-Q: What do you provide at the hackathon venue?
+Q: What kind of sustenance and sleeping places are available at the hackathon venue?
 
-A: We provide breakfast and lunch during Saturday 1st of April and drinks/snacks during kick-off on Friday and final ceremony on Saturday. Coffee and refreshments will be available during all 24h. You can also rest at the hackathon venue, if you bring your own sleeping bag. There might be very limited amount of places available at a hostel, however our budget allows to reserve these mostly for mentors and keynote presenters.
+A: We provide breakfast and lunch during Saturday, April 1, and drinks/snacks during the kick-off on Friday and at final ceremony on Saturday. Coffee and refreshments will be available 24h. You can also rest at the hackathon venue if you bring your own sleeping bag. A very limited number of places may be available at the hostel, however, due to the constraints of our budget, hostel places are primarily intended for mentors and keynote presenters.
 
-Q: Do I need to be an expert in post-truth?
+Q: Do I need to be an expert on post-truth?
 
-A: There are no experts in post-truth, since it's an interdisciplinary problem and needs commitment from various disciplines and social groups. It's also a social problem that affects all of us, no matter of personal political preferences or ideologies, so if you find post-truth problematics challenging as a citizen and have an idea about how to solve some aspect of the problematics, you're invited.
+A: There are no experts on post-truth, since it is an interdisciplinary phenomenon and needs commitment from various disciplines and social groups. It is also a social problem that affects all of us, regardless of personal political preferences or ideologies, so if you take interest in the challenges posed by the post-truth phenomena as a regular citizen and have an idea about how to effectively tackle a post-truth problem, you're invited.
 
-Q: What can you actually do in 24h?
+Q: What can you actually accomplish in 24h?
 
-A: It is true that you cannot build a full IT solution during 24h, but you might be able to show a proof-of-concept with mockups and some actual working code. However for data journalism 24h has proved as sufficient time to work through data, reports and other evidence and write specialized stories that use the means of information society to make a case against post-truth.
+A: It is true that you cannot build a full IT solution within 24h, but you might be able to demonstrate a proof-of-concept with mockups and some actual working code. However, for data journalism, 24h has proved as a sufficient timeframe for working through data, reports and other evidence, and for writing specialised stories that, using the means of information society, can make a case against post-truth.
 
-Q: Why do you need a hackathon to tackle post-truth?
+Q: Why, exactly, do you need a hackathon to tackle post-truth?
 
-A: Post-truth is an interdisciplinary problem that has lot to do with information society and spread of Internet and other digital technologies. You can hardly expect to solve the issues of post-truth without means of information technology, so we use the problem-solving format originally used among hackers and lately also business startups and bring together people from social sciences and humanities with people from informatics and data analysis. We expect this to be a mixture that is a catalyst for solving post-truth problematics.
+A: Post-truth is an interdisciplinary problem that is intimately entwined with the information society, spread of the Internet and other digital technologies. You can hardly expect to solve the issues of post-truth without using the tools provided by modern information technology, so we use the problem-solving format originally used among hackers and lately also among business startups, and bring together people from social sciences and humanities on one hand and people from informatics and data analysis on the other hand. We expect this mixture of competences to have a potential to excel at solving post-truth problems.
 
-Q: Exactly how innovative IT solutions have to be for this hackathon?
+Q: Exactly how innovative IT solutions are expected at this hackathon?
 
-A: Actual innovation seldom lies in creating something completely new that has never existed before. More than often innovation is calibrating already existing solutions for actual use, thorougly investingating and understanding the target groups involved. We have already so many web platforms and apps that offer some relevant solutions, but the post-truth phenomenon underlines that somehow they are still not satisfying. So adapting an already existing open source solution for particular use case with slight changes to the original might be actual innovation that changes new media landscape.
+A: Actual innovation seldom lies in the creation of something completely new that has never existed before. More often than not, innovation is essentially a fine-tuning of already existing solutions for actual use, in reflection of an improved understanding of the needs of the target groups involved, reached as a result of a thorough study conducted among such target groups. We already have so many web platforms and apps that offer a number of relevant solutions, but the post-truth phenomenon underlines that somehow they are still not satisfying. So, adapting an already existing open source solution for a more specific use, with only slight changes to the original, might constitute a true innovation that can change the new media landscape.
 
 Q: Exactly how much new content should the datastories or research initiatives bring in for this hackathon?
 
-A: As with IT solutions, the devil is in details. There are important and widely discussed topics of immigration, gender equality, environmental issues etc which have data available, but somehow the message hasn't got through. Problems of post-truth in information society have been researched for some decades, but there are no final resolutions what's it about. So finding a new perspective to dealing with these issues, slight change in how to pose the problem, communicate and visualize the core content might bring the debate to the next level. That is what you should aim at the hackaton where highly motivated and interdisciplinary crowd has gathered to bring their experience to find new ways to deal with problems that still lack functional solutions.
+A: As with IT solutions, the devil is in the details. There are important and widely discussed topics of immigration, gender equality, environmental issues, etc. which are supported by huge amounts of available data, but somehow the message has failed to get through. Problems of post-truth in information society have been researched for some decades, but no definitive conclusions have been reached as to their nature. So finding a new perspective to these issues, a slight change in the approach to the problem, communication and visualisation of the core content might nudge the debate to the next level. That is what you should aim at the hackathon where a highly motivated interdisciplinary crowd has gathered to pool in their experience to find new ways to deal with the problems that still remain without any functional solutions.
 
-Q: What language should the journalistic articles be written during the hackathon?
+Q: In which language should the journalistic articles be composed during the hackathon?
 
-A: We suggest writing in English or Estonian, however for judges to be able eveluate the stories, you need to present your case in English during pitches and final presentation. Using Russian might be an option for written text, but then the judges may need to rely on opinions of those of them, who are more experienced in that language. If the story is based mostly on data analysis and visualisation, this might not be a problem though. So it's up to you, however using a language common to most of judges is certainly a safer bet.
+A: We suggest writing in English or Estonian, however, for the judges to be able evaluate the stories, you need to present your case in English during the pitches and the final presentation. In the case of a written text, Russian might also be an option, however, the judges with poor or nonexistent knowledge of Russian will then be forced to rely on what they hear from the judges with better command of Russian. If the bulk of the story essentially consists of a data analysis and visualisation, the choice of Russian will not likely cause any significant problems. It is your decision, however, but using the language that is best known to all judges is always the safest bet.
 
-Q: What anbout intellectual property rights for the projects?
+Q: What about the intellectual property rights for the projects?
 
-A: We don't demand any involvement, however we strongly encourage that you refer to Tartu University and the organisations involved in making the hackathon happen if your project will start to live its own life after the hackathon. Notice that by default the intellectual property rights of a hackathon project belong to all the participants of the team, so you have to sort it out yourself after the hackathon and come to an agreement, if there is a need to.
+A: We have no claims for such rights, however we strongly encourage that you provide references where pertinent to the University of Tartu and the organisations who helped to make the hackathon happen should your project be able to start a life of its own after the hackathon. Please pay attention to the fact that, by default, the intellectual property rights of a hackathon project are vested in all members of the team, so you may have to enter into negotiations with your team members after the hackathon and reach a settlement with them should there be any need for this.
 
 Q: Could you please once more explain what's so special about this hackathon?
 
-A: We slightly deviate from common hackathons in Estonia, since we try to more tightly bring in the dimension of academic research and solving societal issues. Our partners have long experience in promoting entrepreneurship and business startups and we rely on their expertise in these areas, however we also evaluate the projects from viewpoint of academia and social entrepreneurship and provide support for that during the hackathon. Actually, there is no contradiction in that, because in any case you need money and resources for the projects, just that the models of funding the projects, choosing target groups and criteria for success differ in some respects.
+A: We differ from the regular hackathons in Estonia by a more prominent involvement of academic research in our endeavours and by our focus on finding solutions to social issues. Our partners have long experience in promoting entrepreneurship and business startups and we rely on their expertise in these areas, however, we also evaluate the projects from the viewpoint of academia and social entrepreneurship. In truth, there is no contradiction in that, since projects always require funding, but the models of funding, selection of target groups and criteria for success can be different in some respects.
 
 Q: Post-truth hackathon on April Fools' Day, are you serious?
 
 A: Yes, we mean serious business.
-
 ---
-partners_heading: Organized by
+partners_heading: Organised by
 ---
 partners_body:
 
 * ![Centre for the Information Society](/images/utcis_et.jpg)
 [Centre for the Information Society](http://utcis.ut.ee/)
 * ![Idea Lab](/images/idealab_en.png)
-[Idea Lab](http://www.ideelabor.ut.ee/en)
+[UT IdeaLab](http://www.ideelabor.ut.ee/en)
 
 ---
 partners_partners_heading: In partnership with
