@@ -37,7 +37,7 @@ who_body:
 
 For the 24 hours of the hackathon, people from diverse academic and/or professional backgrounds relinquish their hard-earned titles and positions in the outside world and channel their knowledge and experience in an endeavour to gain a deeper understanding of post-truth phenomena, working in groups of equal members who all have a say in how to define and solve a particular problem.
 
-During the hackathon we focusing on two main tracks and expected outcomes of 24h hacking fit into two categories.
+During the hackathon we are focusing on two main tracks and expected outcomes of 24h hacking fit into two categories.
 ---
 who_cat_1_title: Datastory
 ---
@@ -79,7 +79,7 @@ who_title_4: Developers
 ---
 who_description_4:
 
-Use your skills to develop solutions to deal with the post-truth phenomena manifest in the domain digital media.
+Use your skills to develop solutions to deal with the post-truth phenomena manifest in the domain of digital media.
 ---
 who_title_5: Statisticians
 ---
@@ -117,7 +117,7 @@ To put some flesh on the bare bones of the rather abstract concept of post-truth
 
 * Evaluating impact
 
-  'Fake news' is a phenomenon where the news story is based on what at best is a half-truth and is sufficiently embellished to get traction on social media and Internet. Likes, retweets and comments are not necessarily reflective of the impact of the story, the success of a story is more often measured by the amount of clicks and visitors. The distribution patterns of fake news and the ways how to give effective duly credit to the real investigative journalism that contributes to public discussion still remain subjects of an ongoing research.
+  'Fake news' is a phenomenon where the news story is based on what at best is a half-truth and is sufficiently embellished to get traction on social media and Internet. Likes, retweets and comments are not necessarily reflective of the impact of the story, the success of a story is more often measured by the amount of clicks and visitors. The distribution patterns of fake news and the ways how to give effective due credit to the real investigative journalism that contributes to public discussion still remain subjects of an ongoing research.
 
 * Networks of trust
 
@@ -128,10 +128,6 @@ more_body_2:
 We use data from official sources and also enjoy a partnership with Open Knowledge Estonia to increase the data resources openly available.
 ---
 resources_heading: Registration
----
-resources_intro:
-
-Find all the details and register to the event here!
 ---
 resources_button: Register
 ---
@@ -228,7 +224,7 @@ partners_partners_body:
 * ![Semiosalong](/images/semiosalong.png)
 [Semiosalong](http://semiosalong.blogspot.com.ee/)
 ---
-partners_sponsors_heading: With supprt from
+partners_sponsors_heading: With support from
 ---
 partners_sponsors_body:
 
