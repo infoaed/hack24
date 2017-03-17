@@ -140,12 +140,12 @@ html {
           width: 100%; } }
   .main-nav .logo {
     display: inline-block;
-    width: 80px;
+    width: 300px;
     float: left;
     line-height: 1; }
     @media (min-width: 600px) {
       .main-nav .logo {
-        width: 146px; } }
+        width: 300px; } }
   .main-nav .menu {
     margin: 0;
     padding: 0;
