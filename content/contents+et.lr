@@ -4,17 +4,21 @@ next_date: 2017-03-31
 ---
 title: Andmeravim tõepõhjata ajastule — 24h häkaton 31.03‒1.04 Tartus
 ---
+description:
+
+Andmeanalüütikud, disainerid, ajakirjanikud, IT-eksperdid, sotsiaalteadlased jt otsivad 24h jooksul lahendusi tõepõhjata ajastu väljakutsetele, fookuseks andmeajakirjandus ja digimeedia taristu innoveerimine.
+---
 intro_heading: Milleks meile tõe­põhjahäkaton?
 ---
 intro_body:
-
 Avaliku arutelu sfääri manipuleerimine on viimastel aastatel tõusnud üldiselt tajutud probleemi tasemele. Selle põhjusi nähakse infoühiskonna vahendite mitmekesistumises ja kasutuselevõtus eri vastakate eesmärkide tarvis — ning räägitakse tõepõhjata ajastu sünnist.
-
 ---
 intro_body_2:
-
 Häkatonil keskendume usaldatavuse küsimustele nii ajakirjandusliku sisu enda kui selle vahendamise tööriistade juures.
-
+---
+where_and_when:
+31.03‒1.04  
+Tartus
 ---
 year_intro:
 
@@ -100,30 +104,42 @@ more_heading: Kuidas me seda teeme?
 more_body:
 
 Kogu tõepõhjata ajastu temaatika on abstraktne ja seotud problemaatikaga eri valdkondadest. Oleme korraldajatega visandanud ülevaate sellest, missuguseid meetodeid või tööriistu võiks lahenduste juures kasutada.
+---
+tool_1_head: Andmeanalüüs
+---
+tool_1_body:
 
-* Andmeanalüüs
-  
-  Infoühiskonna vaatepunktist on mistahes aruteluküsimuse puhul algandmeteni tagasi minemine üks kõige tugevam viis tõde jalule seada. Seejuures pole aga sugugi alati selge, kuidas toetavad esitatud väiteid andmed ning missuguste teoreetiliste raamistike või tõlgenduste abil on tehtud kindlaks faktid. Parim lahendus on tundub siin olevat läbipaistvus, st kõigi asjassepuutuvate algandmete ja tuletuskäigu väljatoomine, et asjatundjad saaksid hinnata, mil määral vastavad väited tõele. Lihtinimese jaoks on selle vaste aga andmete selge ja arusaadav visualiseerimine.
+Infoühiskonna vaatepunktist on mistahes aruteluküsimuse puhul algandmeteni tagasi minemine üks kõige tugevam viis tõde jalule seada. Seejuures pole aga sugugi alati selge, kuidas toetavad esitatud väiteid andmed ning missuguste teoreetiliste raamistike või tõlgenduste abil on tehtud kindlaks faktid. Parim lahendus on tundub siin olevat läbipaistvus, st kõigi asjassepuutuvate algandmete ja tuletuskäigu väljatoomine, et asjatundjad saaksid hinnata, mil määral vastavad väited tõele. Lihtinimese jaoks on selle vaste aga andmete selge ja arusaadav visualiseerimine.
+---
+tool_2_head: Tõenduspõhine ajakirjandus
+---
+tool_2_body:
 
-* Tõenduspõhine ajakirjandus
+Digitaalses meedias mahupiirangud sisuliselt puuduvad. Internetis avaldatud uudislooga koos saab esitada viited kõigile lingid kõigile avalikult kättesaadavatele allikatele. Lisaks ametlikele uuringutele ja seisukohtadele saab viidata ka andmeid endid. See on standard teadusartiklite maailmas, aga nt Vikipeedia on sama lähenemist edukalt rakendanud juba rohkem kui dekaadi jooksul. Täisväärtuslik andmeajakirjandus koos küllaldase andmete visualiseerimisega ja viidetega on onlainmeedia jaoks jätkuvalt pigem erand, kui reegel.
+---
+tool_3_head: Argumendipõhine arutelu
+---
+tool_3_body:
 
-  Digitaalses meedias mahupiirangud sisuliselt puuduvad. Internetis avaldatud uudislooga koos saab esitada viited kõigile lingid kõigile avalikult kättesaadavatele allikatele. Lisaks ametlikele uuringutele ja seisukohtadele saab viidata ka andmeid endid. See on standard teadusartiklite maailmas, aga nt Vikipeedia on sama lähenemist edukalt rakendanud juba rohkem kui dekaadi jooksul. Täisväärtuslik andmeajakirjandus koos küllaldase andmete visualiseerimisega ja viidetega on onlainmeedia jaoks jätkuvalt pigem erand, kui reegel.
+Ajalehtede onlain-kommentaariumid ja nende korraldus on olnud aastate jooksul tuliste vaidluste objektiks. Kuigi mõned väljaanded on sisse seadnud täisnime all esinemise nõude, et vähendada vaenukõne ja trollimise osakaalu, mõned lubavad ka pseudonüüme — siiski puudub ühtselt tunnustatud hea tava, kuidas tagada avaliku arutelu sfäär, kus argumentidele vastataks argumentidega ja diskussiooni fookus püsiks teemal. Sotsiaalmeedias sulgevad kasutajad end sageli oma kaasmõtlejatega piiratud kõlakodadesse ja tegelikult puudub jätkuvalt kõigile avatud ja diskrimineerimisest vaba platvorm avalikeks aruteludeks.
+---
+tool_4_head: Uued avaldamismudelid
+---
+tool_4_body:
 
-* Argumendipõhine arutelu
-  
-  Ajalehtede onlain-kommentaariumid ja nende korraldus on olnud aastate jooksul tuliste vaidluste objektiks. Kuigi mõned väljaanded on sisse seadnud täisnime all esinemise nõude, et vähendada vaenukõne ja trollimise osakaalu, mõned lubavad ka pseudonüüme — siiski puudub ühtselt tunnustatud hea tava, kuidas tagada avaliku arutelu sfäär, kus argumentidele vastataks argumentidega ja diskussiooni fookus püsiks teemal. Sotsiaalmeedias sulgevad kasutajad end sageli oma kaasmõtlejatega piiratud kõlakodadesse ja tegelikult puudub jätkuvalt kõigile avatud ja diskrimineerimisest vaba platvorm avalikeks aruteludeks.
+Internetis leidub hulganisti blogisid, sotsiaalmeedia jm platvorme, mis võimaldavad lihtsalt avaldada eri mahu ja kvaliteediga sisu alates tekstist kuni audiovisuaalse materjalini. Kuidas suhestuvad need uued avaldamisvõimaused nn traditsioonilise meediaga ja kuidas võiks kodanikuajakirjandus pakkuda täiendust harjumuspärasematele avaldamisviisidele? Kas nt Google'i maks otsinguportaalidele on õige lahendus, et tagada kvaliteetse ajakirjanduse jätkuv kättesaadavus muutunud oludes või on ajakirjanduse ärimudelite uuendamiseks ka muid võimalusi?
+---
+tool_5_head: Mõju mõõtmine
+---
+tool_5_body:
 
-* Uued avaldamismudelid
+Libauudised on nähtus, kus uudislugu põhineb sageli pooltõdedel ja mis on koostatud pidades silmas selle mõjuvust ja levikupotentsiaali uue meedia eri kanalites. Laigid, retviidid, kommentaaride arv jmt pole aga tingimata see, mis näitaks uudisloo tegelikku mõju avalikule arutelule, kuigi lugude edukust mõõdetakse sageli siiski klikkide ja külastajate arvuga. Libauudiste levikumustrite tuvastamine ja debatti uut väärtust lisava uuriva ajakirjanduse tunnustamine on jätkuvalt probleemid, millega valdkonna eksperdid pead murravad.
+---
+tool_6_head: Usaldusvõrgustikud
+---
+tool_6_body:
 
-  Internetis leidub hulganisti blogisid, sotsiaalmeedia jm platvorme, mis võimaldavad lihtsalt avaldada eri mahu ja kvaliteediga sisu alates tekstist kuni audiovisuaalse materjalini. Kuidas suhestuvad need uued avaldamisvõimaused nn traditsioonilise meediaga ja kuidas võiks kodanikuajakirjandus pakkuda täiendust harjumuspärasematele avaldamisviisidele? Kas nt Google'i maks otsinguportaalidele on õige lahendus, et tagada kvaliteetse ajakirjanduse jätkuv kättesaadavus muutunud oludes või on ajakirjanduse ärimudelite uuendamiseks ka muid võimalusi?
-
-* Ühiskondliku mõju mõõtmine
-
-  Libauudised on nähtus, kus uudislugu põhineb sageli pooltõdedel ja mis on koostatud pidades silmas selle mõjuvust ja levikupotentsiaali uue meedia eri kanalites. Laigid, retviidid, kommentaaride arv jmt pole aga tingimata see, mis näitaks uudisloo tegelikku mõju avalikule arutelule, kuigi lugude edukust mõõdetakse sageli siiski klikkide ja külastajate arvuga. Libauudiste levikumustrite tuvastamine ja debatti uut väärtust lisava uuriva ajakirjanduse tunnustamine on jätkuvalt probleemid, millega valdkonna eksperdid pead murravad.
-
-* Usaldusvõrgustikud
-
-  Viimastel aastatel on trollimine ja nn trolliarmeede koordineeritud tegutsemine Internetis saanud kurvaks tegelikkuseks. Olgu siis trollideks algoritmidel põhinevad koodijupid või reaalsed inimesed, olgu nad väljas valitsuste või erahuvide eest, probleemiks kunagi pigem aktivistide pärusmaaks olnud avaliku arutelu pidamise viiside muutumine raha eest ostetavaks teenuseks. On ka algatusi, mille raames püütakse luua avatud ja läbipaistvaid avaldamiskanaleid, aga usalduse tagamiseks tuleb sageli maskta lõivu eraelu puutumatuse ja väljendusvabaduse osas. Aga kas see peab nii olema?
+Viimastel aastatel on trollimine ja nn trolliarmeede koordineeritud tegutsemine Internetis saanud kurvaks tegelikkuseks. Olgu siis trollideks algoritmidel põhinevad koodijupid või reaalsed inimesed, olgu nad väljas valitsuste või erahuvide eest, probleemiks kunagi pigem aktivistide pärusmaaks olnud avaliku arutelu pidamise viiside muutumine raha eest ostetavaks teenuseks. On ka algatusi, mille raames püütakse luua avatud ja läbipaistvaid avaldamiskanaleid, aga usalduse tagamiseks tuleb sageli maskta lõivu eraelu puutumatuse ja väljendusvabaduse osas. Aga kas see peab nii olema?
 ---
 more_body_2:
 

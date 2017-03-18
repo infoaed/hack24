@@ -24,14 +24,10 @@
     </div>
     <div class="this-year">
       <header>
-          <h2>31.03‒1.04<br>Tartu, Estonia</h2>
+          <h2>{{ this.where_and_when }}</h2>
           {{ this.year_intro }}
-          <div>
           {{ this.action_text_1 }}
-          </div>
-          <div>
           {{ this.action_text_2 }}
-          </div>
       </header>
     </div>
   </div>
@@ -42,57 +38,57 @@
     <header>
       <h2>{{ this.who_heading }}</h2>
       {{ this.who_body }}
+      <ul>
+        <li style="width: 50%;">
+          <h3>{{ this.who_cat_1_title }}</h3>
+          {{ this.who_cat_1_description }}
+        </li>
+        <li style="width: 50%;">
+          <h3>{{ this.who_cat_2_title }}</h3>
+          {{ this.who_cat_2_description }}
+        </li>
+      </ul>
+      <div>
+        {{ this.who_body_2 }}
+      </div>
+      <ul>
+        <li>
+          <span>
+            <svg><use xlink:href="#icon-user-outline" /></svg>
+          </span>
+          <h3>{{ this.who_title_1 }}</h3>
+          {{ this.who_description_1 }}
+        </li>
+        <li>
+          <span>
+            <svg><use xlink:href="#icon-bulb" /></svg>
+          </span>
+          <h3>{{ this.who_title_2 }}</h3>
+          {{ this.who_description_2 }}
+        </li>
+        <li>
+          <span>
+            <svg><use xlink:href="#icon-brush" /></svg>
+          </span>
+          <h3>{{ this.who_title_3 }}</h3>
+          {{ this.who_description_3 }}
+        </li>
+        <li>
+          <span>
+            <svg><use xlink:href="#icon-code-outline" /></svg>
+          </span>
+          <h3>{{ this.who_title_4 }}</h3>
+          {{ this.who_description_4 }}
+        </li>
+        <li>
+          <span>
+            <svg><use xlink:href="#icon-chart-bar" /></svg>
+          </span>
+          <h3>{{ this.who_title_5 }}</h3>
+          {{ this.who_description_5 }}
+        </li>
+      </ul>
     </header>
-    <ul>
-      <li style="width: 50%;">
-        <h3>{{ this.who_cat_1_title }}</h3>
-        {{ this.who_cat_1_description }}
-      </li>
-      <li style="width: 50%;">
-        <h3>{{ this.who_cat_2_title }}</h3>
-        {{ this.who_cat_2_description }}
-      </li>
-    </ul>
-    <div>
-      {{ this.who_body_2 }}
-    </div>
-    <ul>
-      <li>
-        <span>
-          <svg><use xlink:href="#icon-user-outline" /></svg>
-        </span>
-        <h3>{{ this.who_title_1 }}</h3>
-        {{ this.who_description_1 }}
-      </li>
-      <li>
-        <span>
-          <svg><use xlink:href="#icon-bulb" /></svg>
-        </span>
-        <h3>{{ this.who_title_2 }}</h3>
-        {{ this.who_description_2 }}
-      </li>
-      <li>
-        <span>
-          <svg><use xlink:href="#icon-brush" /></svg>
-        </span>
-        <h3>{{ this.who_title_3 }}</h3>
-        {{ this.who_description_3 }}
-      </li>
-      <li>
-        <span>
-          <svg><use xlink:href="#icon-code-outline" /></svg>
-        </span>
-        <h3>{{ this.who_title_4 }}</h3>
-        {{ this.who_description_4 }}
-      </li>
-      <li>
-        <span>
-          <svg><use xlink:href="#icon-chart-bar" /></svg>
-        </span>
-        <h3>{{ this.who_title_5 }}</h3>
-        {{ this.who_description_5 }}
-      </li>
-    </ul>
   </div>
 </section>
 
@@ -101,6 +97,32 @@
     <header>
       <h2>{{ this.more_heading }}</h2>
       {{ this.more_body }}
+      <ul>
+        <li>
+          <h3>{{ this.tool_1_head }}</h3>
+          {{ this.tool_1_body }}
+        </li>
+        <li>
+          <h3>{{ this.tool_2_head }}</h3>
+          {{ this.tool_2_body }}
+        </li>
+        <li>
+          <h3>{{ this.tool_3_head }}</h3>
+          {{ this.tool_3_body }}
+        </li>
+        <li>
+          <h3>{{ this.tool_4_head }}</h3>
+          {{ this.tool_4_body }}
+        </li>
+        <li>
+          <h3>{{ this.tool_5_head }}</h3>
+          {{ this.tool_5_body }}
+        </li>
+        <li>
+          <h3>{{ this.tool_6_head }}</h3>
+          {{ this.tool_6_body }}
+        </li>
+      </ul>
       {{ this.more_body_2 }}
     </header>
   </div>

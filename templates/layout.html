@@ -1,15 +1,20 @@
+{% if this.language %}
+{% set current_language = this.language %}
+{% else %}
+{% set current_language = "en" %}
+{% endif %}
 <!doctype html>
 <meta charset="utf-8">
-<title>{% block title %}Data as Remedy for Post-Truth — 24h Hackathon in Tartu, Estonia 31.03‒1.04{% endblock %}</title>
+<title>{% block title %}{{ this.title }}{% endblock %}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta property="og:type"            content="website" /> 
-<meta property="og:url"             content="http://hack24.ut.ee/" /> 
-<meta property="og:title"           content="Data as Remedy for Post-Truth — 24h Hackathon in Tartu, Estonia 31.03‒1.04" /> 
-<meta property="og:description"     content="During 24h teams of data analysts, designers, journalists, IT-experts, social scientists etc will find solutions to various post-truth phenomena, focusing on data journalism and innovating the digital media infrastructure." />
+<meta property="og:locale"          content="{{ current_language }}" /> 
+<meta property="og:url"             content="http://hack24.ut.ee/{{ this.language }}" /> 
+<meta property="og:title"           content="{{ self.title() }}" /> 
+<meta property="og:description"     content="{% block description %}{{ this.description }}{% endblock %}" />
 <meta property="og:image"           content="http://hack24.ut.ee/images/remedy.png" /> 
 <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700" rel="stylesheet">
 <link rel="stylesheet" href="{{ '/css/style.css'|url }}">
-<link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.32.1/mapbox-gl.css" rel="stylesheet" />
 <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 <body class="{{ this._model }}">
 

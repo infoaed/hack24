@@ -122,14 +122,26 @@
       font-size: 1.2em;
     }
 
-    .about,
-    .this-year {
+    .about {
       header {
         @media (min-width:$max-screen) {
           max-width: 450px;
 
           p + p {
             max-width: 350px;
+          }
+        }
+      }
+    }
+    .this-year {
+      header {
+        @media (min-width:$max-screen) {
+          max-width: 450px;
+
+          p + p {
+            width: 550px;
+            position: relative;
+            right: 100px;
           }
         }
       }

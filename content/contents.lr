@@ -4,6 +4,10 @@ next_date: 2017-03-31
 ---
 title: Data as Remedy for Post-Truth — 24h Hackathon in Tartu, Estonia 31.03‒1.04
 ---
+description:
+
+During 24h teams of data analysts, designers, journalists, IT-experts, social scientists etc will find solutions to various post-truth phenomena, focusing on data journalism and innovating the digital media infrastructure.
+---
 intro_heading: Why a post-truth hackathon?
 ---
 intro_body:
@@ -15,6 +19,11 @@ intro_body_2:
 
 During the hackathon, we focus on the issue of trust, by aiming our attention both at the journalistic content and at the infrastructure facilitating it.
 
+---
+where_and_when:
+
+31.03‒1.04  
+Tartu, Estonia
 ---
 year_intro:
 
@@ -100,30 +109,42 @@ more_heading: How do we do it?
 more_body:
 
 To put some flesh on the bare bones of the rather abstract concept of post-truth, we have outlined a set of basic tools that can be effectively used to tackle post-truth phenomena.
+---
+tool_1_head: Data analysis
+---
+tool_1_body:
 
-* Data analysis
-  
-  Using pure data all the way to penetrate the very core of a particular question or problem is probably the most dependable way to get as close to the truth as possible in the information society. It is not always self-evident how certain claims are supported by data and how facts are shaped by different interpretations or theoretical frameworks, hence, the best policy is transparency, i.e.,  everything should be published and made available for scrutiny by the critics. A simple and clear visualisation of data will be sufficient for the rest of us.
+Using pure data all the way to penetrate the very core of a particular question or problem is probably the most dependable way to get as close to the truth as possible in the information society. It is not always self-evident how certain claims are supported by data and how facts are shaped by different interpretations or theoretical frameworks, hence, the best policy is transparency, i.e., everything should be published and made available for scrutiny by the critics. A simple and clear visualisation of data will be sufficient for the rest of us.
+---
+tool_2_head: Evidence-based journalism
+---
+tool_2_body:
 
-* Evidence-based journalism
-  
-  Since there are virtually no technical limits to space in the digital medium, a digital news story can be published with the full set of links to each and every source used in the article. In addition to official reports or statements, source links can directly lead to the actual data itself. This is a standard requirement for academic articles. However, Wikipedia has also used same policy for more than a decade by now. Full-blown data journalism, rife with data visualisations and supplied with a complete set of direct references to full sources still remains mostly a novelty in online media.
+Since there are virtually no technical limits to space in the digital medium, a digital news story can be published with the full set of links to each and every source used in the article. In addition to official reports or statements, source links can directly lead to the actual data itself. This is a standard requirement for academic articles. However, Wikipedia has also used same policy for more than a decade by now. Full-blown data journalism, rife with data visualisations and supplied with a complete set of direct references to full sources still remains mostly a novelty in online media.
+---
+tool_3_head: Argument-based debates
+---
+tool_3_body:
 
-* Argument-based debates
+The public comment sections of online newspapers remain a hotbed of controversy and heated debate. Some have introduced real name policies to counter trolling and hate speech, some allow using pseudonyms, but clearly, no specific set of measures can guarantee a discussion space where arguments are countered with arguments and discussion stays focused and civil. The users of social media platforms frequently enclose themselves within the filter bubbles of their own making and there exist no open and non-discriminating platforms for discussions.
+---
+tool_4_head: New publishing models
+---
+tool_4_body:
 
-  The public comment sections of online newspapers remain a hotbed of controversy and heated debate. Some have introduced real name policies to counter trolling and hate speech, some allow using pseudonyms, but clearly, no specific set of measures can guarantee a discussion space where arguments are countered with arguments and discussion stays focused and civil. The users of social media platforms frequently enclose themselves within the filter bubbles of their own making and there exist no open and non-discriminating platforms for discussions.
+Currently there exists a plethora of internet blogs and social media platforms which can host most diverse types of content ranging from simple text to increasingly elaborate audiovisual materials, all in different style and length. How these new publishing models relate to traditional media and how can citizen journalism complement other forms of publishing? Should we impose a 'Google tax' in order to be able to ensure a guaranteed income for the online media, thus also ensuring a higher quality of their content—but maybe there are other ways to innovate business models in journalism?
+---
+tool_5_head: Evaluating impact
+---
+tool_5_body:
 
-* New publishing models
+'Fake news' is a phenomenon where the news story is based on what at best is a half-truth and is sufficiently embellished to get traction on social media and Internet. Likes, retweets and comments are not necessarily reflective of the impact of the story, the success of a story is more often measured by the amount of clicks and visitors. The distribution patterns of fake news and the ways how to give effective due credit to the real investigative journalism that contributes to public discussion still remain subjects of an ongoing research.
+---
+tool_6_head: Networks of trust
+---
+tool_6_body:
 
-  Currently there exists a plethora of internet blogs and social media platforms which can host most diverse types of content ranging from simple text to increasingly elaborate audiovisual materials, all in different style and length. How these new publishing models relate to traditional media and how can citizen journalism complement other forms of publishing? Should we impose a 'Google tax' in order to be able to ensure a guaranteed income for the online media, thus also ensuring a higher quality of their content—but maybe there are other ways to innovate business models in journalism?
-
-* Evaluating impact
-
-  'Fake news' is a phenomenon where the news story is based on what at best is a half-truth and is sufficiently embellished to get traction on social media and Internet. Likes, retweets and comments are not necessarily reflective of the impact of the story, the success of a story is more often measured by the amount of clicks and visitors. The distribution patterns of fake news and the ways how to give effective due credit to the real investigative journalism that contributes to public discussion still remain subjects of an ongoing research.
-
-* Networks of trust
-
-  During the recent years, the Internet has witnessed the emergence of entire armies of trolls, some human, some computer, some paid by government agencies, some privately funded. Opinion building on the Internet is transforming from grassroots activism to corporate service that can be bought by money. There exist movements with the goal to create open and transparent publishing channels, but trust can often be maintained only at the cost of privacy and freedom of expression. Does it have to be so?  
+During the recent years, the Internet has witnessed the emergence of entire armies of trolls, some human, some computer, some paid by government agencies, some privately funded. Opinion building on the Internet is transforming from grassroots activism to corporate service that can be bought by money. There exist movements with the goal to create open and transparent publishing channels, but trust can often be maintained only at the cost of privacy and freedom of expression. Does it have to be so?  
 ---
 more_body_2:
 

@@ -11,11 +11,6 @@
 
       <div class="language">
         <div>
-          {% if this.language %}
-          {% set current_language = this.language %}
-          {% else %}
-          {% set current_language = "en" %}
-          {% endif %}
           <a class="current" href="#lang">{{ current_language |replace("_", " ") }}</a>
 
           <ul id="lang">
