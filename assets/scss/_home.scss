@@ -312,6 +312,12 @@
           }
         }
 
+        .category {
+          @media (min-width: $large-screen) {
+            width: 50%;
+          }
+        }
+
         ul {
           @include clearafter;
           padding: 0;
@@ -387,7 +393,7 @@
             margin-right: -$gutter;
           }
         }
-
+        
         ul {
           @include clearafter;
           padding: 0;
