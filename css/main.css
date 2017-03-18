@@ -8,12 +8,12 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2; }
 
 h2 {
-  font-size: 44px;
+  font-size: 42px;
   margin-bottom: 0.4em;
   text-transform: uppercase; }
 
 h3 {
-  font-size: 22px;
+  font-size: 20px;
   margin-bottom: 0.4em; }
 
 h4 {
@@ -645,12 +645,17 @@ html {
   .home > section header {
     font-size: 1.2em; }
   @media (min-width: 1260px) {
-    .home > section .about header,
+    .home > section .about header {
+      max-width: 450px; }
+      .home > section .about header p + p {
+        max-width: 350px; } }
+  @media (min-width: 1260px) {
     .home > section .this-year header {
       max-width: 450px; }
-      .home > section .about header p + p,
       .home > section .this-year header p + p {
-        max-width: 350px; } }
+        width: 550px;
+        position: relative;
+        right: 100px; } }
   .home > section .about header {
     padding: 30px 30px 15px 30px; }
     .home > section .about header h2 {
