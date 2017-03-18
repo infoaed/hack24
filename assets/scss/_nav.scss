@@ -36,12 +36,12 @@
 
   .logo {
     display: inline-block;
-    width: 80px;
+    width: 300px;
     float: left;
     line-height: 1;
 
     @media (min-width: $medium-screen) {
-      width: 146px;
+      width: 300px;
     }
   }
 

@@ -11,5 +11,10 @@ name = English
 primary = yes
 locale = en
 
+[alternatives.et]
+name = Estonian
+url_prefix = /et/
+locale = et
+
 [packages]
 lektor-disqus-comments = 0.2

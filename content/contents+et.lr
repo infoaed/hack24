@@ -2,9 +2,9 @@ language: et
 ---
 next_date: 2017-03-31
 ---
-title: Andmed kui ravim tõepõhjatuse vastu
+title: Andmeravim tõepõhjata ajastule — 24h häkaton 31.03‒1.04 Tartus
 ---
-intro_heading: Mis on tõepõhjata ajastu häkatoni mõte?
+intro_heading: Milleks meile tõe­põhjahäkaton?
 ---
 intro_body:
 
@@ -13,12 +13,12 @@ Avaliku arutelu sfääri manipuleerimine on viimastel aastatel tõusnud üldisel
 ---
 intro_body_2:
 
-Häkatonil keskendume usaldatavuse küsimusele nii ajakirjandusliku sisu enda kui selle vahendamise tööriistade puhul.
+Häkatonil keskendume usaldatavuse küsimustele nii ajakirjandusliku sisu enda kui selle vahendamise tööriistade juures.
 
 ---
 year_intro:
 
-Häkaton toimub 24h sessioonina [Spark'i keskuses](https://www.contriber.com/spark/). Üritus algab tiimide moodustamisega reede 31. märtsi õhtul ning lõppeb auhindade üleandmisele parimatele projektidele 1. aprilli õhtul.
+Häkaton toimub 24h sessioonina [Spark'i keskuses](https://www.contriber.com/spark/). Üritus algab tiimide moodustamisega reede 31. märtsi õhtul ning lõppeb auhindade üleandmisega parimatele 1. aprilli õhtul.
 
 ---
 action_text_1:
@@ -36,6 +36,8 @@ who_heading: Mida me häkatonil tegema hakkame?
 who_body:
 
 Häkatonil liituvad eri akadeemilise ja/või erialase taustaga eksperdid ning huvilised 24 tunniks tiimideks, mis püüavad leida lahendusi tõepõhjata ajastu väljakutsetele. Kõigi osalejate teadmised ja kogemused on parimate lahenduste leidmisel võrdselt olulised ja igaühel on õigus kaasa rääkida selles, milles seisneb lahendus probleemile ning kuidas seda 24 tunni jooksul parimal viisil teostada.
+
+Alustame reede õhtul kl 18 projektide ideede tutvustustest ja moodustame seejärel tiimid, mis peavad kohe pärast moodustamist maha oma avakooslekud, kus pannakse paika rollid ja esialgne tegevuskava. Reede hilisõhtul toimuvad mõned inspireerivad ettekanded ning arutelud arvamusliidrite ja uue meedia valdkonna praktikute eestvedamisel. Tiimid peavad andma aru projektide edenemisest ja saavad nõu laupäeva jooksul ja 24h häkaton lõppeb sama päeva õhtul kl 18 paiku, mil toimuvad ideede lõplikud esitlused ja antakse üle auhinnad.
 
 Keskendume ürituse raames kahele peamisele liinile ja häkatoni oodatavad tulemused mahuvad kahte üldisse kategooriasse.
 ---
@@ -101,27 +103,27 @@ Kogu tõepõhjata ajastu temaatika on abstraktne ja seotud problemaatikaga eri v
 
 * Andmeanalüüs
   
-  Using pure data all the way to penetrate the very core of a particular question or problem is probably the most dependable way to get as close to the truth as possible in the information society. It is not always self-evident how certain claims are supported by data and how facts are shaped by different interpretations or theoretical frameworks, hence, the best policy is transparency, i.e.,  everything should be published and made available for scrutiny by the critics. A simple and clear visualisation of data will be sufficient for the rest of us.
+  Infoühiskonna vaatepunktist on mistahes aruteluküsimuse puhul algandmeteni tagasi minemine üks kõige tugevam viis tõde jalule seada. Seejuures pole aga sugugi alati selge, kuidas toetavad esitatud väiteid andmed ning missuguste teoreetiliste raamistike või tõlgenduste abil on tehtud kindlaks faktid. Parim lahendus on tundub siin olevat läbipaistvus, st kõigi asjassepuutuvate algandmete ja tuletuskäigu väljatoomine, et asjatundjad saaksid hinnata, mil määral vastavad väited tõele. Lihtinimese jaoks on selle vaste aga andmete selge ja arusaadav visualiseerimine.
 
 * Tõenduspõhine ajakirjandus
-  
-  Since there are virtually no technical limits to space in the digital medium, a digital news story can be published with the full set of links to each and every source used in the article. In addition to official reports or statements, source links can directly lead to the actual data itself. This is a standard requirement for academic articles. However, Wikipedia has also used same policy for more than a decade by now. Full-blown data journalism, rife with data visualisations and supplied with a complete set of direct references to full sources still remains mostly a novelty in online media.
+
+  Digitaalses meedias mahupiirangud sisuliselt puuduvad. Internetis avaldatud uudislooga koos saab esitada viited kõigile lingid kõigile avalikult kättesaadavatele allikatele. Lisaks ametlikele uuringutele ja seisukohtadele saab viidata ka andmeid endid. See on standard teadusartiklite maailmas, aga nt Vikipeedia on sama lähenemist edukalt rakendanud juba rohkem kui dekaadi jooksul. Täisväärtuslik andmeajakirjandus koos küllaldase andmete visualiseerimisega ja viidetega on onlainmeedia jaoks jätkuvalt pigem erand, kui reegel.
 
 * Argumendipõhine arutelu
-
-  The public comment sections of online newspapers remain a hotbed of controversy and heated debate. Some have introduced real name policies to counter trolling and hate speech, some allow using pseudonyms, but clearly, no specific set of measures can guarantee a discussion space where arguments are countered with arguments and discussion stays focused and civil. The users of social media platforms frequently enclose themselves within the filter bubbles of their own making and there exist no open and non-discriminating platforms for discussions.
+  
+  Ajalehtede onlain-kommentaariumid ja nende korraldus on olnud aastate jooksul tuliste vaidluste objektiks. Kuigi mõned väljaanded on sisse seadnud täisnime all esinemise nõude, et vähendada vaenukõne ja trollimise osakaalu, mõned lubavad ka pseudonüüme — siiski puudub ühtselt tunnustatud hea tava, kuidas tagada avaliku arutelu sfäär, kus argumentidele vastataks argumentidega ja diskussiooni fookus püsiks teemal. Sotsiaalmeedias sulgevad kasutajad end sageli oma kaasmõtlejatega piiratud kõlakodadesse ja tegelikult puudub jätkuvalt kõigile avatud ja diskrimineerimisest vaba platvorm avalikeks aruteludeks.
 
 * Uued avaldamismudelid
 
-  Currently there exists a plethora of internet blogs and social media platforms which can host most diverse types of content ranging from simple text to increasingly elaborate audiovisual materials, all in different style and length. How these new publishing models relate to traditional media and how can citizen journalism complement other forms of publishing? Should we impose a 'Google tax' in order to be able to ensure a guaranteed income for the online media, thus also ensuring a higher quality of their content—but maybe there are other ways to innovate business models in journalism?
+  Internetis leidub hulganisti blogisid, sotsiaalmeedia jm platvorme, mis võimaldavad lihtsalt avaldada eri mahu ja kvaliteediga sisu alates tekstist kuni audiovisuaalse materjalini. Kuidas suhestuvad need uued avaldamisvõimaused nn traditsioonilise meediaga ja kuidas võiks kodanikuajakirjandus pakkuda täiendust harjumuspärasematele avaldamisviisidele? Kas nt Google'i maks otsinguportaalidele on õige lahendus, et tagada kvaliteetse ajakirjanduse jätkuv kättesaadavus muutunud oludes või on ajakirjanduse ärimudelite uuendamiseks ka muid võimalusi?
 
 * Ühiskondliku mõju mõõtmine
 
-  'Fake news' is a phenomenon where the news story is based on what at best is a half-truth and is sufficiently embellished to get traction on social media and Internet. Likes, retweets and comments are not necessarily reflective of the impact of the story, the success of a story is more often measured by the amount of clicks and visitors. The distribution patterns of fake news and the ways how to give effective duly credit to the real investigative journalism that contributes to public discussion still remain subjects of an ongoing research.
+  Libauudised on nähtus, kus uudislugu põhineb sageli pooltõdedel ja mis on koostatud pidades silmas selle mõjuvust ja levikupotentsiaali uue meedia eri kanalites. Laigid, retviidid, kommentaaride arv jmt pole aga tingimata see, mis näitaks uudisloo tegelikku mõju avalikule arutelule, kuigi lugude edukust mõõdetakse sageli siiski klikkide ja külastajate arvuga. Libauudiste levikumustrite tuvastamine ja debatti uut väärtust lisava uuriva ajakirjanduse tunnustamine on jätkuvalt probleemid, millega valdkonna eksperdid pead murravad.
 
 * Usaldusvõrgustikud
 
-  During the recent years, the Internet has witnessed the emergence of entire armies of trolls, some human, some computer, some paid by government agencies, some privately funded. Opinion building on the Internet is transforming from grassroots activism to corporate service that can be bought by money. There exist movements with the goal to create open and transparent publishing channels, but trust can often be maintained only at the cost of privacy and freedom of expression. Does it have to be so?  
+  Viimastel aastatel on trollimine ja nn trolliarmeede koordineeritud tegutsemine Internetis saanud kurvaks tegelikkuseks. Olgu siis trollideks algoritmidel põhinevad koodijupid või reaalsed inimesed, olgu nad väljas valitsuste või erahuvide eest, probleemiks kunagi pigem aktivistide pärusmaaks olnud avaliku arutelu pidamise viiside muutumine raha eest ostetavaks teenuseks. On ka algatusi, mille raames püütakse luua avatud ja läbipaistvaid avaldamiskanaleid, aga usalduse tagamiseks tuleb sageli maskta lõivu eraelu puutumatuse ja väljendusvabaduse osas. Aga kas see peab nii olema?
 ---
 more_body_2:
 
@@ -141,65 +143,65 @@ support_scheme_heading: Korduma kippuvad küsimused
 ---
 support_scheme_body:
 
-Q: Erm... What's a hackathon?
+Q: Aga mis asi see häkaton üldse on?
 
-A: Hackathon is what you as a participant make it for yourself. For some, it is an interdisciplinary workshop of intensive teamwork to tackle an important issue, to lay down the vision for a promising startup or a similar project, for others, it is a form of active vacation offering interesting intellectual challenges or new perspectives, and opportunities to find new friends or make business contacts. But essentially it is a physical space where people gather, form teams to cooperate and focus on working on a predetermined topic with minimal distractions. Plus, they are provided with unlimited coffee and other refreshments.
+A: Häkaton täpselt see, mille osalejad sellest teevad. Mõnede jaoks on see valdkondade piire ületav intensiivse tiimitöö vorm, mille raames püütakse leida lahendust mõnele olulisele probleemile või panna kokku kava mõne ettevõtte vmt projekti käivitamiseks, teiste jaoks aga aktiivse puhkuse vorm, mis pakub intellektuaalset pinget, võimalust tegeleda ja tutvuda uute huvitavate valdkondade või inimestega ning leida uusi sõpru või äripartnereid. Aga põhimõtteliselt on tegu füüsilise ruumiga, kuhu kogunevad teatud ajaliste piiride raames inimesed, moodustavad koostöö tegemiseks tiimid ning töötavad mõne varem kokkulepitud teema raames mingi kindla projekti kallal laskmata end kõrvalistest asjaoludest häirida. Lisaks on tavaks tagada osalejatele piiramatus koguses kohvi ja pakkuda võimalust kehakinnituseks.
 
-Q: What do I need to know about registering to the hackathon?
+Q: Tahaksin osaleda, millega ma registreerimisel arvestama peaksin?
 
-A: We can have about 80 people at the venue, or perhaps 100 at most if we are to push some limits, so an early registration is recommended to ensure your place in the hackathon. Please also pay attention to the fact that a crucial consideration when selecting the participants for the hackathon is their particular skillsets, as the teams also need to be both diverse and balanced at the same time, so they can really have their best shot at finding a comprehensive and successful solution to their post-truth problem. Should you fear that any of your colleagues is hatching a plan to steal the place meant for you, be sure to register early enough and provide sufficient information about your profile to get your place. We contact everybody personally to tell them that their application has been accepted, or rejected due to no more vacancies being available. We will also update registration statistics on our social network accounts with some regularity.
+A: Sparki keskusse mahub kuskil 80 inimest või kui pingutada, siis kuni 100. Ehk soovitatav on registreerimisega mitte viivitada, mh eelistame osalejate valikul neid, kellel on mõni häkatoni õnnestumise vaatepunktist hädavajalik oskus või kes on esitanud oma projekti. Lisaks sellele püüame tagada eri oskustega inimeste ühtlast esindatust, mis on selle häkatoni puhul eriti oluline tõepõhjata ajastu probleemide valdkondadeülese iseloomu tõttu — edukad lahendused eeldavad nägemist oma kitsast valdkonnast kaugemale. Kui sul on tunne, et sinu valdkonnas on häkatonile eriti palju huvilisi, siis reageeri kiiresti ja märgi enda kohta piisavalt detailne taustainfo. Registreerunutega kontakteerume isiklikult ja anname infot registreerunute hulga ja vabade kohtade kohta oma sotsiaalmeedia kanalites.
 
-Q: Do I need a team to join in?
+Q: Kas mul peab osalemiseks olema oma tiim?
 
-A: No, you don't. You can join any of the teams formed at the event or try to create your own. There are also participants who propose projects and you can present your own idea and see if people want to join you. In the end around 10 teams will be formed and if your idea and pitch is good enough, you might be able to form your own team. However, it is highly recommended to propose your project before the hackathon, so people can think about your idea and plan which team they want to join.
+A: Ei pea. Kohapeal saab liituda mõne juba esitatud idee ümber koondunud tiimiga või siis luua omaenda tiimi. Ka teised osalejad käivad häkatoni jaoks oma projekte välja, aga võid käia välja ka enda oma ja püüda saada piisvalt inimesi oma tiimiga liituma. Moodustame lõpuks umbes 10 tiimi ja kui sinu idee jõuab inimestele kohale ja selle teostamine on 24h jooksul realistlik, siis on tõenäosus tiimi kokkusaamiseks päris suur. Ent on soovitatav käia oma idee välja juba enne häkatoni, sest nii saavad inimesed su idee üle järele mõtelda, esitada küsimusi ja plaanida sinu tiimiga liitumist juba ette.
 
-Q: So do I need to present my idea for a project and "pitch" it?
+Q: Nii, et ma peaks esitama oma projekti idee ja seda pitchima?
 
-A: Usually about one third of participants present or "pitch" their idea in the hackathon, so you are not required to, but we very much encourage you to do it, since this helps to discuss the ideas and start the discussion about the projects already before the hackathon. Each participant will be given 90 seconds to pitch the idea at the kickoff in the evening of March 31, so you will have better chances at convincing people to join your team if you describe your project in advance. We select about 10 projects to be officially developed during the hackathon. You can also browse profiles of people registered and personally contact them using the hackathon dashboard to form a team before the kickoff.
+A: Tavaliselt esitab või pitchib oma projekti ideed umbkaudu kolmandik häkatoni osalejatest. Sa ei pea seda tegema, aga me julgustame seda kindlasti tegema, sest see aitab algatada arutelu häkatoni teemade ja projektide üle juba enne ürituse algust. Iga osaleja saab häkatoni avapaugul 31. märtsi õhtul 90 sekundit, et oma ideed tutvustada ja sul on kindlasti suurem võimalus oma idee ümber tiimi koostamiseks, kui oled idee enne häkatoni esitanud. Valime häkatonil välja 10 ametlikult teostamisele minevat projekti, mille juures annavad nõu mentorid ja mis kandideerivad auhindadele. Idee varasel esitamisel on ka see eelis, et nii saavad inimesed ideega tutvuda häkatoni töölaua vahendusel, seda kommenteerida ja täiendada, lisaks saad võtta osalejatega isiklikult ühendust ja oma tiimi moodustada juba enne häkatoni.
 
-Q: Do I have to stay up all night?
+Q: Kas 24h häkaton tähendab, et peab öö otsa üleval olema?
 
-A: No, you don't. It depends how your team plans the to reach the goals and the role assignments and the schedule are decided at the team kickoff meeting in the first night of the event on March 31. So there might be some work that needs to be done before the other team members can do their part, i.e., during the night hours, but lot of work can be done also before the hackathon, so it's mostly about time planning.
+A: Ei pea. See sõltub eelkõige sellest, kuidas sinu tiim oma tööd plaanib ja rollid jaotab. Tööplaan pannakse paika tiimide avakoosolekul häkatoni esimesel õhtul pärast pitchimist ja tiimide moodustamist. Võimalik, et sõltuvalt ette võetavast projektist on mingeid ülesandeid, mis tuleb lahendada enne kui teised tiimiliikmed saavad tööle asuda — sellisel juhul on võimalik, et tuleb teha tööd kallite unetundide arvelt. Samas saab projektide jaoks teha eeltöö ära juba enne häkatoni ja idee esitajale on see kindlasti kasuks, kui ta saab pitchimise ajal juba öelda, et on midagi konkreetset, millele projekti üles ehitada. Aga eelkõige sõltub unetundide hulk tiimi ajakavast ja tööjaotusest.
 
-Q: What kind of sustenance and sleeping places are available at the hackathon venue?
+Q: Mida võimalused on häkatoni toimumiskohas, kas süüa saab ja kuidas magamisega on?
 
-A: We provide breakfast and lunch during Saturday, April 1, and drinks/snacks during the kick-off on Friday and at final ceremony on Saturday. Coffee and refreshments will be available 24h. You can also rest at the hackathon venue if you bring your own sleeping bag. A very limited number of places may be available at the hostel, however, due to the constraints of our budget, hostel places are primarily intended for mentors and keynote presenters.
+A: Pakume laupäeval 1. aprillil hommikusööki ja lõunat ning juua/suupisteid reedese avapaugu ja laupäevase lõpetamise ajal. Kohv jm kergemad suupisted on saadaval kogu 24h jooksul. Häkatoni toimumise kohas saab ka puhata, kui võtad kaasa oma magamiskoti. Piiratud arv kohti on reserveeritud ka hostelis, aga need on meie väikese eelarve tõttu mõeldud eelkõige häkatoni mentoritele ja olulisematele ettekandjatele.
 
-Q: Do I need to be an expert on post-truth?
+Q: Kas ma pean osalemiseks olema tõejärgsuse ekspert?
 
-A: There are no experts on post-truth, since it is an interdisciplinary phenomenon and needs commitment from various disciplines and social groups. It is also a social problem that affects all of us, regardless of personal political preferences or ideologies, so if you take interest in the challenges posed by the post-truth phenomena as a regular citizen and have an idea about how to effectively tackle a post-truth problem, you're invited.
+A: Tõejärgsuse teema puuhul pole tegelikult eksperte, sest tegu on valdkondade ülese fenomeniga, mis vajab panust paljude eri distsipliinide esindajate ja ühiskondlike gruppide poolt. Lisaks sellele on tõepõhjata ajastu infoühiskonna fundamentaalne probleem, mis puudutab meid kõiki sõltumata isiklikest poliitilistest eelistustest või ideoloogiatest. Ühesõnaga, kui sulle pakuvad ka n-ö lihtsa kodanikuna tõsist huvi väljakutsed, mille tõejärgsus meie ette asetab, ja sul on mõni hea idee, kuidas nendega hakkama saada, siis oled igati oodatud osalema.
 
-Q: What can you actually accomplish in 24h?
+Q: Mida tegelikult 24h jooksul ära annab teha?
 
-A: It is true that you cannot build a full IT solution within 24h, but you might be able to demonstrate a proof-of-concept with mockups and some actual working code. However, for data journalism, 24h has proved as a sufficient timeframe for working through data, reports and other evidence, and for writing specialised stories that, using the means of information society, can make a case against post-truth.
+A: On tõsi, et täiemahulist IT-lahendust 24h jooksul ära ei tee, aga on täiesti võimalik jõuda töötava prototüübi või näidislahenduseni, mille reaalselt rakendatav kuju jääb ainult visandi tasemele slaidiesitluses. Seevastu andmeajakirjanduse puhul on 24h end tõendanud piisavana, et töötada läbi andmed, uuringud ja muu tõendusmaterjal ning kirjutada spetsiifilises valdkonnas eeskujulik artikkel, mis kasutab maksimaalselt ära infoühiskonnale kohaseid vahendeid ja on hea praktika näiteks tõejärgsuse probleemi vastustamisel.
 
-Q: Why, exactly, do you need a hackathon to tackle post-truth?
+Q: Miks tõepõhjata ajastu probleemide lahendamiseks üldse häkatoni peaks vaja olema?
 
 A: Post-truth is an interdisciplinary problem that is intimately entwined with the information society, spread of the Internet and other digital technologies. You can hardly expect to solve the issues of post-truth without using the tools provided by modern information technology, so we use the problem-solving format originally used among hackers and lately also among business startups, and bring together people from social sciences and humanities on one hand and people from informatics and data analysis on the other hand. We expect this mixture of competences to have a potential to excel at solving post-truth problems.
 
-Q: Exactly how innovative IT solutions are expected at this hackathon?
+Q: Kui uuenduslikud peavad olema häkatonil loodavad IT-lahendused?
 
-A: Actual innovation seldom lies in the creation of something completely new that has never existed before. More often than not, innovation is essentially a fine-tuning of already existing solutions for actual use, in reflection of an improved understanding of the needs of the target groups involved, reached as a result of a thorough study conducted among such target groups. We already have so many web platforms and apps that offer a number of relevant solutions, but the post-truth phenomenon underlines that somehow they are still not satisfying. So, adapting an already existing open source solution for a more specific use, with only slight changes to the original, might constitute a true innovation that can change the new media landscape.
+A: Tegelik innovatsioon on harva mõne sellise asja loomine, mis on täiesti uus ja millesarnast enne pole olemas olnud. Sageli on uuenduslik hoopis mõne olemasoleva lahenduse kohandamine tegelikuks kasutuseks nii, et see arvestab ühiskondliku vajaduse ja sihtgruppide harjumustega. Eduka kohandamise jaoks on aga vaja tunda probleemi konteksti ja eri huvigruppide vaateid asjale. Meil on olemas küllaldaselt veebiplatvorme ja äppe, mis pakuvad lahendusi uue meedia väljakutsetele, aga juba tõejärgsuse probleemi olemasolu ise näitab, et millegipärast pole need lahendused ikkagi piisavad. Niisiis võib mõne olemasoleva avatud lähtekoodiga projekti kohandamine muutunud olude jaoks, sj tehes ainult minimaalseid muudatusi aluseks võetavasse olla tõeline innovatsioon, mis muudab digitaalse meediataristu jõujooni.
 
-Q: Exactly how much new content should the datastories or research initiatives bring in for this hackathon?
+Q: Kui palju uut sisu peaks olema loodavates andmelugudes või uurimistöö algatustes?
 
-A: As with IT solutions, the devil is in the details. There are important and widely discussed topics of immigration, gender equality, environmental issues, etc. which are supported by huge amounts of available data, but somehow the message has failed to get through. Problems of post-truth in information society have been researched for some decades, but no definitive conclusions have been reached as to their nature. So finding a new perspective to these issues, a slight change in the approach to the problem, communication and visualisation of the core content might nudge the debate to the next level. That is what you should aim at the hackathon where a highly motivated interdisciplinary crowd has gathered to pool in their experience to find new ways to deal with the problems that still remain without any functional solutions.
+A: Nagu ka IT-lahenduste puhul on kurat siin pisiasjades. Meedias on lõpmatuseni arutatud immigratsiooni, palgalõhe, keskkonna jpm nähtusega seotud teemasid, mis põhinevad paljuski andmetel ja nende esitamisel. Ometi pole arutelud lahendanud neid küsimusi üldsuse jaoks. Tõejärgsuse problemaatika tuumaks peetaksegi sageli seda, et avalikkuse huvi on niivõrd fragmenteeritud ja hägustunud, et tõsisemate küsimuste aruteluks on vähe võimalusi. Niisiis võib olla oluline leida mõne juba arutatud teema puhul just uus perspektiiv, mille kaudu seda inimestele paremini kohale viia, samas tegemata järelandmisi nõuetes sisule. Väike muudatus esitamise viisis või visualiseerimisel võib viia debati järgmisele tasemele ja just selleks olemegi kogunud häkatonile kokku valdkondade ülese ja kõrgelt motiveeritud seltskonna, kes on valmis oma rakendama kogemusi, et leida lahendusi tõepõhatuse väljakutsetele.
 
-Q: In which language should the journalistic articles be composed during the hackathon?
+Q: Mis keeles peaks olema häkatoni ajakirjanduslikud näidislood?
 
-A: We suggest writing in English or Estonian, however, for the judges to be able evaluate the stories, you need to present your case in English during the pitches and the final presentation. In the case of a written text, Russian might also be an option, however, the judges with poor or nonexistent knowledge of Russian will then be forced to rely on what they hear from the judges with better command of Russian. If the bulk of the story essentially consists of a data analysis and visualisation, the choice of Russian will not likely cause any significant problems. It is your decision, however, but using the language that is best known to all judges is always the safest bet.
+A: Soovitavalt inglise või eesti, lugu ja selle kirjutamisel kasutatud vahendeid peaks aga esitlema nii vahekokkuvõtete kui lõpuesitluse raames inglise keeles, sest muidu pole žüriiliikmetel võimalik seda korralikult hinnata. Kirjaliku teksti puhul on mõeldav ka vene keele kasutamine, aga sel juhul peavad seda keelt vähe oskavad žüriiliikmed usaldama kogenumate kohtunike hinnangud. Samas, kui andmelugu põhineb suuresti andmeanalüüsil ja visualiseeringul, siis ei pruugi ka vene keele kasutamine olla probleemiks, kui esitlus ise on inglise keeles. Lõppkokkuvõttes on sinu enda otsustada, mis keelt kasutada ja avaldamine mitmes keeles on samuti üks võimalus.
 
-Q: What about the intellectual property rights for the projects?
+Q: Aga kellele jäävad häkatoni raames loodud projektide õigused?
 
-A: We have no claims for such rights, however we strongly encourage that you provide references where pertinent to the University of Tartu and the organisations who helped to make the hackathon happen should your project be able to start a life of its own after the hackathon. Please pay attention to the fact that, by default, the intellectual property rights of a hackathon project are vested in all members of the team, so you may have to enter into negotiations with your team members after the hackathon and reach a settlement with them should there be any need for this.
+A: Häkatoni korraldajad ei nõua endale õigusi, aga me soovitame tugevalt, et kui projekt hakkab pärast häkatoni oma elu edasi elama, siis viitaksite Tartu Ülikoolile ja häkatoni võimalikuks teinud organisatsioonidele kui abistajatele, kelleta idee poleks teoks saanud. Ent juhime siiski tähelepanu, et vaikimisi kuuluvad intellektuaalse omandiga seotud õigused kõigile häkatonitiimis osalenutele, seega kui soovite pärast häkatoni projekti edasi arendada, siis peate saama omavahel kokkuleppele, kes seda edasi arendab ja kuidas märgitakse edasise töö juures ära häkatoni tiimiliikmete panus.
 
-Q: Could you please once more explain what's so special about this hackathon?
+Q: Kas saaks veel korra kokku võtta, mille pooles see häkaton eriline on?
 
-A: We differ from the regular hackathons in Estonia by a more prominent involvement of academic research in our endeavours and by our focus on finding solutions to social issues. Our partners have long experience in promoting entrepreneurship and business startups and we rely on their expertise in these areas, however, we also evaluate the projects from the viewpoint of academia and social entrepreneurship. In truth, there is no contradiction in that, since projects always require funding, but the models of funding, selection of target groups and criteria for success can be different in some respects.
+A: Meie häkaton erineb tavaliselt Eestis korraldatud häkatonidest ülikooli suurema rolli poolest ja sellega, et püüame leida lahendusi ühiskondlikele väljakutsetele. Meie koostööpartneritel on pikaaegne kogemus ettevõtluse edendamisel ja iduettevõtluse vallas ning me toetume selles valdkonnas nende ekspertiisile, aga me hindame ühtlasi projekte akadeemilise uurimustöö ja sotsiaalse ettevõtluse vaatepunktist. Tegelikult pole muidugi siin sisemist vastuolu, sest rahastust vajavad nii äriprojektid kui vahetult ühiskondliku hüve loomisele suunatud projektid — peamine erinevus on siin ehk rahastusmudelites, sihtgruppide analüüsis ning projekti edukuse kriteeriumides.
 
-Q: Post-truth hackathon on April Fools' Day, are you serious?
+Q: Oot, tõejärgsuse häkaton esimesel aprillil, on see ikka tõsine asi?
 
-A: Yes, we mean serious business.
+A: Absoluutselt, me võtame seda kõike täie tõsidusega.
 ---
 partners_heading: Peakorraldajad
 ---
