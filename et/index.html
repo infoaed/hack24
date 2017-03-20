@@ -524,9 +524,9 @@ $( "#registerForm" ).submit(function( event ) {
 		enctype: 'multipart/form-data',
 		processData: false,
 		success: function(msg) {
-			//var resp = JSON.parse(msg);
+			var resp = JSON.parse(msg);
 			$( "#result" ).empty().append( "<h3>Thank you for registering, expect an e-mail about it soon!</h3>");
-			//console.log("abc" + msg + "|||" + resp);
+			console.log("abc" + msg + "|||" + resp);
 		},
 		error:function(x,e) {
 			$( "#result" ).empty().append( "<h3>Registration was sent to organizers, but proper confirmation wasn't received.</h3><div>You can contact p6der@ut.ee to ask if the registration was fine, if you don't get confirmation e-mail soon. Thanks for registering though and sorry for the inconvenience.</div>");
