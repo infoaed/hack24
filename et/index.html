@@ -524,7 +524,7 @@ $( "#registerForm" ).submit(function( event ) {
 		enctype: 'multipart/form-data',
 		processData: false,
 		success: function(msg) {
-			var resp = JSON.parse(msg)
+			var resp = JSON.parse(msg);
 			$( "#result" ).empty().append( "<h3>Thank you for registering, expect an e-mail about it soon!</h3>");
 			console.log("abc" + msg);
 		},
