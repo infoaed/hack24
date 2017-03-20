@@ -39,7 +39,7 @@
 	<h3>Any comments?</h3>
 	<div class="regform" style="padding-bottom: 1em"><textarea name="comment" placeholder="Any special needs or ideas, that you want to let the organizers know about?" rows=3 cols=50></textarea></div>
 
-  	<div class="regform"><button type="submit" class="regbutton">Submit registration</button></div>
+  	<div class="regform"><button type="submit" class="regbutton" id="submitreg">Submit registration</button></div>
 </form>
 
 <div id="result"></div>
@@ -58,13 +58,17 @@ $( "#registerForm" ).submit(function( event ) {
 		crossDomain: true,
 		enctype: 'multipart/form-data',
 		processData: false,
-		success: function(msg) {
-			var resp = JSON.parse(msg)
-			$( "#result" ).empty().append( "<h3>Thank you for registering, expect an e-mail about it soon!</h3>");
-			console.log("abc" + msg);
+		success: function(resp) {
+			console.log("success:" + resp["success"] + " / " + resp["message"]);
+			if(resp["success"]) {
+				$( "#result" ).empty().append( "<h3>Thank you for registering, expect an e-mail about it soon!</h3>");
+				$('html, body').animate({ scrollTop: $("#result").offset().top - $(window).height()/2}, 1000);
+				$( "#submitreg" ).attr("disabled", true);;
+			}
 		},
 		error:function(x,e) {
 			$( "#result" ).empty().append( "<h3>Registration was sent to organizers, but proper confirmation wasn't received.</h3><div>You can contact p6der@ut.ee to ask if the registration was fine, if you don't get confirmation e-mail soon. Thanks for registering though and sorry for the inconvenience.</div>");
+			$('html, body').animate({ scrollTop: $("#result").offset().top - $(window).height()/2}, 1000);
 			if (x.status==0) {
 				console.log('You are offline!!\n Please Check Your Network.');
 			} else if(x.status==404) {
@@ -80,9 +84,8 @@ $( "#registerForm" ).submit(function( event ) {
 			}
 		}		
    }).done(function() {
-	  console.log("Thank you, for contacting us");
+	  console.log("Thank you for contacting us");
 	});
-   console.log("zyx");
 
 });
 
