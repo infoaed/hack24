@@ -1,7 +1,7 @@
 <nav class="main-nav">
   <div>
     <div>
-      <a class="logo" href="{{ '/'|url }}"><div style="display: flex; align-items:center;">{% include 'includes/logo.svg' %}<span style="text-transform: uppercase; font-weight: 900; font-size: 1.5em; margin-left: 1em;">Data as Remedy<br>24h Post-Truth hackathon</span></div></a>
+      <a class="logo" href="{{ '/'|url }}"><div style="display: flex; align-items:center; vertical-align: middle; margin-top: auto; margin-bottom: auto;">{% include 'includes/logo.svg' %}<span style="text-transform: uppercase; font-weight: 900; font-size: 1.5em; margin-left: 1em; align-items:center; vertical-align: middle; margin-top: auto; margin-bottom: auto;">Data as Remedy<br>24h Post-Truth hackathon</span></div></a>
       <ul class="menu" id="nav">
         {% for label, path in bag('main-nav', this.alt).iteritems() %}
         <li{% if this.is_child_of(path) %} class="active"{% endif

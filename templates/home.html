@@ -4,7 +4,7 @@
 {% include 'includes/nav.html' %}
 <!-- TODO: Quick and dirty solution, implement properly :-) -->
 <style>
-    h2 {font-size:44px;}
+    h2 {font-size:40px;}
     #who>div ul + p {padding-top:1em;}
 </style>
 
@@ -144,8 +144,18 @@
 <section id="faq">
   <div>
     <header>
-      <h2>{{ this.support_scheme_heading }}</h2>
-      {{ this.support_scheme_body }}
+      <h2>{{ this.faq_heading }}</h2>
+      {{ this.faq_instruction }}
+      <ul>
+      {% for nr in range(1, 16) %}
+        <li>
+          <h5><a href="javascript:toggleDiv('faq_{{ nr }}');">{{ this["faq_" + nr|string] }}</a></h5>
+          <div id="faq_{{ nr }}" class="faq">
+          {{ this["faq_" + nr|string + "_text"] }}
+          </div>
+        </li>
+      {% endfor %}
+      </ul>
     </header>
   </div>
 </section>
@@ -154,11 +164,44 @@
   <div>
     <header>
       <h3>{{ this.partners_heading }}</h3>
-      {{ this.partners_body }}
+      <ul>
+        <li>
+          <h3>{{ this.org_1_head }}</h3>
+          {{ this.org_1_body }}
+        </li>
+        <li>
+          <h3>{{ this.org_2_head }}</h3>
+          {{ this.org_2_body }}
+        </li>
+      </ul>
       <h3>{{ this.partners_partners_heading }}</h3>
-      {{ this.partners_partners_body }}
+      <ul>
+        <li>
+          <h3>{{ this.partner_1_head }}</h3>
+          {{ this.partner_1_body }}
+        </li>
+        <li>
+          <h3>{{ this.partner_2_head }}</h3>
+          {{ this.partner_2_body }}
+        </li>
+        <li>
+          <h3>{{ this.partner_3_head }}</h3>
+          {{ this.partner_3_body }}
+        </li>
+        <li>
+          <h3>{{ this.partner_4_head }}</h3>
+          {{ this.partner_4_body }}
+        </li>
+      </ul>
       <h3>{{ this.partners_sponsors_heading }}</h3>
-      {{ this.partners_sponsors_body }}
+      <ul>
+        <li>
+          <h3>{{ this.sponsor_1_head }}</h3>
+          {{ this.sponsor_1_body }}
+        </li>
+      </ul>
+      <h3>{{ this.contact_heading }}</h3>
+      {{ this.contact_body }}
     </header>
   </div>
 </section>

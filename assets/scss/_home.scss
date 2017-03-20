@@ -553,9 +553,26 @@
     &#faq {
       background-color: $purple;
       @include rev-text;
-
+      
       & > div {
         padding-bottom: $gutter;
+
+        #faq_1, #faq_2, #faq_3, #faq_4, #faq_5, #faq_6, #faq_7, #faq_8, #faq_9, #faq_10, #faq_11, #faq_12, #faq_13, #faq_14, #faq_15 {
+          display: none;
+        }
+
+        h5 {
+          margin-top: 0.2em;
+
+          a {
+              text-decoration: none;
+          }
+        }
+
+        .faq {
+          margin-top: 0.8em;
+          margin-bottom: 1.6em;
+        }
 
         & > header {
           padding: $gutter $gutter 0 $gutter;
@@ -566,6 +583,7 @@
           }
         }
       }
+
 
       @media (min-width:$max-screen) {
         position: relative;
@@ -592,7 +610,7 @@
 
       @media (min-width:$max-screen) {
         position: relative;
-        padding-bottom: 50px;
+        padding-bottom: 0px;
       }
 
       & > div {
@@ -614,13 +632,14 @@
           padding: 0;
           margin: 0;
           text-align: center;
+          list-style-type: none;
 
           @media (min-width:$max-screen) {
             margin-left: -$gutter;
             margin-right: -$gutter;
           }
 
-          li {
+          li {          
             float: left;
             width: 33%;
             height: 10em;
@@ -628,6 +647,7 @@
             padding: $base-spacing $gutter 0 $gutter;
             box-sizing: border-box;
             font-size: 0.9em;
+            padding-bottom: 11.5em;
 
             @media (min-width: $large-screen) {
               float: left;

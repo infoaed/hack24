@@ -34,6 +34,13 @@
   <script src="{{ '/js/main.js'|url }}"></script>
 
   <script type="text/javascript">
+    function toggleDiv(divId) {
+      console.log("tog");
+       $("#"+divId).slideToggle("slow");
+    }
+  </script>
+
+  <script type="text/javascript">
     // menus used on small screens
     $(function(){
       $('#nav').slicknav({
@@ -50,7 +57,7 @@
 
     // analytics
     var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-33874954-12']);
+    _gaq.push(['_setAccount', 'UA-93980841-1']);
     _gaq.push(['_trackPageview']);
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
