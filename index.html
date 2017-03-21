@@ -536,20 +536,26 @@ $( "#registerForm" ).submit(function( event ) {
 			} */
 		},
 		error:function(x,e) {
-			$( "#result" ).empty().append( "<h3>Registration was sent to organizers, but proper confirmation wasn't received.</h3><div>You can contact p6der@ut.ee to ask if the registration was fine, if you don't get confirmation e-mail soon. Thanks for registering though and sorry for the inconvenience.</div>");
+			$( "#result" ).empty().append( "<h3>Registration was sent to organizers, but proper confirmation wasn't received.</h3><div>You can contact p6der@ut.ee to ask if the registration was fine, if you don't get confirmation e-mail soon. Thanks for registering though and sorry for the inconvenience.</div><p></p>");
 			$('html, body').animate({ scrollTop: $("#result").offset().top - $(window).height()/2}, 1000);
 			document.getElementById("submitreg").disabled = true;
 			if (x.status==0) {
+				$( "#result" ).append("<p>Debug code: Offline.</p>");
 				console.log('You are offline!!\n Please Check Your Network.');
 			} else if(x.status==404) {
+				$( "#result" ).append("<p>Debug code: No URL.</p>");
 				console.log('Requested URL not found.');
 			} else if(x.status==500) {
+				$( "#result" ).append("<p>Debug code: Server problem.</p>");
 				console.log('Internel Server Error.');
 			} else if(e=='parsererror') {
+				$( "#result" ).append("<p>Debug code: JSON parsing problem.</p>");
 				console.log('Error.\nParsing JSON Request failed.' + x);
 			} else if(e=='timeout'){
+				$( "#result" ).append("<p>Debug code: Timeout.</p>");
 				console.log('Request Time out.');
 			} else {
+				$( "#result" ).append("<p>Debug code: " + x.responseText + "</p>");
 				console.log('Unknow Error.\n'+x.responseText);
 			}
 		}		
