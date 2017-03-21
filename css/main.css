@@ -901,6 +901,9 @@ html {
     text-align: center; }
     .home > section#register .regform {
       margin-bottom: 0.2em; }
+    .home > section#register .regformelem {
+      width: 96%;
+      min-width: -moz-available; }
     .home > section#register .regbutton {
       background-color: #0086FF;
       color: #fff;
@@ -947,6 +950,9 @@ html {
             .home > section#register:target article > div header {
               margin-left: -30px;
               margin-right: -30px; } }
+        .home > section#register:target article > div input {
+          max-width: 100%;
+          min-width: 1260px; }
         .home > section#register:target article > div ul {
           padding: 0;
           margin: 0;
