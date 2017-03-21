@@ -543,19 +543,19 @@ $( "#registerForm" ).submit(function( event ) {
 			$('html, body').animate({ scrollTop: $("#result").offset().top - $(window).height()/2}, 1000);
 			document.getElementById("submitreg").disabled = true;
 			if (x.status==0) {
-				$( "#result" ).append("<p>Debug code: Offline.</p>");
+				$( "#result" ).append("<p>Debug code: offline.</p>");
 				console.log('You are offline!!\n Please Check Your Network.');
 			} else if(x.status==404) {
-				$( "#result" ).append("<p>Debug code: No URL.</p>");
+				$( "#result" ).append("<p>Debug code: no URL.</p>");
 				console.log('Requested URL not found.');
 			} else if(x.status==500) {
-				$( "#result" ).append("<p>Debug code: Server problem.</p>");
+				$( "#result" ).append("<p>Debug code: server problem.</p>");
 				console.log('Internel Server Error.');
 			} else if(e=='parsererror') {
 				$( "#result" ).append("<p>Debug code: JSON parsing problem.</p>");
 				console.log('Error.\nParsing JSON Request failed.' + x);
 			} else if(e=='timeout'){
-				$( "#result" ).append("<p>Debug code: Timeout.</p>");
+				$( "#result" ).append("<p>Debug code: timeout.</p>");
 				console.log('Request Time out.');
 			} else {
 				$( "#result" ).append("<p>Debug code: " + x.responseText + "</p>");
