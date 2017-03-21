@@ -525,15 +525,15 @@ $( "#registerForm" ).submit(function( event ) {
 		processData: false,
 		success: function(resp) {
 			console.log("success:" + resp["success"] + " / " + resp["message"]);
-			if(resp["success"]) {
+			/* if(resp["success"]) { */
 				$( "#result" ).empty().append( "<h3>Thank you for registering, expect an e-mail about it soon!</h3>");
 				$('html, body').animate({ scrollTop: $("#result").offset().top - $(window).height()/2}, 1000);
 				document.getElementById("submitreg").disabled = true;
-			} else {
+			/* } else {
 				$( "#result" ).empty().append( "<h3>Registration was sent to organizers, but proper confirmation wasn't received.</h3><div>You can contact p6der@ut.ee to ask if the registration was fine, if you don't get confirmation e-mail soon. Thanks for registering though and sorry for the inconvenience.</div>");
 				$('html, body').animate({ scrollTop: $("#result").offset().top - $(window).height()/2}, 1000);
 				document.getElementById("submitreg").disabled = true;
-			}
+			} */
 		},
 		error:function(x,e) {
 			$( "#result" ).empty().append( "<h3>Registration was sent to organizers, but proper confirmation wasn't received.</h3><div>You can contact p6der@ut.ee to ask if the registration was fine, if you don't get confirmation e-mail soon. Thanks for registering though and sorry for the inconvenience.</div>");
