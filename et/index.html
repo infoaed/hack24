@@ -512,6 +512,9 @@ Tartus</p>
 <script>
 $( "#registerForm" ).submit(function( event ) {
   console.log("cors: " + $.support.cors);
+  if (!$.support.cors) {
+		$( "#result" ).empty().append( "<h3>Seems that your browser doesn't support <a href='http://caniuse.com/#feat=cors'>CORS</a>, registering probably works, but you won't get proper confirmation message from the server!</h3>");
+  }
   event.preventDefault();
   var formData = new FormData($(this)[0]);
   $.ajax({
