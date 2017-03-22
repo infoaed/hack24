@@ -32,7 +32,7 @@ Registreerimine on [nüüd avatud](#register)!
 ---
 action_text_2:
 
-Kuna kohtade arv on piiratud, siis ära registreerumisega viivita! Tekkivatele küsimustele saad vastuse meie [Slack'i kanalis](https://trthack.slack.com/shared_invite/MTUzNzczMzE2MDMzLTE0ODk1MzIzNzMtMGJmMmQzM2E0Yw) või [Twitteris](https://twitter.com/trthack). Üritusega saab liituda ja sellel silma peal hoida ka [Facebook'is](https://www.facebook.com/events/637643813106104/).
+Kuna kohtade arv on piiratud, siis ära registreerumisega viivita! Tekkivatele küsimustele saad vastuse meie [Twitteris](https://twitter.com/trthack) või [Facebook'is](https://www.facebook.com/events/637643813106104/) või saates kirja aadressil [hack24@infoaed.ee](mailto:hack24@infoaed.ee).
 
 ---
 who_heading: Mida me häkatonil tegema hakkame?
@@ -153,7 +153,7 @@ resources_materials_heading: Registreermisvorm
 ---
 resources_materials_text:
 
-Registreeri end osalejaks ja hangi ligipääs häkatoni töölauale.
+Registreeri end osalejaks ja hangi ligipääs häkatoni töölauale ning [Slack'i kanalisse](https://trthack.slack.com/).
 ---
 faq_heading: Korduma kippuvad küsimused
 ---
@@ -319,5 +319,5 @@ contact_heading: Kontaktid
 ---
 contact_body:
 
-Täpsematele küsimustele vastab häkatoni projektijuht [Märt Põder](https://twitter.com/trtram) &lt;tramm@infoaed.ee&gt; või telefonil +372 55643754. Häkatoni korraldustiimiga võib otse ühendust võtta ka meie [Slack'i kanalis](https://trthack.slack.com/shared_invite/MTUzNzczMzE2MDMzLTE0ODk1MzIzNzMtMGJmMmQzM2E0Yw).
+Täpsematele küsimustele vastab häkatoni projektijuht [Märt Põder](https://twitter.com/trtram) meiliaadressil &lt;[hack24@infoaed.ee](mailto:hack24@infoaed.ee)&gt; või telefonil +372 55643754.
 ---
