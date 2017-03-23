@@ -1,10 +1,20 @@
 {% extends "layout.html" %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  <h2>{{ this.title }}</h2>
-  <p class="meta">
-    by {{ this.author }}
-    on {{ this.pub_date|dateformat('full') }}
-  <div class="body">{{ this.body }}</div>
-  <div class="comments">{{ render_disqus_comments() }}</div>
+{% include 'includes/dash_nav.html' %}
+        <!-- dash-sub.html -->
+<section id="dash_sub">
+        <div class="container">
+          <h2>{{ this.title }}</h2>
+          <p class="meta">
+            {{ this.author }}
+            <h3>Idea</h3>
+
+          <div class="body">{{ this.body }}</div>
+            <img src="{{ this.project_thumb }}" alt=""/>
+            <h4>Link to repo: <a href="{{ this.project_url }}">{{ this.project_url }}</a></h4>
+          <div class="comments">{{ render_disqus_comments() }}</div>
+        </div>
+</section>
+
 {% endblock %}
