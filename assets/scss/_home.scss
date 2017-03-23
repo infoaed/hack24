@@ -445,8 +445,14 @@
       
       .regform {
         margin-bottom: 0.2em;
+
       }
-      
+
+      .regformelem {
+        width: 96%;
+        min-width: -moz-available;
+      }
+          
       .regbutton {
           @include button;
           margin-bottom: $gutter;
@@ -460,7 +466,7 @@
           h2 {
             color: $blue;
           }
-
+          
           p {
             max-width: 770px;
             display: block;
@@ -505,6 +511,11 @@
                 margin-left: -$gutter;
                 margin-right: -$gutter;
               }
+            }
+
+            input {
+              max-width: 100%;
+              min-width: $max-screen
             }
 
             ul {

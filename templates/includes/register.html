@@ -2,23 +2,23 @@
 
 <p>For registration we need some information about your interests and your plan for the hackathon. Since the available space at the venue is limited, we may give preference to applicants who possess an already existing plan or whose skills are absolutely necessary for the success of the hackathon. Name, e-mail and skillset are required fields and you can move your cursor on the fields to get some instructions. Public data will be published and used on the hackathon dashboard already before the event.</p>
 
-<p>You can use <a href="https://en.wikipedia.org/wiki/Markdown#Example">MarkDown</a> for multi-line fields and you can edit your entry later on <a href="https://github.com/infoaed/hack24">GitHub</a> or comment on all entries with <a href="https://blog.disqus.com/">Disqus</a>! To ask questions or discuss the hackaton you can join a <a href="https://trthack.slack.com/shared_invite/MTUzNzczMzE2MDMzLTE0ODk1MzIzNzMtMGJmMmQzM2E0Yw">Slack channel</a> that will be also used during the hackathon.</p></div>
+<p>You can use <a href="https://en.wikipedia.org/wiki/Markdown#Example">MarkDown</a> for multi-line fields and you can edit your entry later on <a href="https://github.com/infoaed/hack24">GitHub</a> or comment on all entries with <a href="https://blog.disqus.com/">Disqus</a>! After registration you can join our <a href="https://trthack.slack.com/">Slack channel</a> that will be also used during the event and get access to hackathon dashboard.</p></div>
 
 <form id="registerForm">
 
 	<h3>Personal data</h3>
 
-	<div class="regform"><input name="name" placeholder="Name" type="text" required size=50 title="Use a pseudonym, if you don't want to show your name public profile!"></div>
-	<div class="regform"><input name="email" placeholder="Email" type="email" required size=50 title="E-mail is not shared publicly and is used to communicate with the organizers!"></div>
-	<div class="regform"><input name="affiliation" placeholder="Organization" type="text" size=50 title="Mainly for organizers to get idea about the participants. Not published."></div>
+	<div class="regform"><input class="regformelem" name="name" placeholder="Name" type="text" required title="Use a pseudonym, if you don't want to show your name public profile!"></div>
+	<div class="regform"><input class="regformelem" name="email" placeholder="Email" type="email" required title="E-mail is not shared publicly and is used to communicate with the organizers!"></div>
+	<div class="regform"><input class="regformelem" name="affiliation" placeholder="Organisation" type="text" title="Mainly for organizers to get idea about the participants. Not published."></div>
 
 	<h3>Public data</h3>
 
-	<div class="regform"><input name="public_contact" size=50 placeholder="Contact (public)" type="text" title="E-mail to be published in the profile or home page/social media account that can be used to contact you for this hackathon."></div>
-	<div class="regform" style="padding-bottom: 1em;"><textarea name="about" placeholder="About you (public)" rows=3 cols=50 title="Say couple of words to introduce yourself to other participants. Doesn't have to be anything fancy, just one sentence will do."></textarea></div>
+	<div class="regform"><input class="regformelem" name="public_contact" placeholder="Contact information" type="text" title="E-mail to be published in the profile or home page/social media account that can be used to contact you for this hackathon."></div>
+	<div class="regform" style="padding-bottom: 1em;"><textarea class="regformelem" name="about" placeholder="About you" rows=3 title="Say couple of words to introduce yourself to other participants. Doesn't have to be anything fancy, just one sentence will do."></textarea></div>
 	<div class="regform">Describe your skillset (hold down ⌘ / 'Ctrl' to select multiple):</div>
 	<div class="regform"><select name="expertise" multiple size=8 required title="Select your special skills that will be used by other participants and organizers to see what teams can be formed. You can select more than one!">
-		<option value="mediajourn">Media & journalism</option>
+		<option value="mediajourn">Media &amp; journalism</option>
 		<option value="sociohum">Social science &amp; humanities</option>
 		<option value="dev">IT &amp; development</option>
 		<option value="datastat">Statistics &amp; data analysis</option>
@@ -27,17 +27,17 @@
 		<option value="marketing">Marketing &amp; communication</option>
 		<option value="citizen">Hey, I'm an outstanding citizen!</option>
 	</select></div>
-	<div class="regform"><input name="other_expertise" placeholder="More specific" type="text" title="If the categories above are not enough."></div>
+	<div class="regform"><input name="other_expertise" placeholder="More specific..." type="text" title="If the categories above are not enough."></div>
 
 	<h3>What can we do about post-truth?</h3>
 
-	<div class="regform"><textarea name="idea" placeholder="Describe what do you want to do during the 24h hackathon and what and/or who do you need for making it happen..." rows=5 cols=50 title=""></textarea></div>
-	<div class="regform"><input name="project_url" placeholder="Project URL" size=25 type="text" title="Provide a link to some site or material (blog, dataset, code repository, research project etc) that describes your project.">
+	<div class="regform"><textarea class="regformelem" name="idea" placeholder="Describe what do you want to do during the 24h hackathon and what and/or who do you need for making it happen..." rows=5 title=""></textarea></div>
+	<div class="regform"><input name="project_url" placeholder="Project URL" type="text" title="Provide a link to some site or material (blog, dataset, code repository, research project etc) that describes your project.">
 	<input name="project_thumb" placeholder="Project thumbmail" type="file" title="You can upload thumbnail image for the project. This is purely for the presentation purposes. If you have image, it will we shown if you share your project on social media etc. Nice to have, but not ultimately necessary. There is a size limit of ~1 MB.">
 	</div>
 
 	<h3>Any comments?</h3>
-	<div class="regform" style="padding-bottom: 1em"><textarea name="comment" placeholder="Any special needs or ideas, that you want to let the organizers know about?" rows=3 cols=50></textarea></div>
+	<div class="regform" style="padding-bottom: 1em"><textarea class="regformelem" name="comment" placeholder="Any special needs or ideas, that you want to let the organizers know about?" rows=3></textarea></div>
 
   	<div class="regform"><button type="submit" class="regbutton" id="submitreg">Submit registration</button></div>
 </form>
@@ -47,6 +47,9 @@
 <script>
 $( "#registerForm" ).submit(function( event ) {
   console.log("cors: " + $.support.cors);
+  if (!$.support.cors) {
+		$( "#result" ).empty().append( "<h3>Seems that your browser doesn't support <a href='http://caniuse.com/#feat=cors'>CORS</a>, registering probably works, but you won't get proper confirmation message from the server!</h3>");
+  }
   event.preventDefault();
   var formData = new FormData($(this)[0]);
   $.ajax({
@@ -60,26 +63,37 @@ $( "#registerForm" ).submit(function( event ) {
 		processData: false,
 		success: function(resp) {
 			console.log("success:" + resp["success"] + " / " + resp["message"]);
-			if(resp["success"]) {
+			/* if(resp["success"]) { */
 				$( "#result" ).empty().append( "<h3>Thank you for registering, expect an e-mail about it soon!</h3>");
 				$('html, body').animate({ scrollTop: $("#result").offset().top - $(window).height()/2}, 1000);
-				$( "#submitreg" ).attr("disabled", true);;
-			}
+				document.getElementById("submitreg").disabled = true;
+			/* } else {
+				$( "#result" ).empty().append( "<h3>Registration was sent to organizers, but proper confirmation wasn't received.</h3><div>You can contact p6der@ut.ee to ask if the registration was fine, if you don't get confirmation e-mail soon. Thanks for registering though and sorry for the inconvenience.</div>");
+				$('html, body').animate({ scrollTop: $("#result").offset().top - $(window).height()/2}, 1000);
+				document.getElementById("submitreg").disabled = true;
+			} */
 		},
 		error:function(x,e) {
-			$( "#result" ).empty().append( "<h3>Registration was sent to organizers, but proper confirmation wasn't received.</h3><div>You can contact p6der@ut.ee to ask if the registration was fine, if you don't get confirmation e-mail soon. Thanks for registering though and sorry for the inconvenience.</div>");
+			$( "#result" ).empty().append( "<h3>Registration was sent to organizers, but proper confirmation wasn't received.</h3><div>You can contact p6der@ut.ee to ask if the registration was fine, if you don't get confirmation e-mail soon. Thanks for registering though and sorry for the inconvenience.</div><p></p>");
 			$('html, body').animate({ scrollTop: $("#result").offset().top - $(window).height()/2}, 1000);
+			document.getElementById("submitreg").disabled = true;
 			if (x.status==0) {
+				$( "#result" ).append("<p>Debug code: offline.</p>");
 				console.log('You are offline!!\n Please Check Your Network.');
 			} else if(x.status==404) {
+				$( "#result" ).append("<p>Debug code: no URL.</p>");
 				console.log('Requested URL not found.');
 			} else if(x.status==500) {
+				$( "#result" ).append("<p>Debug code: server problem.</p>");
 				console.log('Internel Server Error.');
 			} else if(e=='parsererror') {
+				$( "#result" ).append("<p>Debug code: JSON parsing problem.</p>");
 				console.log('Error.\nParsing JSON Request failed.' + x);
 			} else if(e=='timeout'){
+				$( "#result" ).append("<p>Debug code: timeout.</p>");
 				console.log('Request Time out.');
 			} else {
+				$( "#result" ).append("<p>Debug code: " + x.responseText + "</p>");
 				console.log('Unknow Error.\n'+x.responseText);
 			}
 		}		
