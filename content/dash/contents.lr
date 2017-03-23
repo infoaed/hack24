@@ -2,3 +2,59 @@ title: Hackathon dashboard
 ---
 _model: dash
 ---
+resources:
+### Siin on hästi pikk nimekiri ###
+* ello
+* wow
+* sherkislove
+* I love life
+* Python is great
+* Welcome to my site
+* Definitely
+* Useful
+_Done_
+---
+
+
+
+
+
+
+participant_name_1: Liina Pulges
+---
+participant_tags_1: mediajourn,marketing,citizen,dev,datastat,design,leadership,sociohum
+---
+participant_about_1: I am a journalist interested in post truth issues.
+---
+participant_public_contact_1: liina@pulges.com
+---
+participant_project_url_1: www.link.com
+---
+participant_name_2: Muhammad Uzair
+---
+participant_tags_2: dev
+---
+participant_about_2:
+---
+participant_public_contact_2: +372 5673 4951
+---
+participant_project_url_2:
+---
+
+
+
+mentor_pic_1: /images/mentor_images/idealab_et.png
+---
+mentor_name_1: Umar Zarip
+---
+mentor_description_1:
+###Umar on lahe inimene
+_Uskumatu onju_
+---
+mentor_pic_2: /images/mentor_images/idealab_et.png
+---
+mentor_name_2: Umar Zarip 2
+---
+mentor_description_2:
+###Umar on lahe inimene
+_Uskumatu onju_
