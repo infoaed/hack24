@@ -64,7 +64,7 @@ $( "#registerForm" ).submit(function( event ) {
 		success: function(resp) {
 			console.log("success:" + resp["success"] + " / " + resp["message"]);
 			/* if(resp["success"]) { */
-				$( "#result" ).empty().append( "<h3>Thank you for registering, expect an e-mail about it soon!</h3>");
+				$( "#result" ).empty().append( "<h3>Thank you for registering! We will send you an e-mail about it soon.</h3>");
 				$('html, body').animate({ scrollTop: $("#result").offset().top - $(window).height()/2}, 1000);
 				document.getElementById("submitreg").disabled = true;
 			/* } else {
