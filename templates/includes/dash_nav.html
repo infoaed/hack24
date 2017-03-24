@@ -19,11 +19,11 @@
                 {% endfor %}
             </ul>
 
-            <div class="language">
+          <!--  <div class="language">
                 <div>
                     <a class="current" href="#lang">{{ current_language |replace("_", " ") }}</a>
 
-                    <ul id="lang">
+                    -<ul id="lang">
                         {% for lang in bag('languages.all') %}
                         <li{% if current_language == lang %} class="active"{% endif %}>
                         <a href="{{ '.'|url(alt=lang) }}">{{ lang |upper |replace("_", " ")}}</a>
@@ -31,7 +31,7 @@
                         {% endfor %}
                     </ul>
                 </div>
-            </div>
+            </div>--->
 
         </div>
     </div>

@@ -37,18 +37,6 @@
   height:100%;
 }
 
-.closed{
-  display:none;
-  height:0;
-}
-.mentor_image img{
-width:100%;
-}
-
-.mentor_name{
-  text-align:center;
-}
-
 #dash_sub{
   color:white;
   background: $purple;
@@ -87,7 +75,9 @@ color:white;
   color:white;
 }
 
+
 .kirje {
+  font-family:"Noto Sans",sans-serif !important;
   margin-bottom: 0;
   border-bottom:1px solid #ccc;
   position: relative;
@@ -128,7 +118,9 @@ color:white;
   display: none;
 }
 
-
+.repo_link a{
+  color:white !important;
+}
 
 
 
@@ -142,6 +134,24 @@ color:white;
   background:$purple;
 }
 
+.mentor_inner{
+  padding-left:0;
+}
 
 
+.closed{
+  display:none;
+  height:0;
+}
+.mentor_image img{
+  width:100%;
+}
 
+.mentor_name{
+  text-align:center;
+}
+.mentor_name a{
+  color:white;
+  text-decoration:none;
+
+}
