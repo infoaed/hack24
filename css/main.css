@@ -1148,6 +1148,129 @@ html {
       display: block;
       padding: 30px 30px 15px 30px; }
 
+.quad {
+  -webkit-transition: all 500ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -moz-transition: all 500ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -o-transition: all 500ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: all 500ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  /* easeOutQuad */
+  -webkit-transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -moz-transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -o-transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  /* easeOutQuad */ }
+
+.menu li {
+  color: white;
+  font-size: 20px; }
+
+.menu a {
+  color: white; }
+
+.dash {
+  color: white; }
+
+.dash a {
+  color: #48C0AC; }
+
+.menu a {
+  color: white; }
+
+.logo span {
+  color: white; }
+
+.dash_expand {
+  height: 100%; }
+
+.closed {
+  display: none;
+  height: 0; }
+
+.mentor_image img {
+  width: 100%; }
+
+.mentor_name {
+  text-align: center; }
+
+#dash_sub {
+  color: white;
+  background: #b04ce5; }
+
+#dash_list {
+  padding: 50px 0;
+  color: black;
+  background: #b04ce5; }
+
+#dash_list h2 {
+  color: white; }
+
+#dash_list li {
+  margin: 0;
+  display: block; }
+
+#dash_list ul {
+  padding: 0; }
+
+.idea_body {
+  overflow: hidden;
+  max-height: 40px; }
+
+#participants {
+  padding: 50px 0;
+  color: black;
+  background: #0086FF; }
+
+#participants h2 {
+  color: white; }
+
+.kirje {
+  margin-bottom: 0;
+  border-bottom: 1px solid #ccc;
+  position: relative; }
+
+.kirje.minevik {
+  color: #ccc; }
+
+.kirje i.fa-long-arrow-down {
+  font-size: 2em;
+  position: absolute;
+  right: 7em;
+  top: -0.35em;
+  color: #ccc; }
+
+.aktuaalne {
+  background-color: lightblue; }
+
+.kuupaev {
+  float: left;
+  padding: 0.3em 0.5em 0.3em 0.5em;
+  margin-right: 1em;
+  display: visible; }
+
+.tag {
+  float: right;
+  display: visible; }
+
+.nimi {
+  float: right;
+  display: visible; }
+
+.raha {
+  float: right;
+  display: none; }
+
+.seadus {
+  float: right;
+  display: none; }
+
+#resources {
+  background: #48C0AC;
+  padding: 50px 0; }
+
+#mentors {
+  padding: 50px 0;
+  background: #b04ce5; }
+
 #lektor-edit-link {
   display: none; }
 

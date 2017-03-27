@@ -529,7 +529,7 @@ $( "#registerForm" ).submit(function( event ) {
 		success: function(resp) {
 			console.log("success:" + resp["success"] + " / " + resp["message"]);
 			/* if(resp["success"]) { */
-				$( "#result" ).empty().append( "<h3>Thank you for registering, expect an e-mail about it soon!</h3>");
+				$( "#result" ).empty().append( "<h3>Thank you for registering! We will send you an e-mail about it soon.</h3>");
 				$('html, body').animate({ scrollTop: $("#result").offset().top - $(window).height()/2}, 1000);
 				document.getElementById("submitreg").disabled = true;
 			/* } else {
@@ -697,9 +697,7 @@ $( "#registerForm" ).submit(function( event ) {
         <li>
           <h5><a href="javascript:toggleDiv('faq_15');">Post-truth hackathon on April Fools&#39; Day, are you serious?</a></h5>
           <div id="faq_15" class="faq">
-          <p>Yes, we mean serious business.
----s
-partners_heading: Organised by</p>
+          <p>Yes, we mean serious business.</p>
 
           </div>
         </li>
@@ -712,7 +710,7 @@ partners_heading: Organised by</p>
 <section id="partners">
   <div>
     <header>
-      <h3></h3>
+      <h3>Organised by</h3>
       <ul>
         <li>
           <h3><p><img src="./images/utcis_et.jpg" alt="Centre for the Information Society"></p>
@@ -751,6 +749,24 @@ partners_heading: Organised by</p>
           <h3><p><img src="./images/semiosalong.png" alt="Semiosalong"></p>
 </h3>
           <p><a href="http://semiosalong.blogspot.com.ee/">Semiosalong</a></p>
+
+        </li>
+        <li>
+          <h3><p><img src="./images/ekspress.png" alt="Eesti Ekspress"></p>
+</h3>
+          <p><a href="http://ekspress.delfi.ee/">Eesti Ekspress</a></p>
+
+        </li>
+        <li>
+          <h3><p><img src="./images/postimees.png" alt="Postimees"></p>
+</h3>
+          <p><a href="http://www.postimees.ee/">Postimees</a></p>
+
+        </li>
+        <li>
+          <h3><p><img src="./images/err.png" alt="Eesti Rahvusringhääling"></p>
+</h3>
+          <p><a href="http://www.err.ee/">Eesti Rahvusringhääling</a></p>
 
         </li>
       </ul>
