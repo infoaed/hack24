@@ -12,8 +12,10 @@
 
           <div class="body">{{ this.body }}</div>
             <img src="{{ this.project_thumb }}" alt=""/>
-            <h4>Link to repo: <a href="{{ this.project_url }}">{{ this.project_url }}</a></h4>
-          <div class="comments">{{ render_disqus_comments() }}</div>
+            <div class="repo_link">
+            <h4>Link to repo: <a href="https://github.com/infoaed/hack24/tree/master/content/dash/{{this['title'].replace(' ' , '-')}}">https://github.com/infoaed/hack24/tree/master/content/dash/{{this['title'].replace(' ' , '-')}}</a></h4>
+            </div>
+                <div class="comments">{{ render_disqus_comments() }}</div>
         </div>
 </section>
 
