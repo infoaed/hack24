@@ -27,7 +27,7 @@ Häkaton toimub 24h sessioonina [Spark'i keskuses](https://www.contriber.com/spa
 ---
 action_text_1:
 
-Registreerimine on [nüüd avatud](#register)!
+Registreerimine on [avatud neljapäeva 30.03 hommikuni](#register)!
 
 ---
 action_text_2:
@@ -153,7 +153,7 @@ resources_materials_heading: Registreermisvorm
 ---
 resources_materials_text:
 
-Registreeri end osalejaks ja hangi ligipääs häkatoni töölauale ning [Slack'i kanalisse](https://trthack.slack.com/).
+Registreeri end osalejaks ja hangi ligipääs häkatoni [töölauale](dash) ning [Slack'i kanalisse](https://trthack.slack.com/).
 ---
 faq_heading: Korduma kippuvad küsimused
 ---
@@ -190,7 +190,7 @@ faq_4: Nii, et ma peaks esitama oma projekti idee ja seda pitchima?
 ---
 faq_4_text:
 
-Tavaliselt esitab või pitchib oma projekti ideed umbkaudu kolmandik häkatoni osalejatest. Sa ei pea seda tegema, aga me julgustame seda kindlasti tegema, sest see aitab algatada arutelu häkatoni teemade ja projektide üle juba enne ürituse algust. Iga osaleja saab häkatoni avapaugul 31. märtsi õhtul 90 sekundit, et oma ideed tutvustada ja sul on kindlasti suurem võimalus oma idee ümber tiimi koostamiseks, kui oled idee enne häkatoni esitanud. Valime häkatonil välja 10 ametlikult teostamisele minevat projekti, mille juures annavad nõu mentorid ja mis kandideerivad auhindadele. Idee varasel esitamisel on ka see eelis, et nii saavad inimesed ideega tutvuda häkatoni töölaua vahendusel, seda kommenteerida ja täiendada, lisaks saad võtta osalejatega isiklikult ühendust ja oma tiimi moodustada juba enne häkatoni.
+Tavaliselt esitab või pitchib oma projekti ideed umbkaudu kolmandik häkatoni osalejatest. Sa ei pea seda tegema, aga me julgustame seda kindlasti tegema, sest see aitab algatada arutelu häkatoni teemade ja projektide üle juba enne ürituse algust. Iga osaleja saab häkatoni avapaugul 31. märtsi õhtul 90 sekundit, et oma ideed tutvustada ja sul on kindlasti suurem võimalus oma idee ümber tiimi koostamiseks, kui oled idee enne häkatoni esitanud. Valime häkatonil välja 10 ametlikult teostamisele minevat projekti, mille juures annavad nõu mentorid ja mis kandideerivad auhindadele. Idee varasel esitamisel on ka see eelis, et nii saavad inimesed ideega tutvuda [häkatoni töölaua](dash) vahendusel, seda kommenteerida ja täiendada, lisaks saad võtta osalejatega isiklikult ühendust ja oma tiimi moodustada juba enne häkatoni.
 
 ---
 faq_5: Kas 24h häkaton tähendab, et peab öö otsa üleval olema?
