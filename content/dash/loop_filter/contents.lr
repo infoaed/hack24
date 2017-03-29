@@ -1,0 +1,30 @@
+title: Information filtering with a feedback loop
+---
+pub_date: 2017-03-20
+---
+author: Indrek Klanberg
+---
+project_url: loop_filter
+---
+_model: dash-sub
+---
+body:
+
+Personally I think post-truth is a misleading terminology if you want to achieve a more reality aware society. I would describe the problem more as trust crisis, where large part of the population have been paralyzed in a way that they are unable to successfully trust any entities to gain information about geopolitical and local political situations. Main reasons being overflow of information, polarisation of media and politics where it's more about taking sides and less about discussion, and lack of tools for meaningful discussion.
+
+Most importantly, there isn't a competitve feedback loop for rationalistic thinking that could compete with the feedback loops in the media and internet that increase polarisation and enhanced emotions.
+
+I would like to find ways to make a platform that 
+A) Has an inherit feedback loop to move discussion to be more rational and objective.
+B) Enables people to have control to make successful trusts for information filtering.
+C) Has mechanism for meaningful, interesting and unique views to rise to the surface and not be suffocated by a ocean of monotonous shouting.
+
+Some ideas to achieve that
+A) Increasing variaty of feedback which could be easily processed by computer. Currently we only have like/dislike/subscribe/share and some emotes in facebook (emotes are useless in political discussion). Variaty could include interesting/question/statement witha logical flaw/feedback to a source/counter argument @ argument/solid argument/opinion/insult/trolling/expression of emotions (you can list them all).
+B) Since giving feedback about articles/content in general/comments can be subjective, wrong or intentionally disruptive, there has to be a mechanism where users can control who they trust, how much they trust, for what they trust.
+C) Based on the previous 2 functions computer can use feedback from other users to save time and effort of current user when going through all the information.
+D) From there on it is easy to create a lense feature, where you view all the feedback and filtering through someone elses trust-web. For example a content creator, journalist, activist, or a politician.
+
+Scenario 1, I have 4 friends I trust and we read the same media outlet, I wonder if one of the sources for an article at hand is legit, one of the comments has already been marked as feedback to that source by 1 of my friends, but he hasn't evaluated the quality of that feedback. I can now read through the feedback and check who else has confirmed or denied that feedback and the reasoning behind that. Just in case I check some of the reasoning and add a few strangers to my trust list but with a lower weight that my 4 friends, hoping that will prove useful in the long run. Finally confirm that feedback to the source since I went through all that trouble.
+
+Scenario 2, I am lazy and I haven't built a proper web of trust, but I switch my lenses back and fourth between 2 journalist who I know have a drastically different view on the world and hope to get a balanced, but still meaningful and filtered picture of the world.

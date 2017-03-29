@@ -1,0 +1,18 @@
+title: A proper public interface to consume media
+---
+pub_date: 2017-03-23
+---
+author: Peeter Tinits
+---
+project_url: a_proper_public_interface
+---
+_model: dash-sub
+---
+body:
+
+A proper public interface to consume media. A user-controlled access point to browse through the media articles at least somewhat back in time would allow to improve the memory of the "public" and keep main actors in focus. Particular readings could themselves be shareable on the web.
+
+For this we need:
+- access to media texts (web-scraping, agreements with media operators)
+- collate useful information within and about the articles (text processing, metadata collection, creative ideas on what to collect)
+- flexibly visualize and depict the results (a UI that is moderately customizable and can publish the results).

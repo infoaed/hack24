@@ -1,0 +1,13 @@
+title: Better visualisation of transportation routes
+---
+pub_date: 2017-03-16
+---
+author: toivo ellakvere
+---
+project_url: visualise_transportation
+---
+_model: dash-sub
+---
+body:
+
+*visualise transportation routes on maps maps better (Tallinn, Tartu, Helsinki etc)

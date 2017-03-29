@@ -14,12 +14,12 @@
     {% for post in this.pagination.items %}
         <li>
             <div class="panel kirje">
-                <div class="panel-heading" role="button" data-toggle="collapse" href="#collapseExample{{ post.title.replace(' ' , '_') }}" aria-expanded="false" aria-controls="collapseExample{{ post.title.replace(' ' , '_') }}">
+                <div class="panel-heading" role="button" data-toggle="collapse" href="#collapseExample{{ post.project_url }}" aria-expanded="false" aria-controls="collapseExample{{ post.project_url }}">
                     <h4 class="list-item">{{ post.title }}<span class="nimi">{{ post.author }}</span></h4>
                 </div>
-                <div class="collapse panel-body" id="collapseExample{{ post.title.replace(' ' , '_') }}">
+                <div class="collapse panel-body" id="collapseExample{{ post.project_url }}">
                     <div class="idea_body">{{ post.body }}</div>
-                    <a href="{{post|url}}">Read more...</a>
+                    <a href="{{post|url}}">Read more and discuss...</a>
                 </div>
             </div>
         </li>
@@ -27,7 +27,7 @@
         {% endfor %}
     </ul>
 
-    {% if this.pagination.pages > 30 %}
+    {% if this.pagination.pages > 1 %}
       {{ render_pagination(this.pagination) }}
     {% endif %}
       </div>
@@ -84,7 +84,7 @@
                     <input id="citizen_cb" type="checkbox" autocomplete="off">Outstanding citizen
                 </label>
             </div>
-                {% for nr in range(1, 25) %}
+                {% for nr in range(1, 46) %}
             <div class="panel kirje">
                 <div class="panel-heading" role="button" data-toggle="collapse" href="#collapseExample{{ this['participant_name_' + nr|string].replace(' ' , '_')  }}" aria-expanded="false" aria-controls="collapseExample1">
                     <h3 class="list-item">{{ this["participant_name_" + nr|string] }}
@@ -98,9 +98,10 @@
                     <h4>Public information</h4>
                     <p>{{ this["participant_public_contact_" + nr|string] }}</p>
 
-                    <h4>Project URL</h4>
-                    {{ this['participant_project_url_' + nr|string] }}
-
+                    {% if this['participant_project_url_' + nr|string] %}
+                        <h4>Project URL</h4>
+                        <a href="{{ this['participant_project_url_' + nr|string] }}">See project...</a>
+                    {% endif %}
 
                     <h5>About {{ this["participant_name_" + nr|string] }}</h5>
                     {{ this["participant_about_" + nr|string] }}
@@ -118,7 +119,7 @@
 <section id="resources">
     <div class="container">
         <div class="row">
-        <h2>Resources</h2>
+        <h2>Hackathon toolkit</h2>
         </div>
         <div class="row">
             {{ this.resources }}

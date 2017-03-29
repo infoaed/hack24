@@ -3,199 +3,539 @@ title: Hackathon dashboard
 _model: dash
 ---
 resources:
+
+### Data journalism
+
+* [List of examples/ideas](https://medium.com/@georgia_p/data-as-a-remedy-a5754a012429)
+* [DDJ links and tools](https://hackpad.com/DDJ-links-and-tools-trnDdHY9LeU)
+
+### Datasets related to Estonia (and Universe :))
+
+#### Estonia 
+
+* [national laws](www.riigiteataja.ee) (xml)
+* [company register](http://avaandmed.rik.ee/andmed/ARIREGISTER/) (csv, xml)
+* [water quality](https://opendata.riik.ee/en/dataset/vee-terviseohutuse-infos-steemi-avalikud-andmed) (xml)
+* [election results](https://opendata.riik.ee/et/dataset/valimiste-avaandmed) (html)
+* [various registries, including state construction registry](http://opendata.mkm.ee/) (csv)
+* [tallinn school addresses](https://info.haridus.ee/Asutused) (web)
+* [estonian education institutions](https://enda.ehis.ee/avalik/) (web)
+* [estonian state forest management center POIs](https://github.com/tambeta/rmkmapper) (API)
+* [election's archive](http://www.vvk.ee/arhiiv/) (web)
+* [various open data sources related to Tallinn ](http://avaandmed.tallinn.ee/) (collection)
+* [estonian museums data](http://opendata.muis.ee/) (API)
+* [climate change data](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data) (csv)
+* [real estate prices](https://pungas.ee/andmestikud/kv-ee-kinnisvarakuulutused/) (csv)
+* [paid taxes](http://www.emta.ee/et/kontaktid-ja-ametist/maksulaekumine-statistika/tasutud-maksud) (xls)
+* [foreign ministry open data](http://vm.ee/et/avaandmed) (xml)
+* [ministry of justice open data](http://www.rik.ee/et/avaandmed) (collection)
+* [estonian address data](http://xgis.maaamet.ee/adsavalik/ads?xBTN.newvalja) (csv)
+* [government sector activities financial data](http://riigiraha.fin.ee) (xls, csv)
+
+#### Other
+
+* [NASA Data Portal](https://data.nasa.gov/) (collection)
+* [UK Data Portal](https://data.gov.uk) (collection)
+* [NYC OpenData Portal](https://nycopendata.socrata.com) (collection)
+* [Stockholm Public Data](http://dataportalen.stockholm.se/dataportalen/) (collection)
+* [all of the Kaggle data](https://www.kaggle.com/datasets) (collection)
+* [the Socrata Open Data API](https://dev.socrata.com/) (API)
+* [awesome datasets](https://github.com/caesar0301/awesome-public-datasets) (collection)
+* [images of driving data](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5#.box143pn0) (png, metadata)
+* [datasets from #HACK4NORDEN – GLAM track](http://www.hack4heritage.se/sv/dataset/) (collection)
+
 ---
-participant_name_1: ANKIT GARG
+participant_name_1: Othmara Glas
 ---
-participant_about_1: Data analyst
+participant_about_1:
+
+I am a Master's student of EU-Russia Studies at UT. I hold a BA in Political Science and have been working for several years as freelance journalist for German media. 
 ---
-participant_tags_1: dev,datastat
+participant_tags_1: mediajourn,sociohum,datastat,marketing
 ---
-participant_public_contact_1: ANKIT.GARG2802@GMAIL.COM
+participant_public_contact_1: glas@ut.ee
 ---
-participant_name_2: Kadri Vare
+participant_project_url_1: data_awareness
 ---
-participant_about_2: 
+participant_name_2: ANKIT GARG
 ---
-participant_tags_2: sociohum
+participant_about_2:
+
+Data analyst
+---
+participant_tags_2: dev,datastat
+---
+participant_public_contact_2: ANKIT.GARG2802@GMAIL.COM
+---
+participant_name_3: Mare Ainsaar
+---
+participant_about_3:
+
+Social scientist. 1. Search truth
+2. Tell how to find it
+3. Do not accept post-truth
+---
+participant_tags_3: sociohum,datastat
+---
+participant_public_contact_3: mare.ainsaar@ut.ee
+---
+participant_name_4: Kadri Vare
+---
+participant_about_4:
+
+
+---
+participant_tags_4: sociohum
 ---
 kadri.vare@ut.ee
 ---
-participant_name_3: Karl-Sander Erss
+participant_name_5: Johannes Filter
 ---
-participant_about_3: 
+participant_about_5:
+
+Hey, I am a student of computer science and human-computer interaction from Berlin staying until summer in Estonia. I am an activist focusing on open data and civic tech. I have a broad skillset but by main focus are Frontend development and Data Visualization.
 ---
-participant_tags_3: dev,design
+participant_tags_5: mediajourn,dev,datastat,design
 ---
-participant_public_contact_3: karl.erss@gmail.com
+participant_public_contact_5: hi@jfilter.de
 ---
-participant_name_4: Indrek Klanberg
+participant_project_url_5: three_ideas
 ---
-participant_about_4: 
+participant_name_6: Nicola Vitucci
 ---
-participant_tags_4: dev,leadership,citizen
+participant_about_6:
+
+I have been working as a data scientist, data manager and backend developer for more than 4 years. I am passionate about extracting knowledge from raw data and about linking diverse information sources. I am curious about Estonian Open Data, so I will offer my experience as a data manager to extract, clean, transform, link and analyze data for any team with an interesting idea.
 ---
-participant_public_contact_4: indrkl@gmail.com
+participant_tags_6: dev,datastat,design
 ---
-participant_name_5: Julija Terjuhana
+participant_public_contact_6: Email: nicola.vitucci@gmail.com, LinkedIn profile: https://www.linkedin.com/in/nvitucci/ 
 ---
-participant_about_5: I am a student of study program Information Technology Law at the University of Tartu, practising lawyer and data protection officer at the law firm "Skopina & Azanda" in Riga, Latvia. My main fields of interest are media law, data protection and intellectual property. 
+participant_name_7: Aet Rebane
 ---
-participant_tags_5: sociohum
+participant_about_7:
+
+
 ---
-participant_public_contact_5: julija.terjuhana@gmail.com
+participant_tags_7: marketing
 ---
-participant_name_6: Adefisayo Akande
+aet@sprayprinter.com
 ---
-participant_about_6: 
+participant_name_8: Kristian Allikmaa
 ---
-participant_tags_6: dev,datastat,leadership
+participant_about_8:
+
+
+---
+participant_tags_8: dev,datastat,design
+---
+kristianallikmaa@gmail.com
+---
+participant_name_9: Karl-Sander Erss
+---
+participant_about_9:
+
+
+---
+participant_tags_9: dev,design
+---
+participant_public_contact_9: karl.erss@gmail.com
+---
+participant_project_url_9: news_monitor
+---
+participant_name_10: Indrek Klanberg
+---
+participant_about_10:
+
+
+---
+participant_tags_10: dev,leadership,citizen
+---
+participant_public_contact_10: indrkl@gmail.com
+---
+participant_project_url_10: loop_filter
+---
+participant_name_11: Julija Terjuhana
+---
+participant_about_11:
+
+I am a student of study program Information Technology Law at the University of Tartu, practising lawyer and data protection officer at the law firm "Skopina & Azanda" in Riga, Latvia. My main fields of interest are media law, data protection and intellectual property. We can raise awareness in the society and among professional journalists, learn to distinct truth from post-truth ourselves and teach others.
+---
+participant_tags_11: sociohum
+---
+participant_public_contact_11: julija.terjuhana@gmail.com
+---
+participant_name_12: Adefisayo Akande
+---
+participant_about_12:
+
+I would like to join a team on proffering a suitable solution to a known problem area. The world needs more clarity to make more specific judgement. My skill set in Project management and Data Analytics would be of great benefit to any team I would be joining
+---
+participant_tags_12: dev,datastat,leadership
 ---
 fisayoakande@gmail.com
 ---
-participant_name_7: Liina Pulges
+participant_name_13: Liina Pulges
 ---
-participant_about_7: I am a journalist interested in post truth issues.
+participant_about_13:
+
+I am a journalist interested in post truth issues.
 ---
-participant_tags_7: mediajourn,marketing
+participant_tags_13: mediajourn,marketing
 ---
-participant_public_contact_7: liina@pulges.com
+participant_public_contact_13: liina@pulges.com
 ---
-participant_name_8: Johannes Jürjo
+participant_name_14: Allan Rajavee
 ---
-participant_about_8: 
+participant_about_14:
+
+Team ERR Multimeedia
 ---
-participant_tags_8: sociohum,dev,citizen
+participant_tags_14: mediajourn
 ---
-participant_public_contact_8: https://www.facebook.com/johannesjyrjo
+participant_public_contact_14: Tel: 556 43 657
 ---
-participant_name_9: Peeter Tinits
+participant_name_15: Johannes Jürjo
 ---
-participant_about_9: digital humanities, texts and culture in time
+participant_about_15:
+
+
 ---
-participant_tags_9: sociohum,dev,datastat
+participant_tags_15: sociohum,dev,citizen
 ---
-participant_public_contact_9: peeter.tinits@gmail.com
+participant_public_contact_15: https://www.facebook.com/johannesjyrjo
 ---
-participant_name_10: Marek Muiste
+participant_project_url_15: yourbubble
 ---
-participant_about_10: I dream about the good energy, cities, products and people
+participant_name_16: Jean-Philippe Dumont
 ---
-participant_tags_10: citizen
+participant_about_16:
+
+I am a Brainstormer and a Business Process Specialist. I also a very good devil's advocate. I believe a lot in data transparency. I have a Consumer Behavior Sciences Bachelor’s degree from Université Laval.
+
+I worked in a Business Process Outsourcing company in Łódź, Poland, in an account payable team. I help to smooth the transition of the department from Canada to Poland. It is where I grew my passion for business processes.
+
+I also worked in Canada in Continuous Improvement. I also had the role of Business Analyst for SharePoint and Dynamics CRM. 
 ---
-participant_public_contact_10: marek.muiste@trea.ee
+participant_tags_16: sociohum,leadership,citizen
 ---
-participant_name_11: Margo Saaremets
+participant_public_contact_16: www.jpdumont.com
 ---
-participant_about_11: Academic background in humanities and social sciences. Currently working in a software company. Interested in digital humanities and media. 
+participant_name_17: Peeter Tinits
 ---
-participant_tags_11: mediajourn,sociohum,leadership,marketing
+participant_about_17:
+
+digital humanities, texts and culture in time
 ---
-participant_public_contact_11: margo.saaremets@protonmail.com
+participant_tags_17: sociohum,dev,datastat
 ---
-participant_name_12: Muhammad Uzair
+participant_public_contact_17: peeter.tinits@gmail.com
 ---
-participant_about_12: 
+participant_project_url_17: a_proper_public_interface
 ---
-participant_tags_12: dev
+participant_name_18: Urmas Heinaste
 ---
-participant_public_contact_12: +372 5673 4951
+participant_about_18:
+
+STEM Teacher
 ---
-participant_name_13: Mari Krusten
+participant_tags_18: sociohum,citizen
 ---
-participant_about_13: 
+participant_public_contact_18: UrmasH:)
 ---
-participant_tags_13: mediajourn,sociohum,leadership,marketing
+participant_project_url_18: truthbot
 ---
-participant_public_contact_13: marikrusten@gmail.com
+participant_name_19: Marek Muiste
 ---
-participant_name_14: Annett Saarik
----
-participant_about_14: 
----
-participant_tags_14: citizen
----
-annett.saarik@gmail.com
----
-participant_name_15: Patrick Keenan
----
-participant_about_15: I am a first year master's in philosophy student at University of Tartu.
----
-participant_tags_15: citizen
----
-participant_public_contact_15: patrickjosephkeenan@gmail.com
----
-participant_name_16: toivo ellakvere
----
-participant_about_16: Linkedin
----
-participant_tags_16: datastat,design,leadership,marketing
----
-participant_public_contact_16: toivo.ellakvere@gmail.com
----
-participant_name_17: Solomiya Branets
----
-participant_about_17: Quantitative economics master's student who thinks that appropriate data analyzed in a proper way can solve real-world problems.
----
-participant_tags_17: datastat
----
-participant_public_contact_17: https://www.facebook.com/profile.php?id=100001816234626
----
-participant_name_18: Maksym Sukhorukov
----
-participant_about_18: I am so cool you can't even imagine
----
-participant_tags_18: dev,datastat,design
----
-participant_public_contact_18: https://www.facebook.com/makskant
----
-participant_name_19: raul kern
----
-participant_about_19: have been dealing with facts/data from Wikipedia/Wikidata side
+participant_about_19:
+
+I dream about the good energy, cities, products and people
 ---
 participant_tags_19: citizen
 ---
-participant_public_contact_19: raunator@gmail.com
+participant_public_contact_19: marek.muiste@trea.ee
 ---
-participant_name_20: Roberto Vera
+participant_project_url_19: intelligent_labels
 ---
-participant_about_20: Philosophy MA student, interested and political philosophy.
+participant_name_20: Merit Maarits
 ---
-participant_tags_20: sociohum
+participant_about_20:
+
+Journalist with main interests in the fields of science, society and politics.
+---
+participant_tags_20: mediajourn,sociohum,design
+---
+participant_public_contact_20: merit.maarits@err.ee
+---
+participant_project_url_20: i_want_to_learn_how_to_mak
+---
+participant_name_21: Margo Saaremets
+---
+participant_about_21:
+
+Academic background in humanities and social sciences. Currently working in a software company. Interested in digital humanities and media. 
+---
+participant_tags_21: mediajourn,sociohum,leadership,marketing
+---
+participant_public_contact_21: margo.saaremets@protonmail.com
+---
+participant_project_url_21: big_picture
+---
+participant_name_22: Muhammad Uzair
+---
+participant_about_22:
+
+
+---
+participant_tags_22: dev
+---
+participant_public_contact_22: +372 5673 4951
+---
+participant_name_23: Maris Sander
+---
+participant_about_23:
+
+
+---
+participant_tags_23: mediajourn,sociohum,datastat
+---
+participant_public_contact_23: marissander@gmail.com
+---
+participant_name_24: Merily Salura
+---
+participant_about_24:
+
+I'm a philosophy MA student who is eager to discuss, especially issues related to language, power, and public sphere. My academic specialization is political violence and morality, which will hopefully allow me to contribute to debates on post-truth from an interesting perspective, as totalitarian regimes of the 20th century have already given us an example of what it means to live in a society where people are attracted to lies and the public sphere becomes dominated by propaganda.  
+---
+participant_tags_24: sociohum
+---
+participant_public_contact_24: Let's discuss things! E-mail: merily.salura@gmail.com
+---
+participant_project_url_24: fast_fact_check
+---
+participant_name_25: Mari Krusten
+---
+participant_about_25:
+
+
+---
+participant_tags_25: mediajourn,sociohum,leadership,marketing
+---
+participant_public_contact_25: marikrusten@gmail.com
+---
+participant_name_26: Annett Saarik
+---
+participant_about_26:
+
+Hoping to brainstorm ideas how to make source search easy and trustworthy.
+---
+participant_tags_26: citizen
+---
+annett.saarik@gmail.com
+---
+participant_name_27: Patrick Keenan
+---
+participant_about_27:
+
+I am a first year master's in philosophy student at University of Tartu.
+---
+participant_tags_27: citizen
+---
+participant_public_contact_27: patrickjosephkeenan@gmail.com
+---
+participant_project_url_27: intelligent_aggregator
+---
+participant_name_28: Wei Wei Heng
+---
+participant_about_28:
+
+I have no specific idea yet, but I would love to join and discover more possibilities!
+---
+participant_tags_28: dev,leadership
+---
+participant_public_contact_28: vivihengww@gmail.com
+---
+participant_name_29: Riin Aljas
+---
+participant_about_29:
+
+
+---
+participant_tags_29: mediajourn,sociohum
+---
+riin.aljas@postimees.ee
+---
+participant_name_30: Greete Palmiste
+---
+participant_about_30:
+
+I'm an online-journalist, who for the last year or so has concentrated on multimedia stories. I believe that there is lack of coherent information and that we could easily change that. One way to do that is to give journalists better tools and know-hot to tell stories that cover more than one event and explains the bigger picture. In and information-overwhelmed world, we need more in-depth storytelling and explanatory stories. And, of course, thinking in categories and mediums that is closest to our audience. 
+---
+participant_tags_30: mediajourn
+---
+participant_public_contact_30: Greete Palmiste, journalist, greete.palmiste@err.ee
+---
+participant_project_url_30: way_around_information_overflow
+---
+participant_name_31: Dominique Unruh
+---
+participant_about_31:
+
+I'm a professor for security/cryptology (theoretical computer science) at the University of Tartu.
+I am also interested in (and concerned about) the mechanisms with which society manages to perpetuate nonsensical beliefs and harmful choices, both with traditional means, and by using and blindly trusting technology (especially IT and big data). I do not have a project idea, but I hope to find other people with an inspiring idea.
+---
+participant_tags_31: dev,citizen
+---
+participant_public_contact_31: unruh@ut.ee
+---
+participant_name_32: toivo ellakvere
+---
+participant_about_32:
+
+Linkedin
+---
+participant_tags_32: datastat,design,leadership,marketing
+---
+participant_public_contact_32: toivo.ellakvere@gmail.com
+---
+participant_project_url_32: visualise_transportation
+---
+participant_name_33: Solomiya Branets
+---
+participant_about_33:
+
+Quantitative economics master's student who thinks that appropriate data analyzed in a proper way can solve real-world problems. I can work with data in order to distinguish junk information, using maths and machine learning create natural language processing models and do all sort of different magic. I can do descriptive statistics and visualization, frequent itemsets mining and build a model depending on the data type. Why? In order to find interesting causalities and rules, which will help to think up a solution for a certain problem.
+---
+participant_tags_33: datastat
+---
+participant_public_contact_33: https://www.facebook.com/profile.php?id=100001816234626
+---
+participant_name_34: Maksym Sukhorukov
+---
+participant_about_34:
+
+I am so cool you can't even imagine
+---
+participant_tags_34: dev,datastat,design
+---
+participant_public_contact_34: https://www.facebook.com/makskant
+---
+participant_name_35: raul kern
+---
+participant_about_35:
+
+have been dealing with facts/data from Wikipedia/Wikidata side
+---
+participant_tags_35: citizen
+---
+participant_public_contact_35: raunator@gmail.com
+---
+participant_name_36: Roberto Vera
+---
+participant_about_36:
+
+Philosophy MA student, interested and political philosophy. My plan is to contribute to the cause against post-truth and post-facts with philosophical arguments. To find practical uses of philosophical theory that can help deter the growing popularization of false facts, and through teamwork, try to set of ways to identify them.
+---
+participant_tags_36: sociohum
 ---
 veraluisroberto@gmail.com
 ---
-participant_name_21: Pablo Veyrat
+participant_name_37: Pablo Veyrat
 ---
-participant_about_21: Journalist focused on Russia for the last 10 years. As such, I saw and confronted the first wave of weaponized information that would eventually bring about the now nascent era of post-truth.
+participant_about_37:
+
+Journalist focused on Russia for the last 10 years. As such, I saw and confronted the first wave of weaponized information that would eventually bring about the now nascent era of post-truth.
 That eventually led me to enroll in Tartu and study philosophy, which is what I'm currently doing.
 ---
-participant_tags_21: mediajourn,sociohum,citizen
+participant_tags_37: mediajourn,sociohum,citizen
 ---
-participant_public_contact_21: pablo.veyrat@gmail.com
+participant_public_contact_37: pablo.veyrat@gmail.com
 ---
-participant_name_22: Kristiina Soe
+participant_project_url_37: better_journalism_tools
 ---
-participant_about_22: 
+participant_name_38: Kristiina Soe
 ---
-participant_tags_22: sociohum,datastat
+participant_about_38:
+
+
+---
+participant_tags_38: sociohum,datastat
 ---
 kristiina.soe@gmail.com
 ---
-participant_name_23: Olesia Kucheryk
+participant_project_url_38: high_quality_database
 ---
-participant_about_23:  I found interesting working with data, so myself I passed two online courses that are related to data analysis in R. In the university I developed my knowledge as here we obligatory study Scientific Python and R programming that gives me opportunity to study in deeper. 1,5 years I was a part of huge student organization and was leading a brand new project at the moment that was quite successful. I have teamleading, teambuilding and "just come down and work" skills.
+participant_name_39: Marina
 ---
-participant_tags_23: datastat,leadership,marketing
+participant_about_39:
+
+
 ---
-participant_public_contact_23: +37256737368
+participant_tags_39: dev,citizen
 ---
-participant_name_24: Ervin Oro
+participant_public_contact_39: 37256798654
 ---
-participant_about_24: Computer science student, programming hobbyist, rather frustrated with the state of news media.
+participant_name_40: Maria Angelica Medina Angarita
 ---
-participant_tags_24: dev,citizen
+participant_about_40:
+
+Im a 25 year old colombian who has lived in Tartu for the past three years. Im passionate about UI and how it is affected by lies and truth on the internet. Im eager to discuss it.
 ---
-participant_public_contact_24: ervinoro@ut.ee
+participant_tags_40: design
+---
+participant_public_contact_40: maria.medina.aiesec@gmail.com
+---
+participant_name_41: Samantha Herrerias Duran 
+---
+participant_about_41:
+
+I'm a second-year master student in Semiotics. My thesis topic it is related to the role of Media in shaping Cultural Memory. Before coming to Tartu I worked as a 'trend-hunter' in Mexico City. That is, for a consulting agency specialized in consumer trends and innovation. We worked with consumer data to create strategies focused on communication and innovation. 
+---
+participant_tags_41: mediajourn,sociohum,marketing
+---
+participant_public_contact_41: sam.herreriasd@gmail.com
+---
+participant_project_url_41: secret_ingredient
+---
+participant_name_42: Olesia Kucheryk
+---
+participant_about_42:
+
+ I found interesting working with data, so myself I passed two online courses that are related to data analysis in R. In the university I developed my knowledge as here we obligatory study Scientific Python and R programming that gives me opportunity to study in deeper. 1,5 years I was a part of huge student organization and was leading a brand new project at the moment that was quite successful. I have teamleading, teambuilding and "just come down and work" skills. I don't have my own idea but it would be great helping somebody develop his or hers. I do want to work with data, build market models, analyse data, make market research or just manage it.
+---
+participant_tags_42: datastat,leadership,marketing
+---
+participant_public_contact_42: +37256737368
+---
+participant_name_43: Kuido Külm
+---
+participant_about_43:
+
+Olen kuulanud palju Andmeanalüüsiga seotud Coursera loenguid. Teinud R keeles erinevaid kursusi andmete kogumiseks ja analüüsimiseks. Soovin saada kokku inimestega, kes tegelevad andmeanalüüsi iga päev ja saada neil nõuandeid ning kogemusi, kuidas neid praktilises igapäevatöös kasutada
+---
+participant_tags_43: dev,datastat
+---
+participant_public_contact_43: kuido@koodikaru.ee
+---
+participant_name_44: Rostislav Roznoshchik
+---
+participant_about_44:
+
+I am a design researcher deeply curious about how and why people do the things they do. I want to create a more open, entrepreneurial and sustainable world. I want to offer my experiences and skills to someone elses intriguing challenge. I also think that this will be an amazing learning experience and I want to see what and how people in the Baltics are thinking about these complex chalenges.
+---
+participant_tags_44: sociohum,design,leadership,marketing,citizen
+---
+participant_public_contact_44: roznoshchik@gmail.com
+---
+participant_name_45: Ervin Oro
+---
+participant_about_45:
+
+Computer science student, programming hobbyist, rather frustrated with the state of news media.
+---
+participant_tags_45: dev,citizen
+---
+participant_public_contact_45: ervinoro@ut.ee
 ---
 mentor_pic_1: /images/Ventsel.JPG
 ---

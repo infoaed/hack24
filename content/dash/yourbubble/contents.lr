@@ -1,0 +1,19 @@
+title: Someone else's filter bubble
+---
+pub_date: 2017-03-22
+---
+author: Johannes Jürjo
+---
+project_url: yourbubble
+---
+_model: dash-sub
+---
+body:
+
+I've been thinking about the creation of an add-on that would allow one to use Google through someone else's filter bubble.
+- There tools one can use to make their searches less biased (https://en.wikipedia.org/wiki/Filter_bubble#Counter_Measures) but I couldn't find a tool that would attempt the opposite - to view the web in its filtered form as it appears for someone with radically different views and filters.
+
+An idea for the datastory/data visualization track:
+- To demonstrate/visualize correlations between income inequality and crime. (provided that a correlation exists)
+Ideally through an interface similar to gapminder, but on a map of Europe with colors indicating income inequality and/or crime rates and a slider for time, taking into account population density and similar factors.
+This tool might also be used to demonstrate a lack of correlation between immigration and crime.

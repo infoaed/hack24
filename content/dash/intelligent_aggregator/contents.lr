@@ -1,0 +1,30 @@
+title: Intelligent news aggregator crowdsourcing the truth
+---
+pub_date: 2017-03-21
+---
+author: Patrick Keenan
+---
+project_url: intelligent_aggregator
+---
+_model: dash-sub
+---
+body:
+
+People care about genuine truth and solving problems. I'm picturing a news aggregator app which does these things 
+
+1. Articles have a rating system:
+(a) AI rates the truth of arguments in the articles based on their logical structure and then,
+(b) AI qualifies factual statements when it can
+
+2. User comment threads are ESSENTIAL to the community:
+(a) Users who comment can build profiles based on the quality of their responses AND their responses are like 1 - checked and rated based on quality of reply in terms of logical structure and factual statements are qualified.
+(b) Users would "learn" over time how to formulate replies to news in logically sound ways and therefore their statements would up their profile. This would "verify" them. Comments can be upvoted like reddit.
+
+1&2 work together. The rating system evolves as more and more people comment. If users who have themselves high rating generally approve the story this adds another dimension to the story. There will be aspects of the human experience that AI can never quantify effectively. Users who contribute in this way expand the metric for how truth is calculated.
+
+3. This aggregator can be a plug-in running on any browser which can verify the content of any news article. The site itself features the most successful stories in terms of the variety of ways in which the story functions as a vehicle for truth. The AI itself can be open-source so that it can continually made better. 
+
+My thinking for this is generally like IMDB rating-system for movies. There is a huge incentive for news organizations to contribute to the growth of this as it further validates their own stories the higher a rating each piece can get. I could see BBC or CNN highlighting the aggregator's rating next to the title of their story. Any story without the rating might eventually be considered suspect.
+
+4. There could also be a second opinion feature. Unlike most news algorithms which drives the reader to continually read and re-read the same opinion, a second opinion feature could present similar stories in which the perspective is different. This would be an algorithm that functions to burst the bubble, so to speak.
+

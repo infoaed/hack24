@@ -1,0 +1,13 @@
+title: Truthbot to comment on fake news with arguments/references
+---
+pub_date: 2017-03-25
+---
+author: Urmas Heinaste
+---
+project_url: truthbot
+---
+_model: dash-sub
+---
+body:
+
+Truthbot, skanning any fake news publised and comment it with arguments and references. Fact check bot skanning for sources news publised and evaluating them. Truthpedia - database of controlled facts with estimated probability value. 
