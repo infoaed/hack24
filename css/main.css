@@ -1182,16 +1182,6 @@ html {
 .dash_expand {
   height: 100%; }
 
-.closed {
-  display: none;
-  height: 0; }
-
-.mentor_image img {
-  width: 100%; }
-
-.mentor_name {
-  text-align: center; }
-
 #dash_sub {
   color: white;
   background: #b04ce5; }
@@ -1224,6 +1214,7 @@ html {
   color: white; }
 
 .kirje {
+  font-family: "Noto Sans",sans-serif !important;
   margin-bottom: 0;
   border-bottom: 1px solid #ccc;
   position: relative; }
@@ -1263,13 +1254,36 @@ html {
   float: right;
   display: none; }
 
+.repo_link a {
+  color: white !important; }
+
 #resources {
   background: #48C0AC;
-  padding: 50px 0; }
+  padding: 50px 0;
+  color: white; }
+  #resources a {
+    color: white; }
 
 #mentors {
   padding: 50px 0;
   background: #b04ce5; }
+
+.mentor_inner {
+  padding-left: 0; }
+
+.closed {
+  display: none;
+  height: 0; }
+
+.mentor_image img {
+  width: 100%; }
+
+.mentor_name {
+  text-align: center; }
+
+.mentor_name a {
+  color: white;
+  text-decoration: none; }
 
 #lektor-edit-link {
   display: none; }
