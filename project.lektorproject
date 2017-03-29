@@ -16,5 +16,10 @@ name = Estonian
 url_prefix = /et/
 locale = et
 
+[alternatives.ru]
+name = Russian
+url_prefix = /ru/
+locale = ru
+
 [packages]
 lektor-disqus-comments = 0.2

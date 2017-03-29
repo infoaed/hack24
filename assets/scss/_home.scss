@@ -660,10 +660,20 @@
             font-size: 0.9em;
             padding-bottom: 11.5em;
 
-            @media (min-width: $large-screen) {
-              float: left;
-              width: 33%;
+            @media(max-width:1050px){
+              width: 50%
             }
+            @media(max-width:710px){
+              width: 100%;
+            }
+            @media(max-width:450px){
+              padding:0;
+              img{
+                max-width:250px;
+              }
+            }
+
+
             
             img {
               height: 5em;

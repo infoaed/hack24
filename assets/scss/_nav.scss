@@ -4,7 +4,7 @@
   text-align: right;
   min-height: 62px;
 
-  @media (min-width: $medium-screen) {
+  @media (min-width: $menu-max) {
     min-height: 98px;
   }
 
@@ -17,7 +17,7 @@
     @include container;
     padding: $base-spacing*0.75 0;
 
-    @media (min-width: $medium-screen) {
+    @media (min-width: $menu-max) {
       padding: $base-spacing $gutter;
     }
 
@@ -26,7 +26,7 @@
       margin-right: $gutter;
       position: relative;
 
-      @media (min-width: $medium-screen) {
+      @media (min-width: $menu-max) {
         margin: 0;
         display: table;
         width: 100%;
@@ -40,7 +40,7 @@
     float: left;
     line-height: 1;
 
-    @media (min-width: $medium-screen) {
+    @media (min-width: $menu-max) {
       width: 300px;
     }
   }
@@ -55,7 +55,7 @@
       display: block;
     }
 
-    @media (min-width: $medium-screen) {
+    @media (min-width: $menu-max) {
       display: table-cell;
       margin-right: 4.5em;
       vertical-align: middle;
@@ -65,7 +65,7 @@
       display: block;
       text-align: center;
 
-      @media (min-width: $medium-screen) {
+      @media (min-width: $menu-max) {
         display: inline-block;
         padding-left: $gutter;
       }
@@ -118,7 +118,7 @@
       }
   	}
 
-    @media (min-width: $medium-screen) {
+    @media (min-width: $menu-max) {
       display: none;
     }
   }
@@ -126,7 +126,7 @@
   .language {
     display: none;
 
-    @media (min-width: $medium-screen) {
+    @media (min-width: $menu-max) {
       display: table-cell;
       vertical-align: middle;
       float: none;
