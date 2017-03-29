@@ -115,7 +115,7 @@ html {
   color: #fff;
   text-align: right;
   min-height: 62px; }
-  @media (min-width: 600px) {
+  @media (min-width: 1150px) {
     .main-nav {
       min-height: 98px; } }
   .main-nav a {
@@ -126,14 +126,14 @@ html {
     margin-left: auto;
     margin-right: auto;
     padding: 0.225em 0; }
-    @media (min-width: 600px) {
+    @media (min-width: 1150px) {
       .main-nav > div {
         padding: 0.3em 30px; } }
     .main-nav > div > div {
       margin-left: 30px;
       margin-right: 30px;
       position: relative; }
-      @media (min-width: 600px) {
+      @media (min-width: 1150px) {
         .main-nav > div > div {
           margin: 0;
           display: table;
@@ -143,7 +143,7 @@ html {
     width: 300px;
     float: left;
     line-height: 1; }
-    @media (min-width: 600px) {
+    @media (min-width: 1150px) {
       .main-nav .logo {
         width: 300px; } }
   .main-nav .menu {
@@ -156,7 +156,7 @@ html {
       display: table; }
     .main-nav .menu:target {
       display: block; }
-    @media (min-width: 600px) {
+    @media (min-width: 1150px) {
       .main-nav .menu {
         display: table-cell;
         margin-right: 4.5em;
@@ -164,7 +164,7 @@ html {
     .main-nav .menu li {
       display: block;
       text-align: center; }
-      @media (min-width: 600px) {
+      @media (min-width: 1150px) {
         .main-nav .menu li {
           display: inline-block;
           padding-left: 30px; } }
@@ -199,12 +199,12 @@ html {
       .main-nav .slicknav_menu .slicknav_nav a {
         padding-top: 0.2em;
         padding-bottom: 0.2em; }
-    @media (min-width: 600px) {
+    @media (min-width: 1150px) {
       .main-nav .slicknav_menu {
         display: none; } }
   .main-nav .language {
     display: none; }
-    @media (min-width: 600px) {
+    @media (min-width: 1150px) {
       .main-nav .language {
         display: table-cell;
         vertical-align: middle;
@@ -1071,10 +1071,17 @@ html {
           box-sizing: border-box;
           font-size: 0.9em;
           padding-bottom: 11.5em; }
-          @media (min-width: 900px) {
+          @media (max-width: 1050px) {
             .home > section#partners > div ul li {
-              float: left;
-              width: 33%; } }
+              width: 50%; } }
+          @media (max-width: 710px) {
+            .home > section#partners > div ul li {
+              width: 100%; } }
+          @media (max-width: 450px) {
+            .home > section#partners > div ul li {
+              padding: 0; }
+              .home > section#partners > div ul li img {
+                max-width: 250px; } }
           .home > section#partners > div ul li img {
             height: 5em;
             vertical-align: middle;
@@ -1269,7 +1276,8 @@ html {
   background: #b04ce5; }
 
 .mentor_inner {
-  padding-left: 0; }
+  padding-left: 0;
+  font-family: "Noto Sans",sans-serif; }
 
 .closed {
   display: none;
