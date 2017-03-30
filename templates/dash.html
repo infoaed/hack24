@@ -131,19 +131,19 @@
         <div class="row">
         <h2>Mentors</h2>
         </div>
-            <div class="col-md-12 row">
-                {% for nr in range(1, 2) %}
-                <div class="col-md-3 mentor_inner">
+            <div class="row row-eq-height">
+                {% for nr in range(1, 10) %}
+                <div id = "{{ this['mentor_name_' + nr|string] }}" class="col-md-3 mentor_inner">
                     <div class="mentor_image">
                     <img src="{{ this['mentor_pic_' + nr|string] }}" alt=""/>
                     </div>
                     <div class="mentor_name dash_click" data-value="{{ this['mentor_name_' + nr|string].replace(' ' , '_')  }}">
-                        <a href="#mentors"><h3>{{ this["mentor_name_" + nr|string] }}</h3></a>
-                    </div>
+                        <a><h3>{{ this["mentor_name_" + nr|string] }}</h3></a>
+
                         <div class="closed" id="{{ this['mentor_name_' + nr|string].replace(' ' , '_')  }}">
                             {{ this['mentor_description_' + nr|string] }}
                         </div>
-                    </li>
+                    </div>
                 </div>
                     {% endfor %}
 

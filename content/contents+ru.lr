@@ -2,7 +2,7 @@ language: ru
 ---
 next_date: 2017-03-31
 ---
-title: Данных как панацея в эпоху пост-правды — 24-часовой хакатон в Тарту, Эстония 31.03‒1.04
+title: Данные как панацея в эпоху пост-правды — 24-часовой хакатон в Тарту, Эстония 31.03‒1.04
 ---
 description:
 
@@ -292,6 +292,10 @@ partner_3_body: [Creative Estonia](http://www.looveesti.ee/en/)
 partner_4_head: ![Semiosalong](/images/semiosalong.png)
 ---
 partner_4_body: [Semiosalong](http://semiosalong.blogspot.com.ee/)
+---
+partner_5_head: ![Geenius.ee](/images/geenius.png)
+---
+partner_5_body: [Geenius.ee](http://www.geenius.ee/)
 ---
 partners_sponsors_heading: При поддержке
 ---
