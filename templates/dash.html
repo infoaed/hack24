@@ -138,10 +138,10 @@
                     <div class="mentor_image">
                     <img src="{{ this['mentor_pic_' + nr|string] }}" alt=""/>
                     </div>
-                    <div class="mentor_name dash_click" data-value="{{ this['mentor_name_' + nr|string].replace(' ' , '_')  }}">
-                        <a><h3>{{ this["mentor_name_" + nr|string] }}</h3></a>
+                    <div class="mentor_name" data-value="{{ this['mentor_name_' + nr|string].replace(' ' , '_')  }}">
+                        <h3>{{ this["mentor_name_" + nr|string] }}</h3>
 
-                        <div class="closed" id="{{ this['mentor_name_' + nr|string].replace(' ' , '_')  }}">
+                        <div class="" id="{{ this['mentor_name_' + nr|string].replace(' ' , '_')  }}">
                             {{ this['mentor_description_' + nr|string] }}
                         </div>
                     </div>
