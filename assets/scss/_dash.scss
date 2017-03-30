@@ -1,4 +1,7 @@
 
+body{
+  font-family:"Noto Sans",sans-serif !important;
+}
 .quad{
   -webkit-transition: all 500ms cubic-bezier(0.250, 0.460, 0.450, 0.940);
   -moz-transition: all 500ms cubic-bezier(0.250, 0.460, 0.450, 0.940);
@@ -153,10 +156,17 @@ color:white;
 }
 
 .mentor_name{
+  cursor:pointer;
   text-align:center;
+}
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+  flex-wrap:wrap;
 }
 .mentor_name a{
   color:white;
   text-decoration:none;
-
 }
