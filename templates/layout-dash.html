@@ -1,0 +1,67 @@
+{% if this.language %}
+{% set current_language = this.language %}
+{% else %}
+{% set current_language = "en" %}
+{% endif %}
+<!doctype html>
+<meta charset="utf-8">
+<title>{% block title %}{{ this.title }}{% endblock %}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:type"            content="website" /> 
+<meta property="og:url"             content="http://hack24.ut.ee/dash" /> 
+<meta property="og:title"           content="{{ self.title() }}" /> 
+<meta property="og:description"     content="{% block description %}{{ this.description }}{% endblock %}" />
+<meta property="og:image"           content="http://hack24.ut.ee/images/mentor-faces.jpg" /> 
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/css/style.css'|url }}">
+<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<body class="{{ this._model }}">
+
+  {% block body %}{% endblock %}
+
+  <footer class="site-footer">
+    <div>
+      <span>
+        {{ bag('global-content', this.alt).footer | markdown }}
+      </span>
+
+    </div>
+  </footer>
+  {% include 'includes/icons.svg' %}
+
+  <script src="{{ '/js/plugins.js'|url }}"></script>
+  <script src="{{ '/js/main.js'|url }}"></script>
+
+  <script type="text/javascript">
+    function toggleDiv(divId) {
+      console.log("tog");
+       $("#"+divId).slideToggle("slow");
+    }
+  </script>
+
+  <script type="text/javascript">
+    // menus used on small screens
+    $(function(){
+      $('#nav').slicknav({
+        'prependTo': '.main-nav > div > div',
+        'label' : '{{ bag('global-content', this.alt).menu_label }}'
+      });
+    });
+    $(function(){
+      $('#lang').slicknav({
+        'prependTo': '.main-nav > div > div',
+        'label' : '{{ current_language |replace("_", " ") }}',
+      });
+    });
+
+    // analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-93980841-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>

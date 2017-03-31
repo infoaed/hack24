@@ -1,0 +1,13 @@
+title: Localised election data visualisation
+---
+pub_date: 2017-03-30
+---
+author: Priit
+---
+project_url: visualise_elections
+---
+_model: dash-sub
+---
+body:
+
+Collect election data and vizualise it based on location. 
